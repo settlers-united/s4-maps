@@ -970,9 +970,9 @@
   {
     "mapname": "T01-TheWoodsUnitTesterV4",
     "mapfolder": "User",
-    "mapgroup": "TRAIN MAP PACK (by ramseslein & sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-TheWoodsUnitTesterV4.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-TheWoodsUnitTesterV4.png",
+    "mapgroup": "Multiplayer Map: TRAIN MAP PACK (by ramseslein & sl4ng3r)",
+    "map_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/T01-TheWoodsUnitTesterV3.map",
+    "preview_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/Previews/T01-TheWoodsUnitTesterV3.png",
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
@@ -988,6 +988,28 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6
+  },
+  {
+    "mapname": "T01-Unit-Tester-Metzel",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Map: TRAIN MAP PACK (by ramseslein & sl4ng3r)",
+    "map_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/T01-Unit-Tester-Metzel.map",
+    "preview_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/Previews/T01-Unit-Tester-Metzel.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "T01-Unit-Tester",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Map: TRAIN MAP PACK (by ramseslein & sl4ng3r)",
+    "map_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/T01-Unit-Tester.map",
+    "preview_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/Previews/T01-Unit-Tester.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
   },
   {
     "mapname": "TM2020-00-GROUP",
