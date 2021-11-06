@@ -2717,11 +2717,11 @@
     "maxPlayers": 2
   },
   {
-    "mapname": "M02-MosMiniMetzelfuerschwäbisch-sparsameHäuslebauer",
+    "mapname": "M02-MosMiniMetzelfuerschwaebisch-sparsameHaeuslebauer",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-MosMiniMetzelfuerschwäbisch-sparsameHäuslebauer.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-MosMiniMetzelfuerschwäbisch-sparsameHäuslebauer.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-MosMiniMetzelfuerschwaebisch-sparsameHaeuslebauer.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-MosMiniMetzelfuerschwaebisch-sparsameHaeuslebauer.png",
     "mapSize": 256,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
