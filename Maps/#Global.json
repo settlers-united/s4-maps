@@ -902,17 +902,6 @@
     "maxPlayers": 8
   },
   {
-    "mapname": "C01-DefeatTheWaves_1_8_0",
-    "mapfolder": "User",
-    "mapgroup": "DEFEAT MAP PACK (by sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/C01-DefeatTheWaves_1_8_0.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/C01-DefeatTheWaves_1_8_0.png",
-    "mapSize": 896,
-    "defaultGoods": 2,
-    "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
-  },
-  {
     "mapname": "C01-DefeatTheWaves_1_8_1",
     "mapfolder": "User",
     "mapgroup": "DEFEAT MAP PACK (by sl4ng3r)",
@@ -1474,11 +1463,11 @@
     "maxPlayers": 8
   },
   {
-    "mapname": "MS01-FuelTheWaves-V1-0-4",
+    "mapname": "MS01-FuelTheWaves_1_0_4",
     "mapfolder": "User",
     "mapgroup": "FuelTheWaves MAP PACK (by Phottor)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/MS01-FuelTheWaves-V1-0-4.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/MS01-FuelTheWaves-V1-0-4.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/MS01-FuelTheWaves_1_0_4.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/MS01-FuelTheWaves_1_0_4.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -1584,11 +1573,11 @@
     "maxPlayers": 5
   },
   {
-    "mapname": "T01-DefeatTheWaves-V1-8-0-Train",
+    "mapname": "T01-DefeatTheWaves_1_8_1",
     "mapfolder": "User",
     "mapgroup": "TRAIN MAP PACK (by ramseslein & sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-DefeatTheWaves-V1-8-0-Train.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-DefeatTheWaves-V1-8-0-Train.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-DefeatTheWaves_1_8_1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-DefeatTheWaves_1_8_1.png",
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
@@ -1606,11 +1595,11 @@
     "maxPlayers": 4
   },
   {
-    "mapname": "T01-TrainYourEco-V1-1",
+    "mapname": "T01-TrainYourEco_1_1",
     "mapfolder": "User",
     "mapgroup": "TRAIN MAP PACK (by ramseslein & sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-TrainYourEco-V1-1.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-TrainYourEco-V1-1.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-TrainYourEco_1_1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-TrainYourEco_1_1.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
