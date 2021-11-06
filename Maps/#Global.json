@@ -11,6 +11,17 @@
     "maxPlayers": 4
   },
   {
+    "mapname": "B01-123-Buddel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-123-Buddel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-123-Buddel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-123-Buddel",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
@@ -22,12 +33,56 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-ABC-Buddel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-ABC-Buddel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-ABC-Buddel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Absolute-Beginners ll-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Absolute-Beginners ll-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Absolute-Beginners ll-4er.png",
+    "mapSize": 640,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
     "mapname": "B01-Absolute-Beginners-8",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Absolute-Beginners-8.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Absolute-Beginners-8.png",
     "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Absolute-Beginners-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Absolute-Beginners-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Absolute-Beginners-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Afrika-Safari-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Afrika-Safari-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Afrika-Safari-8er.png",
+    "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
@@ -44,12 +99,210 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-Angola-Silver-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Angola-Silver-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Angola-Silver-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-ARENA-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-ARENA-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-ARENA-4er.png",
+    "mapSize": 512,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-ARENA-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-ARENA-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-ARENA-6er.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-ARENA-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-ARENA-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-ARENA-8er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Bier-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Bier-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Bier-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Blaue-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Blaue-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Blaue-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-California-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-California-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-California-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-Colorado-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Colorado-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Colorado-6er.png",
+    "mapSize": 704,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
     "mapname": "B01-Colorado-8",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Colorado-8.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Colorado-8.png",
     "mapSize": 704,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Colorado-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Colorado-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Colorado-8er.png",
+    "mapSize": 704,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Delta-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Delta-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Delta-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Desert Star-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Desert Star-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Desert Star-6er.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-Die-neue-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Die-neue-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Die-neue-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Die-Spinne-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Die-Spinne-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Die-Spinne-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Diggi-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Diggi-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Diggi-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Dunkle-Buddel-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Dunkle-Buddel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Dunkle-Buddel-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-Fidschi-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Fidschi-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Fidschi-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Gelbe-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Gelbe-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Gelbe-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-GingeMax-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-GingeMax-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-GingeMax-8er.png",
+    "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
@@ -77,6 +330,28 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-H2O-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-H2O-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-H2O-6er.png",
+    "mapSize": 768,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-H2O-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-H2O-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-H2O-8er.png",
+    "mapSize": 768,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-H2O-KOPF",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
@@ -99,12 +374,67 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-Happys-Buddel-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Happys-Buddel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Happys-Buddel-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-Havaii-Buddel-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Havaii-Buddel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Havaii-Buddel-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-Havaii-Buddel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Havaii-Buddel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Havaii-Buddel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-Havaii-Buddel",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Havaii-Buddel.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Havaii-Buddel.png",
     "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Herr-der-Ringe-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Herr-der-Ringe-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Herr-der-Ringe-4er.png",
+    "mapSize": 512,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-Hocus-Pocus-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Hocus-Pocus-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Hocus-Pocus-8er.png",
+    "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
@@ -121,6 +451,28 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-Kaffeemappe-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Kaffeemappe-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Kaffeemappe-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Kanaren-PlatinEdition-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Kanaren-PlatinEdition-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Kanaren-PlatinEdition-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-Kanaren-PlatinEdition",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
@@ -130,6 +482,28 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Kanaren-Reloaded-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Kanaren-Reloaded-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Kanaren-Reloaded-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Kanaren-SilverEdition-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Kanaren-SilverEdition-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Kanaren-SilverEdition-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
   },
   {
     "mapname": "B01-Kanaren-SilverEdition",
@@ -143,12 +517,144 @@
     "maxPlayers": 4
   },
   {
+    "mapname": "B01-Kreuzzug-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Kreuzzug-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Kreuzzug-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-Kreuzzug-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Kreuzzug-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Kreuzzug-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-Kreuzzug",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Kreuzzug.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Kreuzzug.png",
     "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-LA-Ring-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-LA-Ring-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-LA-Ring-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-littel-Merlin-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-littel-Merlin-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-littel-Merlin-4er.png",
+    "mapSize": 576,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-little-marshylein-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-little-marshylein-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-little-marshylein-4er.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-little-Metzilein-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-little-Metzilein-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-little-Metzilein-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-MAD-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-MAD-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-MAD-4er.png",
+    "mapSize": 512,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-madistfaction-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-madistfaction-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-madistfaction-8er.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Malediven-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Malediven-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Malediven-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-Malediven-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Malediven-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Malediven-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Mare-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Mare-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Mare-4er.png",
+    "mapSize": 704,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-marshylein-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-marshylein-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-marshylein-8er.png",
+    "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
@@ -165,11 +671,66 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-Marshys-Neue-Welt-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Marshys-Neue-Welt-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Marshys-Neue-Welt-8er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-Marshys-NeueWelt",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Marshys-NeueWelt.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Marshys-NeueWelt.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Mary-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Mary-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Mary-4er.png",
+    "mapSize": 512,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-Mayas-neue-Welt-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Mayas-neue-Welt-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Mayas-neue-Welt-8er.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Mercedes-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Mercedes-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Mercedes-8er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Merlin-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Merlin-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Merlin-8er.png",
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -198,6 +759,61 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-Napoleons-Risiko2.1-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Napoleons-Risiko2.1-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Napoleons-Risiko2.1-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Nomen-est-Omen-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Nomen-est-Omen-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Nomen-est-Omen-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Nordinsel-Silver-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Nordinsel-Silver-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Nordinsel-Silver-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Octo 4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Octo 4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Octo 4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-Octo-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Octo-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Octo-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-Octo",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
@@ -207,6 +823,39 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-polaris XL-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-polaris XL-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-polaris XL-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-polaris-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-polaris-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-polaris-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-polaris-XL-Ring-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-polaris-XL-Ring-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-polaris-XL-Ring-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
   },
   {
     "mapname": "B01-polaris-XL-ring",
@@ -231,6 +880,17 @@
     "maxPlayers": 6
   },
   {
+    "mapname": "B01-polaris-XXL-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-polaris-XXL-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-polaris-XXL-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-polaris-XXXL",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
@@ -240,6 +900,39 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Rache-des-rams-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Rache-des-rams-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Rache-des-rams-8er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Ringbuddel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Ringbuddel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Ringbuddel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Risiko-Siedler-IV-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Risiko-Siedler-IV-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Risiko-Siedler-IV-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
   },
   {
     "mapname": "B01-Risiko-SiedlerIV",
@@ -253,6 +946,50 @@
     "maxPlayers": 6
   },
   {
+    "mapname": "B01-ROMA-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-ROMA-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-ROMA-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Sonnielein-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Sonnielein-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Sonnielein-6er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-Sonnielein-Reloaded-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Sonnielein-Reloaded-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Sonnielein-Reloaded-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Spinnenkampf-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Spinnenkampf-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Spinnenkampf-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-Spinnenkampf",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
@@ -262,6 +999,72 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Strand-Buddel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Strand-Buddel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Strand-Buddel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Tal-der-Toten-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Tal-der-Toten-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Tal-der-Toten-4er.png",
+    "mapSize": 640,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-THX-Selktion-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-THX-Selktion-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-THX-Selktion-8er.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Weisse-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Weisse-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Weisse-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Wildnis-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Wildnis-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Wildnis-8er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-WildSix-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-WildSix-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-WildSix-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
   },
   {
     "mapname": "B01-WildSix",
@@ -275,22 +1078,88 @@
     "maxPlayers": 6
   },
   {
-    "mapname": "C01-DefeatTheKing-V2-2-0",
+    "mapname": "B01-Wookis-Poli-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Wookis-Poli-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Wookis-Poli-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-Zauberwald-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Zauberwald-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Zauberwald-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B01-Zauberwald-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Zauberwald-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Zauberwald-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "B01-Zipfelmuetzchen-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Zipfelmuetzchen-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Zipfelmuetzchen-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B01-Zipfelmuetzchen-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Zipfelmuetzchen-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Zipfelmuetzchen-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "C01-DefeatTheKing_2_2_0",
     "mapfolder": "User",
     "mapgroup": "DEFEAT MAP PACK (by sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/C01-DefeatTheKing-V2-2-0.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/C01-DefeatTheKing-V2-2-0.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/C01-DefeatTheKing_2_2_0.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/C01-DefeatTheKing_2_2_0.png",
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
   },
   {
-    "mapname": "C01-DefeatTheWaves-V1-8-0",
+    "mapname": "C01-DefeatTheWaves_1_8_0",
     "mapfolder": "User",
     "mapgroup": "DEFEAT MAP PACK (by sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/C01-DefeatTheWaves-V1-8-0.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/C01-DefeatTheWaves-V1-8-0.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/C01-DefeatTheWaves_1_8_0.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/C01-DefeatTheWaves_1_8_0.png",
+    "mapSize": 896,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8
+  },
+  {
+    "mapname": "C01-DefeatTheWaves_1_8_1",
+    "mapfolder": "User",
+    "mapgroup": "DEFEAT MAP PACK (by sl4ng3r)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/C01-DefeatTheWaves_1_8_1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/C01-DefeatTheWaves_1_8_1.png",
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
@@ -970,9 +1839,9 @@
   {
     "mapname": "T01-TheWoodsUnitTesterV4",
     "mapfolder": "User",
-    "mapgroup": "Multiplayer Map: TRAIN MAP PACK (by ramseslein & sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/T01-TheWoodsUnitTesterV3.map",
-    "preview_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/Previews/T01-TheWoodsUnitTesterV3.png",
+    "mapgroup": "TRAIN MAP PACK (by ramseslein & sl4ng3r)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-TheWoodsUnitTesterV4.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-TheWoodsUnitTesterV4.png",
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
@@ -988,28 +1857,6 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6
-  },
-  {
-    "mapname": "T01-Unit-Tester-Metzel",
-    "mapfolder": "User",
-    "mapgroup": "Multiplayer Map: TRAIN MAP PACK (by ramseslein & sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/T01-Unit-Tester-Metzel.map",
-    "preview_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/Previews/T01-Unit-Tester-Metzel.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
-  },
-  {
-    "mapname": "T01-Unit-Tester",
-    "mapfolder": "User",
-    "mapgroup": "Multiplayer Map: TRAIN MAP PACK (by ramseslein & sl4ng3r)",
-    "map_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/T01-Unit-Tester.map",
-    "preview_url": "https://raw.githubusercontent.com/siedler-community/s4-maps/master/Maps/Previews/T01-Unit-Tester.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
   },
   {
     "mapname": "TM2020-00-GROUP",
