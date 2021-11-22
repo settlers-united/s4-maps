@@ -572,17 +572,6 @@
     "maxPlayers": 8
   },
   {
-    "mapname": "B01-Mercedes-8er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Mercedes-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Mercedes-8er.png",
-    "mapSize": 832,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
-  },
-  {
     "mapname": "B01-Merlin-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
@@ -915,7 +904,7 @@
   {
     "mapname": "B02-Kristallika-mitsteinamanfang",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-Kristallika-mitsteinamanfang.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-Kristallika-mitsteinamanfang.png",
     "mapSize": 576,
@@ -926,7 +915,7 @@
   {
     "mapname": "B02-Kristallika",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-Kristallika.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-Kristallika.png",
     "mapSize": 576,
@@ -937,7 +926,7 @@
   {
     "mapname": "B02-Minni-Buddelwikki",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-Minni-Buddelwikki.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-Minni-Buddelwikki.png",
     "mapSize": 256,
@@ -948,7 +937,7 @@
   {
     "mapname": "B02-Rushbogi",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-Rushbogi.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-Rushbogi.png",
     "mapSize": 256,
@@ -959,7 +948,7 @@
   {
     "mapname": "B02-smallworld",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-smallworld.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-smallworld.png",
     "mapSize": 320,
@@ -970,7 +959,7 @@
   {
     "mapname": "B02-TASnowMansLand",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-TASnowMansLand.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-TASnowMansLand.png",
     "mapSize": 704,
@@ -979,11 +968,11 @@
     "maxPlayers": 4
   },
   {
-    "mapname": "B02-Trinibuddel-V+2er",
+    "mapname": "B02-Trinibuddelv2",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-Trinibuddel-V+2er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-Trinibuddel-V+2er.png",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-Trinibuddelv2.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-Trinibuddelv2.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -992,7 +981,7 @@
   {
     "mapname": "B02-Trio",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-Trio.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-Trio.png",
     "mapSize": 448,
@@ -1003,24 +992,13 @@
   {
     "mapname": "B02-TuSMini",
     "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "mapgroup": "BUDDEL MAP PACK (by ThoNic)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-TuSMini.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-TuSMini.png",
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6
-  },
-  {
-    "mapname": "B02-Wasserkopp",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B02-Wasserkopp.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B02-Wasserkopp.png",
-    "mapSize": 576,
-    "defaultGoods": 2,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
   },
   {
     "mapname": "C01-DefeatTheKing_2_2_0",
@@ -1441,33 +1419,33 @@
     "maxPlayers": 6
   },
   {
-    "mapname": "M02-8P-Tunier-flach-V1_1-by-Bluejanis",
+    "mapname": "M02-8P-Turnier-flach-V1_1-by-Bluejanis",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-8P-Tunier-flach-V1_1-by-Bluejanis.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-8P-Tunier-flach-V1_1-by-Bluejanis.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-8P-Turnier-flach-V1_1-by-Bluejanis.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-8P-Turnier-flach-V1_1-by-Bluejanis.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
   },
   {
-    "mapname": "M02-8P-Tunier-Metzel-V1_0-by-Bluejanis",
+    "mapname": "M02-8P-Turnier-Metzel-V1_0-by-Bluejanis",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-8P-Tunier-Metzel-V1_0-by-Bluejanis.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-8P-Tunier-Metzel-V1_0-by-Bluejanis.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-8P-Turnier-Metzel-V1_0-by-Bluejanis.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-8P-Turnier-Metzel-V1_0-by-Bluejanis.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
   },
   {
-    "mapname": "M02-8P-Tunier-Metzel-V1_1-by-Bluejanis",
+    "mapname": "M02-8P-Turnier-Metzel-V1_1-by-Bluejanis",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-8P-Tunier-Metzel-V1_1-by-Bluejanis.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-8P-Tunier-Metzel-V1_1-by-Bluejanis.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-8P-Turnier-Metzel-V1_1-by-Bluejanis.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-8P-Turnier-Metzel-V1_1-by-Bluejanis.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -2706,11 +2684,11 @@
     "maxPlayers": 4
   },
   {
-    "mapname": "M02-Minni-Wikki",
+    "mapname": "M02-Mini-Wiki",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-Minni-Wikki.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-Minni-Wikki.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-Mini-Wiki.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-Mini-Wiki.png",
     "mapSize": 256,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -2860,11 +2838,11 @@
     "maxPlayers": 6
   },
   {
-    "mapname": "M02-S3ALIEN",
+    "mapname": "M02-S3-Alien-Opig2001",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-S3ALIEN.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-S3ALIEN.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-S3-Alien-Opig2001.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-S3-Alien-Opig2001.png",
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -3608,9 +3586,20 @@
     "maxPlayers": 5
   },
   {
+    "mapname": "T01-Agavetest",
+    "mapfolder": "User",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-Agavetest.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-Agavetest.png",
+    "mapSize": 256,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 1
+  },
+  {
     "mapname": "T01-DefeatTheWaves_1_8_2",
     "mapfolder": "User",
-    "mapgroup": "TRAIN MAP PACK (by ramseslein, sl4ng3r & Phottor)",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-DefeatTheWaves_1_8_2.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-DefeatTheWaves_1_8_2.png",
     "mapSize": 896,
@@ -3619,9 +3608,42 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "T01-Grainfarmtest4",
+    "mapfolder": "User",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-Grainfarmtest4.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-Grainfarmtest4.png",
+    "mapSize": 256,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 1
+  },
+  {
+    "mapname": "T01-Honeytest",
+    "mapfolder": "User",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-Honeytest.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-Honeytest.png",
+    "mapSize": 256,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 1
+  },
+  {
+    "mapname": "T01-Sunflowertest2",
+    "mapfolder": "User",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-Sunflowertest2.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-Sunflowertest2.png",
+    "mapSize": 256,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 1
+  },
+  {
     "mapname": "T01-TheWoodsUnitTesterV5",
     "mapfolder": "User",
-    "mapgroup": "TRAIN MAP PACK (by ramseslein, sl4ng3r & Phottor)",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-TheWoodsUnitTesterV5.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-TheWoodsUnitTesterV5.png",
     "mapSize": 832,
@@ -3632,7 +3654,7 @@
   {
     "mapname": "T01-TrainYourEco_1_1",
     "mapfolder": "User",
-    "mapgroup": "TRAIN MAP PACK (by ramseslein, sl4ng3r & Phottor)",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-TrainYourEco_1_1.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-TrainYourEco_1_1.png",
     "mapSize": 1024,
@@ -3643,7 +3665,7 @@
   {
     "mapname": "T01-Unit-Tester-Metzel",
     "mapfolder": "User",
-    "mapgroup": "TRAIN MAP PACK (by ramseslein, sl4ng3r & Phottor)",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-Unit-Tester-Metzel.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-Unit-Tester-Metzel.png",
     "mapSize": 1024,
@@ -3654,13 +3676,24 @@
   {
     "mapname": "T01-Unit-Tester",
     "mapfolder": "User",
-    "mapgroup": "TRAIN MAP PACK (by ramseslein, sl4ng3r & Phottor)",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-Unit-Tester.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-Unit-Tester.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
+  },
+  {
+    "mapname": "T01-Winetest",
+    "mapfolder": "User",
+    "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/T01-Winetest.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/T01-Winetest.png",
+    "mapSize": 256,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 1
   },
   {
     "mapname": "TM2020-00-GROUP",
