@@ -1463,11 +1463,11 @@
     "maxPlayers": 6
   },
   {
-    "mapname": "M02-AdMBuild4F@WaR",
+    "mapname": "M02-AdMBuild4FatWaR",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-AdMBuild4F@WaR.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-AdMBuild4F@WaR.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-AdMBuild4FatWaR.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-AdMBuild4FatWaR.png",
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -3333,11 +3333,11 @@
     "maxPlayers": 4
   },
   {
-    "mapname": "MP-Der_kurze_Wege_Xtrem_09.03.2020",
+    "mapname": "MP-Der_kurze_Wege_Xtrem_v2020",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/MP-Der_kurze_Wege_Xtrem_09.03.2020.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/MP-Der_kurze_Wege_Xtrem_09.03.2020.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/MP-Der_kurze_Wege_Xtrem_v2020.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/MP-Der_kurze_Wege_Xtrem_v2020.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
