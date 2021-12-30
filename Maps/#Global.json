@@ -264,11 +264,11 @@
     "maxPlayers": 8
   },
   {
-    "mapname": "B01-Gruene-Insel-4er",
+    "mapname": "B01-gruene-Insel-4er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Gruene-Insel-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Gruene-Insel-4er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-gruene-Insel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-gruene-Insel-4er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -1364,11 +1364,11 @@
     "maxPlayers": 8
   },
   {
-    "mapname": "M02-2erMetzel",
+    "mapname": "M02-2erMetzelNormal",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-2erMetzel.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-2erMetzel.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/M02-2erMetzelNormal.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/M02-2erMetzelNormal.png",
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
