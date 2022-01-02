@@ -286,6 +286,17 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-Gruene-Insel-Original-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Gruene-Insel-Original-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Gruene-Insel-Original-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-H2O-6er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
