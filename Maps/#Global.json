@@ -1001,6 +1001,127 @@
     "maxPlayers": 6
   },
   {
+    "mapname": "B03-J10P6Tiles",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J10P6Tiles.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J10P6Tiles.png",
+    "mapSize": 1024,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B03-J12P4SeparatedNotEqual",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J12P4SeparatedNotEqual.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J12P4SeparatedNotEqual.png",
+    "mapSize": 1024,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B03-J13P3RingOfFire",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J13P3RingOfFire.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J13P3RingOfFire.png",
+    "mapSize": 1024,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 3
+  },
+  {
+    "mapname": "B03-J14P4TheFlood",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J14P4TheFlood.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J14P4TheFlood.png",
+    "mapSize": 1024,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B03-J15P6DivineMadness",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J15P6DivineMadness.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J15P6DivineMadness.png",
+    "mapSize": 896,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "B03-J2P4Luxury",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J2P4Luxury.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J2P4Luxury.png",
+    "mapSize": 960,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B03-J3P3RushForGold",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J3P3RushForGold.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J3P3RushForGold.png",
+    "mapSize": 1024,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 3
+  },
+  {
+    "mapname": "B03-J4P3Spiral",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J4P3Spiral.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J4P3Spiral.png",
+    "mapSize": 1024,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 3
+  },
+  {
+    "mapname": "B03-J6P4Block",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J6P4Block.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J6P4Block.png",
+    "mapSize": 960,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "B03-J7P3Snowflake",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J7P3Snowflake.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J7P3Snowflake.png",
+    "mapSize": 960,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 3
+  },
+  {
+    "mapname": "B03-J9P6SpiralStar",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by Jan | Bierdeckel)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B03-J9P6SpiralStar.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B03-J9P6SpiralStar.png",
+    "mapSize": 1024,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
     "mapname": "C01-DefeatTheKing_2_2_0",
     "mapfolder": "User",
     "mapgroup": "DEFEAT MAP PACK (by sl4ng3r)",
