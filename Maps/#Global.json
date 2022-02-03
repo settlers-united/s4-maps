@@ -891,6 +891,17 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "B01-Zauberwald2022-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/B01-Zauberwald2022-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/master/Maps/Previews/B01-Zauberwald2022-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "B01-Zipfelmuetzchen-4er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
