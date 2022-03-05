@@ -3421,6 +3421,17 @@
     "maxPlayers": 4
   },
   {
+    "mapname": "MP-0h_Fratzengeballer",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-0h_Fratzengeballer.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-0h_Fratzengeballer.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "MP-22_waffenschmieden_MP",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
@@ -3584,6 +3595,61 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
+  },
+  {
+    "mapname": "MP-Superlative2v2",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-Superlative2v2.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-Superlative2v2.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4
+  },
+  {
+    "mapname": "MP-TheDivineTyrant3h",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-TheDivineTyrant3h.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-TheDivineTyrant3h.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 3
+  },
+  {
+    "mapname": "MP-TheDivineTyrant3hE",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-TheDivineTyrant3hE.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-TheDivineTyrant3hE.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 3
+  },
+  {
+    "mapname": "MP-TheDivineTyrant4h",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-TheDivineTyrant4h.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-TheDivineTyrant4h.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 3
+  },
+  {
+    "mapname": "MP-TheDivineTyrant4hE",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-TheDivineTyrant4hE.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-TheDivineTyrant4hE.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 3
   },
   {
     "mapname": "MP-Trojaner_Schatzplanet_METZEL",
