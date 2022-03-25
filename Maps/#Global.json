@@ -3465,11 +3465,11 @@
     "maxPlayers": 4
   },
   {
-    "mapname": "MP-AutoSettler_0_3",
+    "mapname": "MP-AutoSettler_0_4",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-AutoSettler_0_3.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-AutoSettler_0_3.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-AutoSettler_0_4.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-AutoSettler_0_4.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
