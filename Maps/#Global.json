@@ -3465,6 +3465,17 @@
     "maxPlayers": 4
   },
   {
+    "mapname": "MP-AutoSettler_0_3",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-AutoSettler_0_3.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-AutoSettler_0_3.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "MP-CDB-Metzelfuzzi2-8er_xxl_METZEL",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
@@ -3586,6 +3597,17 @@
     "maxPlayers": 6
   },
   {
+    "mapname": "MP-OP-Superlative_Metzel",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-OP-Superlative_Metzel.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-OP-Superlative_Metzel.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 4
+  },
+  {
     "mapname": "MP-Q_Schink-_Kong",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
@@ -3595,17 +3617,6 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
-  },
-  {
-    "mapname": "MP-Superlative2v2",
-    "mapfolder": "User",
-    "mapgroup": "Multiplayer Maps",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-Superlative2v2.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-Superlative2v2.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
   },
   {
     "mapname": "MP-TheDivineTyrantE_1_0_6",
@@ -4218,6 +4229,17 @@
     "mapgroup": "THE SETTLERS TOURNAMENT 2020 MAPS",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/TM2020-99.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/TM2020-99.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
+    "mapname": "TM2022-April",
+    "mapfolder": "User",
+    "mapgroup": "THE SETTLERS TOURNAMENT APRIL 2022 MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/TM2022-April.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/TM2022-April.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
