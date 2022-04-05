@@ -3465,22 +3465,22 @@
     "maxPlayers": 4
   },
   {
-    "mapname": "MP-AutoSettler_2vs2_Buddel_v0_5",
+    "mapname": "MP-AutoSettler_2vs2_Buddel_v0_6",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-AutoSettler_2vs2_Buddel_v0_5.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-AutoSettler_2vs2_Buddel_v0_5.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-AutoSettler_2vs2_Buddel_v0_6.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-AutoSettler_2vs2_Buddel_v0_6.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8
   },
   {
-    "mapname": "MP-AutoSettler_2vs2_Metzel_v0_5",
+    "mapname": "MP-AutoSettler_2vs2_Metzel_v0_6",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-AutoSettler_2vs2_Metzel_v0_5.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-AutoSettler_2vs2_Metzel_v0_5.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-AutoSettler_2vs2_Metzel_v0_6.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-AutoSettler_2vs2_Metzel_v0_6.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
