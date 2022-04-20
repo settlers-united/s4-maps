@@ -3652,6 +3652,17 @@
     "maxPlayers": 3
   },
   {
+    "mapname": "MP-TowerBattle6er-v1",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-TowerBattle6er-v1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-TowerBattle6er-v1.png",
+    "mapSize": 1024,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 7
+  },
+  {
     "mapname": "MP-Trojaner_Schatzplanet_METZEL",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
