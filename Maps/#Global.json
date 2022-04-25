@@ -1375,6 +1375,17 @@
     "maxPlayers": 8
   },
   {
+    "mapname": "M01-JdK-Metzel-Time-8er-fixed",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-JdK-Metzel-Time-8er-fixed.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-JdK-Metzel-Time-8er-fixed.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
+  },
+  {
     "mapname": "M01-JdK-Metzel-Time-8er",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ramseslein)",
@@ -2220,6 +2231,17 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6
+  },
+  {
+    "mapname": "M02-JdK-Aufbaumetzel8erneu-fixed",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-JdK-Aufbaumetzel8erneu-fixed.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-JdK-Aufbaumetzel8erneu-fixed.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8
   },
   {
     "mapname": "M02-JdK-Aufbaumetzel8erneu",
