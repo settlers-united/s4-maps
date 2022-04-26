@@ -3487,6 +3487,17 @@
     "maxPlayers": 4
   },
   {
+    "mapname": "MP-6er-Metzel-fixed",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-6er-Metzel-fixed.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-6er-Metzel-fixed.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6
+  },
+  {
     "mapname": "MP-AutoSettler_2vs2_Buddel_v0_6",
     "mapfolder": "User",
     "mapgroup": "Multiplayer Maps",
