@@ -3159,19 +3159,6 @@
     "map_sha256": "f6123f7d9c4e732e9e08fe673d532b6b7982cefb2e60d733197ad05f26dc4a9f"
   },
   {
-    "map": "M02-M01-Weltmetzel-XXL-fixed.map",
-    "mapname": "M02-M01-Weltmetzel-XXL-fixed",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-M01-Weltmetzel-XXL-fixed.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-M01-Weltmetzel-XXL-fixed.png",
-    "mapSize": 1024,
-    "defaultGoods": 2,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "3cf67308d14acf9e1fbb9423fee0b35b7014fa35184601d8069ccacb49660bb8"
-  },
-  {
     "map": "M02-Metzel.map",
     "mapname": "M02-Metzel",
     "mapfolder": "User",
@@ -3874,6 +3861,19 @@
     "map_sha256": "75cf784353fa5f16ba21c794df9f1b1985cf49b65fac75b818fe4066d4aab6b2"
   },
   {
+    "map": "M02-Weltmetzel-XXL-fixed.map",
+    "mapname": "M02-Weltmetzel-XXL-fixed",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Weltmetzel-XXL-fixed.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Weltmetzel-XXL-fixed.png",
+    "mapSize": 1024,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "3cf67308d14acf9e1fbb9423fee0b35b7014fa35184601d8069ccacb49660bb8"
+  },
+  {
     "map": "M02-Weltmetzel-XXL.map",
     "mapname": "M02-Weltmetzel-XXL",
     "mapfolder": "User",
@@ -4251,6 +4251,19 @@
     "map_sha256": "c213ee85f6a534a468b9c961c9ed507e0a523195a1fd3c6b6500015962dcec6e"
   },
   {
+    "map": "MP-FuelTheWaves_1_0_4.map",
+    "mapname": "MP-FuelTheWaves_1_0_4",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-FuelTheWaves_1_0_4.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-FuelTheWaves_1_0_4.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "99ddd22f5e272d9c0db1fa9e40c6c9c1f92058cf0e832ae98f6b33d17ef5fa27"
+  },
+  {
     "map": "MP-grosser_run_ums_gold_METZEL.map",
     "mapname": "MP-grosser_run_ums_gold_METZEL",
     "mapfolder": "User",
@@ -4405,19 +4418,6 @@
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 8,
     "map_sha256": "6adf5509c6de120de434ac30408443b3e60640866ef55d50e67f7744fb5d6851"
-  },
-  {
-    "map": "MS01-FuelTheWaves_1_0_4.map",
-    "mapname": "MS01-FuelTheWaves_1_0_4",
-    "mapfolder": "User",
-    "mapgroup": "FuelTheWaves MAP PACK (by Phottor)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MS01-FuelTheWaves_1_0_4.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MS01-FuelTheWaves_1_0_4.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8,
-    "map_sha256": "99ddd22f5e272d9c0db1fa9e40c6c9c1f92058cf0e832ae98f6b33d17ef5fa27"
   },
   {
     "map": "RG8-001.map",
