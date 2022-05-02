@@ -8,7 +8,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "5c7f55ef75d9ae00735f8f30b585290b35b4bba4fefadde01ade16ccbae1f802"
   },
   {
     "mapname": "B01-123-Buddel-8er",
@@ -19,7 +20,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d4381e9d029dd941efd34e069788abd584cb7393e6e9fb585d56454d0eee8559"
   },
   {
     "mapname": "B01-ABC-Buddel-8er",
@@ -30,7 +32,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4b7f6edd1568096070356a953dc3d21107bb460cb49bb71012606934cb145528"
   },
   {
     "mapname": "B01-Absolute-Beginners-4er",
@@ -41,7 +44,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b4c4da26dd18c638cb9160240ec913b403a6f4e3423fd2ed8014d4ea5f80d392"
   },
   {
     "mapname": "B01-Absolute-Beginners-8er",
@@ -52,7 +56,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ba57ae4b31b4aca9439a066b56c5dea6165c8f93920d0f0538f61b86fd0f0ee7"
   },
   {
     "mapname": "B01-Afrika-Safari-8er",
@@ -63,7 +68,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "374f7c0ceccdbe85d0b96fa65f91eb4a6849bc68fc8b7ba95419281880cb77ae"
   },
   {
     "mapname": "B01-Angola-Silver-4er",
@@ -74,7 +80,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "4654b6f14552b490843f99353ae6e5f07ab2e3c962960398965711bf8bd2af73"
   },
   {
     "mapname": "B01-ARENA-4er",
@@ -85,7 +92,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "741da197f21c620f0fdf0050838ae7d75566fc880ca4b727cf441d9bdcd6e93f"
   },
   {
     "mapname": "B01-ARENA-6er",
@@ -96,7 +104,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "901333020d868a7430a1e4b66149d32c835b8f1129bce34133d02da6986356d1"
   },
   {
     "mapname": "B01-ARENA-8er",
@@ -107,7 +116,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "1abd704ce6995b78074f77ced22dea72ea968ea971cda901bff07943fbe2bd10"
   },
   {
     "mapname": "B01-Bier-Insel-8er",
@@ -118,7 +128,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "836c57a92a838d74fa66955bdb802b2a52531fbd777247e7e46c55121392872d"
   },
   {
     "mapname": "B01-Blaue-Insel-8er",
@@ -129,7 +140,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "c267cc5681e7419ed446d0b6df00240c60cfc1fa978dc1ec2c2d824782c81da8"
   },
   {
     "mapname": "B01-California-6er",
@@ -140,7 +152,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "47485ae8e70f508f4632fed9136f487ff5a7eb548784d7e89692e2a1d767a8d7"
   },
   {
     "mapname": "B01-Colorado-6er",
@@ -151,7 +164,8 @@
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "0a0d345e05bc1da5002a44d12da3f3d4f3db75f13784499767be0b980aa63491"
   },
   {
     "mapname": "B01-Colorado-8er",
@@ -162,7 +176,8 @@
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "f062297ecc55a77f4ca9ca8333e887fc8f6dd71a7df66ada15798af97cb4093b"
   },
   {
     "mapname": "B01-Delta-8er",
@@ -173,7 +188,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7fa13a2c7781d508a695fe77deda21a5c9e1425d258cdedf8e39c92d40e4b74e"
   },
   {
     "mapname": "B01-Desert Star-6er",
@@ -184,7 +200,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "3e929a609690b18475f2da3eec73226d4de0198b8249142aed55a3f87491f8da"
   },
   {
     "mapname": "B01-Die-neue-Insel-8er",
@@ -195,7 +212,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "853ce7fa4b24a78d29e2ebff49a25b098e5badc8d56261b4915d643911d7a095"
   },
   {
     "mapname": "B01-Die-Spinne-8er",
@@ -206,7 +224,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5b7de960453014dfacdd4763467215729060de92246cc773c1f0044b7cdd8d06"
   },
   {
     "mapname": "B01-Diggi-8er",
@@ -217,7 +236,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4ddcaa8a089860386f07e4ab89dc6511bce1424f746cb6cd1aae81999367783e"
   },
   {
     "mapname": "B01-Dunkle-Buddel-6er",
@@ -228,7 +248,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "733144a9f8f55df946b76abd94699e35e06a324746c5fa486c4fb4eac2528f2a"
   },
   {
     "mapname": "B01-Fidschi-Insel-8er",
@@ -239,7 +260,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d0b0d0bc811a22ce386c15da8bee758888987c0a7f464b464f2684d835073436"
   },
   {
     "mapname": "B01-Gelbe-Insel-8er",
@@ -250,7 +272,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ae48ae370c0ea1f6eba0e1199bc9284257aaa63a1ab7764401d8ad59cb9611d6"
   },
   {
     "mapname": "B01-GingeMax-8er",
@@ -261,7 +284,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "c78a1cf5de62e246fca0c66fb2386c8b36f310add23947b0c6a88b9907a658b6"
   },
   {
     "mapname": "B01-gruene-Insel-4er",
@@ -272,7 +296,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "2904cede6bc3f14488ff96c02d7217e8e6e9da9fe2015d5f3a1512cb4017fbcd"
   },
   {
     "mapname": "B01-Gruene-Insel-8er",
@@ -283,7 +308,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ebc2176b483a7efc40d4d977d515506e31a38e88803434a86450667a8cbaccb3"
   },
   {
     "mapname": "B01-Gruene-Insel-Original-8er",
@@ -294,7 +320,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "eb65e448d6f277323df3f5bd18a536cdffab16c349b429a241b681fc9433fdae"
   },
   {
     "mapname": "B01-H2O-6er",
@@ -305,7 +332,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "4fd22ad8cc8d513018a8605f9e7e07fc03e47a981221414c8606c353bda20001"
   },
   {
     "mapname": "B01-H2O-8er",
@@ -316,7 +344,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "64c7dd821ca9af70dfed98dc50f6ce7f7dd6e924950caa64c5d1a3299ae11823"
   },
   {
     "mapname": "B01-Happys-Buddel-6er",
@@ -327,7 +356,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "77e42dcd7c30a6586fffa62ce24bf214aa9011eb5d2f4186d4c022ecee5ec78a"
   },
   {
     "mapname": "B01-Havaii-Buddel-4er",
@@ -338,7 +368,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "76638ac12491da360ceb93e5d426ab508e37b031c3ad308d16036948778bd89a"
   },
   {
     "mapname": "B01-Havaii-Buddel-8er",
@@ -349,7 +380,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5672fcc4ec747ff2a55663e7b8b322f342d1ffe4ad899c94f941027a921916f9"
   },
   {
     "mapname": "B01-Herr-der-Ringe-4er",
@@ -360,7 +392,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "239ef28d98e9b7d7ebe8e490440c473bb4a97e073eee7332857670efc572f377"
   },
   {
     "mapname": "B01-Hocus-Pocus-8er",
@@ -371,7 +404,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "3d91ff5aacccd83bdf10a6d8ff0bff9a4a506c20d3e8c54808efed8a30f8aa9e"
   },
   {
     "mapname": "B01-Kaffeemappe-8er",
@@ -382,7 +416,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d59e2c9085633fbd7633803448dcdb8f62a95cd31b9b7e68336ad9a739ac68ed"
   },
   {
     "mapname": "B01-Kanaren-PlatinEdition-8er",
@@ -393,7 +428,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "13a18f46bc7c8849e56b0b72fbf3bfb5b04db7e1680ec21dcd7d57c93e0ef707"
   },
   {
     "mapname": "B01-Kanaren-Reloaded-8er",
@@ -404,7 +440,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "67b3ce210fbe2652414063688966dd5fd183675d59486e90a2c9fd4b28a49b86"
   },
   {
     "mapname": "B01-Kanaren-SilverEdition-4er",
@@ -415,7 +452,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "fa1e9f3c30f56bca5bb11d4744a0c1db45024ba3a09e5fc07882e7ce9e1d0939"
   },
   {
     "mapname": "B01-Kreuzzug-4er",
@@ -426,7 +464,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "177e918da16909e37deafc82df83df83d3fecfe8131151ce50e12909eb3c66db"
   },
   {
     "mapname": "B01-Kreuzzug-8er",
@@ -437,7 +476,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "6025f30f22b99b2d4b5acc89dae39c43a055a68164670b8927d83b1d274caf95"
   },
   {
     "mapname": "B01-LA-Ring-6er",
@@ -448,7 +488,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "cbf5de32e13f1826b991061e7bf7f7413711615b805fa53020f995ce84f83038"
   },
   {
     "mapname": "B01-little-marshylein-4er",
@@ -459,7 +500,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "1326d71524b92200d5599e2a2a5cbf82f177887953c079c3690fbc227d367c59"
   },
   {
     "mapname": "B01-little-Merlin-4er",
@@ -470,7 +512,8 @@
     "mapSize": 576,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "ca053cb98212aa694e00024b913cdedf0211ce9093ca88a42a3cc2d7481ebf1f"
   },
   {
     "mapname": "B01-little-Metzilein-4er",
@@ -481,7 +524,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bd2daf090b65bf66357f8b8ed79d3c3313f658776d8f3bf94d6ac1fe5c25f330"
   },
   {
     "mapname": "B01-MAD-4er",
@@ -492,7 +536,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bd9fc4f9e87fa85fa9ddf507fde1255625d9ce98161e73e038f506f835cc3715"
   },
   {
     "mapname": "B01-madistfaction-8er",
@@ -503,7 +548,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "854aba728da59369a42b2997f25e914f4ac1b11605228ac73fb51a8911803e1f"
   },
   {
     "mapname": "B01-Malediven-6er",
@@ -514,7 +560,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "60d9b4b6cb7c9b5ee5814199b7aed071b5dbad9976266d2f641bdfd7397fe27f"
   },
   {
     "mapname": "B01-Malediven-8er",
@@ -525,7 +572,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a125052b490f66ac85c5a49571adf41687d28fd4f181e960f4f9789b191a245d"
   },
   {
     "mapname": "B01-Mare-4er",
@@ -536,7 +584,8 @@
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b2d89ad8422940309404ef593673775e8ffb5ad3e18c9ce8fb35c7c46d99e158"
   },
   {
     "mapname": "B01-marshylein-8er",
@@ -547,7 +596,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7eb769ba5678c79d2315d9449969431e696296b27efdc6952ac2bf1d4ae0aeec"
   },
   {
     "mapname": "B01-Marshys-Neue-Welt-8er",
@@ -558,7 +608,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a548d5810d348e93c1ce457730de6ef56959f90d3d31df0390210360ce210cfa"
   },
   {
     "mapname": "B01-Mary-4er",
@@ -569,7 +620,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "23731303bf17700bf3734ad83768409f96e5eb2232d1ac4238466eb41e0884ea"
   },
   {
     "mapname": "B01-Mayas-neue-Welt-8er",
@@ -580,7 +632,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8a39c71461ef018448e960dc2be91789efcabf36a9310d9d45699fceab95af9c"
   },
   {
     "mapname": "B01-Merlin-8er",
@@ -591,7 +644,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "3886bcda1846eb55cd229775ebf387ff1d2109e50c4929c93c412919508e008f"
   },
   {
     "mapname": "B01-Napoleons-Risiko-4er",
@@ -602,7 +656,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "cf113132fd65d145ba8cbee9deeaab4809b5b93e0b156a7cae4ae2065996ee09"
   },
   {
     "mapname": "B01-Napoleons-Risiko-5er",
@@ -613,7 +668,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "080d5a188d9045b3eb62f08c333fa7fd0d7d792bad9b3bb9d280f8076d764524"
   },
   {
     "mapname": "B01-Napoleons-Risiko-8er",
@@ -624,7 +680,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "55f868ea2fd4151e1a4796b4d2c6428a8f5db5adee05c1c15213d0868e72e64f"
   },
   {
     "mapname": "B01-Nomen-est-Omen-8er",
@@ -635,7 +692,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "23b3a0cbd20bc06ff9e5444d2f2fb1b0481bcc45980a39a80a8ba992af2f7960"
   },
   {
     "mapname": "B01-Nordinsel-Silver-8er",
@@ -646,7 +704,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5a4f4b0544a27803abb9392c9ec4d6ef50c3b500cde9b9b86817e2edfe8aadb3"
   },
   {
     "mapname": "B01-Octo-4er",
@@ -657,7 +716,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "014abd8bea06b43676e2619917f83b443956171e0b54439cae096424b8ff58f5"
   },
   {
     "mapname": "B01-Octo-8er",
@@ -668,7 +728,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "0e49c9fe27037021b838dc75f6279d126dcf61b498d70ae08a7902113e107275"
   },
   {
     "mapname": "B01-polaris-L-4er",
@@ -679,7 +740,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "f4a7250f58ae96fa090ca26c057f17bf70b170345044d32d570fc385a9433d33"
   },
   {
     "mapname": "B01-polaris-XL-6er",
@@ -690,7 +752,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "b2fec693d2790891f64251f1ef597295c6eec39cb4d18e319fcdd291b82c82dc"
   },
   {
     "mapname": "B01-polaris-XL-Ring-6er",
@@ -701,7 +764,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "366033639471a876f0a5eab7c406a6e449aac41ba4f8bac47995698633a4d206"
   },
   {
     "mapname": "B01-polaris-XXL-8er",
@@ -712,7 +776,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4c486b25913293f6e2ef5423f1f3a210ab1415714dcef6dc976cd1cbc4e48142"
   },
   {
     "mapname": "B01-Rache-des-rams-8er",
@@ -723,7 +788,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "237ff21af993efbe60216f4c0495c4ae99bc589877d080438719b35176891c64"
   },
   {
     "mapname": "B01-Ringbuddel-8er",
@@ -734,7 +800,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "fcb869a7856c770a9deb8d7f9e417506fbbc293341ca3c12bed92879640d58bb"
   },
   {
     "mapname": "B01-Risiko-Siedler-IV-6er",
@@ -745,7 +812,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "3dcb9316fbb86655d3e6865ee878d288aa90fbf08ec37af9f0845637de762d09"
   },
   {
     "mapname": "B01-ROMA-8er",
@@ -756,7 +824,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8dfa7e26681012fa5e8afcf57ed859d9dc6b075d3ccf6781a3be0711a00bf51e"
   },
   {
     "mapname": "B01-Sonnielein-6er",
@@ -767,7 +836,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "080a6cec76a7b158988e0b9d666e889818b5368dbc1f3685d7f836dbc48ff0fe"
   },
   {
     "mapname": "B01-Sonnielein-Reloaded-8er",
@@ -778,7 +848,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ba53a7dbc78ffa038bbf7938325617567354d06d99f8f4043966a4bb306302a9"
   },
   {
     "mapname": "B01-Spinnenkampf-8er",
@@ -789,7 +860,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "013830e913fb1fb5d76f8b1ef1b47effcf91a701ffdbd807724a5d9a96efbec1"
   },
   {
     "mapname": "B01-Strand-Buddel-8er",
@@ -800,7 +872,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d0af62a0aa72dc71e9e2f38d0dce6fa1a784d6d782babc1331e1893ae425bd07"
   },
   {
     "mapname": "B01-Tal-der-Toten-4er",
@@ -811,7 +884,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "4fd36b5ecad545810b48afb63e72803f5e839077accd416d9e54c3fee764c7e6"
   },
   {
     "mapname": "B01-THX-Selktion-8er",
@@ -822,7 +896,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ac9c8139fd7598fe0739341e42706e5630c6431e984f7c5fd5516b98c94ba3d7"
   },
   {
     "mapname": "B01-Weisse-Insel-8er",
@@ -833,7 +908,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "993eae40b1ad037b3285d41919041cdbd1c7209a5aef667f0e5cb365ee006c47"
   },
   {
     "mapname": "B01-Wildnis-8er",
@@ -844,7 +920,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "89e91118bf7d55e9a62dd1062ac1021eb00b9b1b287e3a1c1c056f3ee5e3a5b5"
   },
   {
     "mapname": "B01-WildSix-6er",
@@ -855,7 +932,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "1768e1274e61878a11e87752db4d2a340e63048a0df50bf004d92fed2f823761"
   },
   {
     "mapname": "B01-Wookis-Poli-6er",
@@ -866,7 +944,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "2d3c620c4a4bd316032d134ad6da4dbc2a8e57a6ac667976dba49af1ff8b0752"
   },
   {
     "mapname": "B01-Zauberwald-6er",
@@ -877,7 +956,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "2a5fddb99652eae588f272cb792e095d02a362aa945abb9e7e93d77eaf970efd"
   },
   {
     "mapname": "B01-Zauberwald-8er",
@@ -888,7 +968,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "46900c2c37b8d78cdec1e7cbb454ad4ace7a52dea18bb47a6ecfcf698831e093"
   },
   {
     "mapname": "B01-Zauberwald2022-8er",
@@ -899,7 +980,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4209a0e7e71f7cf8fc2829ffcd62fa37440690fa5a4e212b38f2c6d8f9a72490"
   },
   {
     "mapname": "B01-Zipfelmuetzchen-4er",
@@ -910,7 +992,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b6a95ba57973c91482ff4ddd9ff097ea5b8644b19b84bcb14ffd4ad50ba1cd0b"
   },
   {
     "mapname": "B01-Zipfelmuetzchen-6er",
@@ -921,7 +1004,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "1cd12dfa6a75e1187ce41ebe60cabeb38a97353d0610232e46f68535274c13c0"
   },
   {
     "mapname": "B02-Kristallika-mitsteinamanfang",
@@ -932,7 +1016,8 @@
     "mapSize": 576,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e619dd992cfdc8f189a543acb7447674258f945d55ea61f68b2d16736993817b"
   },
   {
     "mapname": "B02-Kristallika",
@@ -943,7 +1028,8 @@
     "mapSize": 576,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "604463dd1db791c0bb0bfc5d7db1026b92786f6f3dd26ac45915f143134e8f8a"
   },
   {
     "mapname": "B02-Minni-Buddelwikki",
@@ -954,7 +1040,8 @@
     "mapSize": 256,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "9a91c226e9f310f9e1ec6ba6b4224018d1f68be4059c753fada3e1a0c5413a64"
   },
   {
     "mapname": "B02-Rushbogi",
@@ -965,7 +1052,8 @@
     "mapSize": 256,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "fa0003160137df52271e23c7d66607d9fcdd7834bf1d268739f645fd558384e1"
   },
   {
     "mapname": "B02-smallworld",
@@ -976,7 +1064,8 @@
     "mapSize": 320,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "0f149c1069453d74b4d9a9338fbacb6a4688bba99eef76aaf525789bede7b47d"
   },
   {
     "mapname": "B02-TASnowMansLand",
@@ -987,7 +1076,8 @@
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "76cf6956d0d0de7250b18d3b1ee239848a9294077168c0800f1864e58c826d3c"
   },
   {
     "mapname": "B02-Trinibuddelv2",
@@ -998,7 +1088,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "89b6f72c98b3898c0977975c13108f0b523e319c730170abaae422afb39b645b"
   },
   {
     "mapname": "B02-Trio",
@@ -1009,7 +1100,8 @@
     "mapSize": 448,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "507458b3bd8320b574931a15d6ce6939a0d4f681c6d0233c6f56c4400c4ea671"
   },
   {
     "mapname": "B02-TuSMini",
@@ -1020,7 +1112,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "a9bdca3498f08f0712aebfc39c856a2a0323ce78209399dd66803a948a46bb73"
   },
   {
     "mapname": "B03-J10P6Tiles",
@@ -1031,7 +1124,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "6008dd23c9bcc0793a7720423bb6d06a582d3db885671ea115fb264bf5969012"
   },
   {
     "mapname": "B03-J12P4SeparatedNotEqual",
@@ -1042,7 +1136,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b20b50fa75c64453c32fe130be2fe570782c95ab490a67fc740afd7ec576df89"
   },
   {
     "mapname": "B03-J13P3RingOfFire",
@@ -1053,7 +1148,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "f3b2ff62e30d8ed47827b964be45548759b355614b7299da618768999d5eb54d"
   },
   {
     "mapname": "B03-J14P4TheFlood",
@@ -1064,7 +1160,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "fb5129bf485f6a48145bce0719b4382c779e08a71cfaa0c451fd603a56968511"
   },
   {
     "mapname": "B03-J15P6DivineMadness",
@@ -1075,7 +1172,8 @@
     "mapSize": 896,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "32a2eb5f915fe8331858106df2e6c6c8f9ea8c56fca12e7bcb037d017aaf94ff"
   },
   {
     "mapname": "B03-J2P4Luxury",
@@ -1086,7 +1184,8 @@
     "mapSize": 960,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "cf3b4ecf95b2f5390d49b1815d3de2758c9272a794f81cf635ca423c7b8ea6b6"
   },
   {
     "mapname": "B03-J3P3RushForGold",
@@ -1097,7 +1196,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "71be248b0729e9df228565f9e0a5e44e64ce356c9561f20dfded0be5ace26e56"
   },
   {
     "mapname": "B03-J4P3Spiral",
@@ -1108,7 +1208,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "0edbd30fab0b5ce0e8df2183536b50cc7a635b19bbaa49f309f0a9869e097fc5"
   },
   {
     "mapname": "B03-J6P4Block",
@@ -1119,7 +1220,8 @@
     "mapSize": 960,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3432de2017e746451c74041001450e4e10838518880abbe54f01a3b5358f581b"
   },
   {
     "mapname": "B03-J7P3Snowflake",
@@ -1130,7 +1232,8 @@
     "mapSize": 960,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "c1cea08a017814c7c367e763cf7af1cabf3d78afada22c18fede432adc2e884f"
   },
   {
     "mapname": "B03-J9P6SpiralStar",
@@ -1141,7 +1244,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "d10951971c927be1a9bad6a0d45de35be6972bb41c5ae503c41b8ab20a36a72b"
   },
   {
     "mapname": "C01-DefeatTheKing_2_2_0",
@@ -1152,7 +1256,8 @@
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "b4e260b64996717029e2a309d28cc8a76377f839c4d609b742fb203a1a77877f"
   },
   {
     "mapname": "C01-DefeatTheWaves_1_8_2",
@@ -1163,7 +1268,8 @@
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "da1e615bcdd0800bf19c4d485caf433d6ad720197f59ae9f886cd13897c4bcd1"
   },
   {
     "mapname": "K01-AL01-Die-Piratenbrut",
@@ -1174,7 +1280,8 @@
     "mapSize": 640,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3148b1d785f06179e7b11102cfe5b142c725e7b41fcca4a203f8eae60c1a528a"
   },
   {
     "mapname": "K01-AL02-Der-Ueberfall",
@@ -1185,7 +1292,8 @@
     "mapSize": 704,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "b94b025f4fcaaa76a3bec1664e988352a59b219b2657459d2b5cf18846ea72a3"
   },
   {
     "mapname": "K01-AL03-Die-Sklaveninsel",
@@ -1196,7 +1304,8 @@
     "mapSize": 704,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "3208ee2107c6b9967949428e0c3ee88479182da78e51ee9c776a33627c270ca1"
   },
   {
     "mapname": "K01-AL04-Blutige-Strafaktion",
@@ -1207,7 +1316,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "508b97afc7a0aaa39668c2623eb06e77ba79d6217b6f6290053b8313f9c0d4bb"
   },
   {
     "mapname": "K01-AL05-Bruecke-des-Todes",
@@ -1218,7 +1328,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "df30062b8d267bfb03fcbd9add31ed9a3f168e2ae7a9d43ee70b627a33c3f5f0"
   },
   {
     "mapname": "K01-AL06-Schlacht-um-Novaska",
@@ -1229,7 +1340,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "9ad5df378352df99b8cb95948cb04656379532096cf09df4bdaa1344339a99ec"
   },
   {
     "mapname": "K01-AL07-Unter-schwarzer-Flagge",
@@ -1240,7 +1352,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4e09cf7ee7a0597ee8960d08226f376b4952401e45d4f4299dc83b6eb9e2e1ad"
   },
   {
     "mapname": "K01-AL08-Tania-Land-der-Allerersten",
@@ -1251,7 +1364,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "9557c6bb2fd1736340d064e39226e84411b348e081e3e513bd32447403d91ec3"
   },
   {
     "mapname": "K01-AL09-Der-Plan-des-Regenten",
@@ -1262,7 +1376,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "997ec3b9882ca9de32f6bef49719c86f3eadd877eaa5d3fe72e661ccb52088fc"
   },
   {
     "mapname": "K01-AL10-Atlantis-brennt",
@@ -1273,7 +1388,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "86e9f642f4644a81be394e78efa5496d1b81d79102d3d75110d68a97a4976fe1"
   },
   {
     "mapname": "M01-6er-acies-XXL",
@@ -1284,7 +1400,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "45e38725027a4e9bf8e854154e88a4d83590301b5b226f6df621e6faf011ce14"
   },
   {
     "mapname": "M01-8er-Metzel",
@@ -1295,7 +1412,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "6ab1ae1cef7a475e5d5b8ef2fe4148d69332dc0783d2f9bb6cad6f5aaaa00509"
   },
   {
     "mapname": "M01-AdM-6er-Metzel",
@@ -1306,7 +1424,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "e63a3e3910ed4e4d66a799c4fc42b9822d13d5e7fa4690402ef2ed7ad2a6a5a3"
   },
   {
     "mapname": "M01-CDB-Dartmetzel",
@@ -1317,7 +1436,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8ac0044f5ca09b286bc620072f5b88d594215496e46bdea7ff39672eb94df04f"
   },
   {
     "mapname": "M01-F-at-B-at-war",
@@ -1328,7 +1448,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bf5f8dd14756b98f526bbf2bbfd8a27ddfa73180acfce421d32aa127eee11a77"
   },
   {
     "mapname": "M01-Fussballplatz-megametzel",
@@ -1339,7 +1460,8 @@
     "mapSize": 832,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "33a6ae1156268308aca0d3dd59f518aaf9f573e83714817b35abbb272b0e5944"
   },
   {
     "mapname": "M01-gruene-Insel-8er-metzel",
@@ -1350,7 +1472,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "f20b06cb0e9cba82c37462c83fb739621640b4fabc8a4d702555ccdb7b5cd46a"
   },
   {
     "mapname": "M01-H4-4H",
@@ -1361,7 +1484,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "fc727d69b45a267713a7f858b4dadad24250210cd397ed1bd90fce56890d4074"
   },
   {
     "mapname": "M01-JdK-Aufbaumetzel-8er",
@@ -1372,7 +1496,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5fb02a99f5494273e4ef1aef35995679829d0549a4f861b032076f98e101c481"
   },
   {
     "mapname": "M01-JdK-Metzel-Time-8er-fixed",
@@ -1383,7 +1508,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "1a0001cb9ace4c2587ee43b622b9bae240ca3339389d82cc67ec7961c0ad966f"
   },
   {
     "mapname": "M01-JdK-Metzel-Time-8er",
@@ -1394,7 +1520,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "eb7dffdb8988bb2da958a475850b856f549bec63d1ef2c3c5b7d5302301d5fe2"
   },
   {
     "mapname": "M01-LA-Pizza-Metzel",
@@ -1405,7 +1532,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "6d0cbcfab616495f23b2df93fc46a641ed3beefa27f205146906733c0a0174ff"
   },
   {
     "mapname": "M01-Metzel-4-CU",
@@ -1416,7 +1544,8 @@
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e02ada469ed81adb7de17173666364218c8a445df2b5d7c508a3f8e4d167c86d"
   },
   {
     "mapname": "M01-Metzel-Teamwork",
@@ -1427,7 +1556,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "91049bce7aeb6d5790c396ac5f0d8ac8e06b42c33298091cf496c9960989843a"
   },
   {
     "mapname": "M01-Metzel2002",
@@ -1438,7 +1568,8 @@
     "mapSize": 640,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "40dd0d760417b6dc289cb24fcfaadee8fc3d9c6906c3d991f84061ccfbd40a48"
   },
   {
     "mapname": "M01-MetzelSevenset",
@@ -1449,7 +1580,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "fba7756c89b78e108ee763d0f3bcdcf292cc6b7df681e32561e6a6c102997127"
   },
   {
     "mapname": "M01-Metzilein",
@@ -1460,7 +1592,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a56c6d6dd5e4306e75c39e2150fb7f0ee8f2ed3c0c7e147f427a8ecbd35a6bd7"
   },
   {
     "mapname": "M01-SMS-SchneeOase-6er",
@@ -1471,7 +1604,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "e1350a18da6cf40a94a7ebb645827ca44113032d86cff3e2ff3c94fe66b52cdb"
   },
   {
     "mapname": "M01-Tierische-Metzel",
@@ -1482,7 +1616,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "7893389e7f81c9b433ec051b63a22c3b0d96906e8e0387999cc5e50cb35a00dd"
   },
   {
     "mapname": "M01-Turniermetzel-3-alle Voelker",
@@ -1493,7 +1628,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b7061c183e640619d8316ac42de56adcf312e23a5495594110ea419e8616571b"
   },
   {
     "mapname": "M01-Turniermetzel",
@@ -1504,7 +1640,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3ffb4461264d2cdacf4682de2789eb1a994e3a122adaf3aefe88ac383d7a049f"
   },
   {
     "mapname": "M01-Windrad",
@@ -1515,7 +1652,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "e7728873f6e79a67b9d838fcc834292c9c2bf01c4fc51314bef7658b818464b8"
   },
   {
     "mapname": "M02-2erMetzelNormal",
@@ -1526,7 +1664,8 @@
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "5f79879070fc4d6a330b7623654e30ee50685256dda39954c8304f3485cc4f55"
   },
   {
     "mapname": "M02-2erMetzelSpezial",
@@ -1537,7 +1676,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "e6c60cb5649b050ac287e8f94762f5dc06d06b20d373933f8e71f11bc2f5a659"
   },
   {
     "mapname": "M02-2SpOoKeY4U",
@@ -1548,7 +1688,8 @@
     "mapSize": 704,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "aeee235e264f6d03e919d5a0ef8bab6c2b6020dedab60531bdb3bdd5f0d5bd02"
   },
   {
     "mapname": "M02-3vs3",
@@ -1559,7 +1700,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "adf8855f7cc6f8d1242df1d2b20b8339184246f1db02fa16d2bba6e7904bb458"
   },
   {
     "mapname": "M02-6eraciesXXLbetaEdition",
@@ -1570,7 +1712,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "81fae06e03619713d18b6dcb42b27b3a1f2a2303ac75d288ee5542cf5ecd68b3"
   },
   {
     "mapname": "M02-8P-Turnier-flach-V1_1-by-Bluejanis",
@@ -1581,7 +1724,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5fdb97e185131de1aa39ac3261b293614d57cdfe417d5a66d8c6e3f6557c49ae"
   },
   {
     "mapname": "M02-8P-Turnier-Metzel-V1_0-by-Bluejanis",
@@ -1592,7 +1736,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8e07ab43198eaada3d45b9ce172f5db86425f9f9db1b74e37de5b8af2758924e"
   },
   {
     "mapname": "M02-8P-Turnier-Metzel-V1_1-by-Bluejanis",
@@ -1603,7 +1748,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "c2e206e9119d1c4053ca536bc6e214ac4291138eaab0abf50792610de2354b95"
   },
   {
     "mapname": "M02-AdM6erMetzel",
@@ -1614,7 +1760,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "e63a3e3910ed4e4d66a799c4fc42b9822d13d5e7fa4690402ef2ed7ad2a6a5a3"
   },
   {
     "mapname": "M02-AdMBuild4FatWaR",
@@ -1625,7 +1772,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "4355d26fb3890e4e8cfd7db28585aa698ecb6241f06be3e2714ff1ee10caedb5"
   },
   {
     "mapname": "M02-AdMMetzelSchlachtV3_0",
@@ -1636,7 +1784,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "a90203fbd27e1b36220b6098524eb46e04c08d684f4a5387d9594f51de72480f"
   },
   {
     "mapname": "M02-AduatukerMetzel4er",
@@ -1647,7 +1796,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "a0757657a70d40c60c096c6f9c929c063d3d48532c27a30329a8a2f1d446c27a"
   },
   {
     "mapname": "M02-AduatukerMetzel6er",
@@ -1658,7 +1808,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "9ea0db76d7219311c6b7bcbd3bfbc33bf1c13ab2bb208e5ef2865a25608543ca"
   },
   {
     "mapname": "M02-AmorVincitOmnia4er",
@@ -1669,7 +1820,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "15f6b383ef8717d76de0797b10a09c721fea9633e2c0329d028796c3a0a767f9"
   },
   {
     "mapname": "M02-ANY",
@@ -1680,7 +1832,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b0296a500180b12d12f4102d4bfca5c425d45e9863d43f43b20ca431917be2b5"
   },
   {
     "mapname": "M02-Babymetzel",
@@ -1691,7 +1844,8 @@
     "mapSize": 256,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "52b320e58b398579300a28de7c62109a5792ef802a2152fc7558f1756874da15"
   },
   {
     "mapname": "M02-BATTLEZONE",
@@ -1702,7 +1856,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "928ec41dc0aedfa4b3df3c2c8adffea90ccccd1c1009a314e72edfb78a9ac1df"
   },
   {
     "mapname": "M02-BATTLEZONE2",
@@ -1713,7 +1868,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "7dc910a8f25a9016d0a046ff173f0f0d1354841fe12aa5b0c3d86b4d5552c8a2"
   },
   {
     "mapname": "M02-bigfinal",
@@ -1724,7 +1880,8 @@
     "mapSize": 832,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "7aa4ce620f69db8fb2714d39406427b53ba1c4f52fccec4699a8eab3645d0eb6"
   },
   {
     "mapname": "M02-BigM",
@@ -1735,7 +1892,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "34a0926dd2bbcf53e66bb82d863680ac6ee0544090091ead2cc95aa95536de81"
   },
   {
     "mapname": "M02-BigM4erRoemer",
@@ -1746,7 +1904,8 @@
     "mapSize": 448,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "4abf98b6c5155bc1ebd8dfc55963684c8597d6a02401cc54784b6f28c3177bb9"
   },
   {
     "mapname": "M02-BigM8erWiki",
@@ -1757,7 +1916,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8ead790cc821fb6b05df4e005dbd79cf4f9014435e235529a98fdf304e57d940"
   },
   {
     "mapname": "M02-Bloody_Metzel",
@@ -1768,7 +1928,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "1acc8324b16402da8fbeb2b3889502d2cd88c48b9fbfe1cc80f0917e47490a0b"
   },
   {
     "mapname": "M02-Blumenmetzel",
@@ -1779,7 +1940,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "39d222dac871feb60dd0f81284723fc267fb8263ea3b25e852e26a4afd0fa455"
   },
   {
     "mapname": "M02-CDB-Kaktusmetzel2_1v1",
@@ -1790,7 +1952,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "87084db65dd3df4296b13b204c5ff5f2a62dae5dab3eab03d118f257a2eb9b36"
   },
   {
     "mapname": "M02-CDB-Metzelfuzzi2-4er",
@@ -1801,7 +1964,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "68c845c610c6620efe5dfb1a39d10d7fb4cff83e76456620c6dd3724bf7336e6"
   },
   {
     "mapname": "M02-CDB-Metzelfuzzi2-6er",
@@ -1812,7 +1976,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "82c0b8cfa24736322583c00740809fa9d117ec3bdf5e5cbcf8de53866256fc09"
   },
   {
     "mapname": "M02-CDB-Metzelfuzzi2_8ter",
@@ -1823,7 +1988,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "863dd4fd9d0dc020a1b2a6bf8db8ec9626926594bccc5f43417b66905611b9a3"
   },
   {
     "mapname": "M02-CDB-Metzelfuzzi_6er",
@@ -1834,7 +2000,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "d951f4ee82d2e1925bfa3b59d646d046a969ddeb5b4c820c3abd87bf63904349"
   },
   {
     "mapname": "M02-CDB-MiniMetzel",
@@ -1845,7 +2012,8 @@
     "mapSize": 384,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "10b235614d72f0afb363397cc35c906735d53c1172522f55029be12a27a82516"
   },
   {
     "mapname": "M02-CDB-Zaubersumpfmetzel",
@@ -1856,7 +2024,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "709324886bf55839110bbebd3dcfaf024fa0cf840605f0728fa1ff50e1c7e584"
   },
   {
     "mapname": "M02-check4trojaXL",
@@ -1867,7 +2036,8 @@
     "mapSize": 448,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "78e26766513c96ace3b7bb760d1a2b35e84d5f414114b262571e799812c78be3"
   },
   {
     "mapname": "M02-Circles",
@@ -1878,7 +2048,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "105011d88428b947e9704e1164eeb8953f0ddfb592dad49fdac18dce8630877d"
   },
   {
     "mapname": "M02-Circles_beta_2",
@@ -1889,7 +2060,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "784c0f5e26b4c7f60c7975e4dda9a7f2adf29c17223b9e691033710b12bd1c52"
   },
   {
     "mapname": "M02-CXmetzelxxl3b",
@@ -1900,7 +2072,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "986c9394d6e3b0a1e363857d726155517579c8fa49d0d557e1d827fb41e8db33"
   },
   {
     "mapname": "M02-CXmetzelxxl5b",
@@ -1911,7 +2084,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "4f599c1f6382a9f42a42109e6a369e25334bee65d631999bfcd17ac2a1ccad9f"
   },
   {
     "mapname": "M02-DfS-6erMetzel",
@@ -1922,7 +2096,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "90d7d3eb8398bbca8e6bbc7ed4b7b4726e2ffe8e6ab2c5f54474c0019326fe67"
   },
   {
     "mapname": "M02-DfS-Blumenmetzel",
@@ -1933,7 +2108,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "4ee365166448fa249aa6d6be4f8615a56bc92a5b6f0d56b20667be6b04664d34"
   },
   {
     "mapname": "M02-DfS-SumpfkampfXXL6er",
@@ -1944,7 +2120,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "3fef96aaef2835cf02a0793a3752f816862daa5d0bc808296091c0a9b84861dd"
   },
   {
     "mapname": "M02-DfSEck-Metzel",
@@ -1955,7 +2132,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "669d2135b1d6b17307e1f4546b1092f10968ed502ac5a8040880eecac212c732"
   },
   {
     "mapname": "M02-DFSmachtdengegnerPlatt",
@@ -1966,7 +2144,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "3e6c3b18b3562882cea2703888ed91aec94b9050ad43b88ba19c0cb95c7fab33"
   },
   {
     "mapname": "M02-DfSPlateau-Metzel",
@@ -1977,7 +2156,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "eb88696f0f46526f9cdf0928d40008af111aa8cee30310f5aca53dd217b0009e"
   },
   {
     "mapname": "M02-DIE3erVOELKERMAPmitnahrung",
@@ -1988,7 +2168,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "4f98d40ec9f858e02208725c850efbcdb085aca3e46f8a04fbdaf950451875f2"
   },
   {
     "mapname": "M02-DieFarmer_Majaspezialmapbeta",
@@ -1999,7 +2180,8 @@
     "mapSize": 960,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e511e9ba6f36db5c23a47c14a5ce301affa10b51d686f2b11e0e499fc8667f78"
   },
   {
     "mapname": "M02-dsfspezial2beta3",
@@ -2010,7 +2192,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b1288feb87470101ca67998787f5b6be3d0e29568126388e6b9e3ffed4eb3ba1"
   },
   {
     "mapname": "M02-echte6eracies",
@@ -2021,7 +2204,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "d3e9c264e753007ef922d77a01941b04203961f6c452a55d36a2678aa4480774"
   },
   {
     "mapname": "M02-echte8eraciesbeta",
@@ -2032,7 +2216,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "b37a558dcde9278b45ccabd2e65cc7276aca2f7a366d41c735156189974c63ff"
   },
   {
     "mapname": "M02-echte8eraciesbeta2",
@@ -2043,7 +2228,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8291eb54a89d6ff75fd381cc38c5d96def03e90a8d28fc361a01f975b5cba66c"
   },
   {
     "mapname": "M02-Eierschlacht",
@@ -2054,7 +2240,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "f9c99da45b0a851f32b845bff4cbbea648bdceff56e1426f8bbb86aa20d484c8"
   },
   {
     "mapname": "M02-fairplay",
@@ -2065,7 +2252,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "41bc61b0730ae031e472798b1a5d656b12db2409b5d83728a831d92617aee958"
   },
   {
     "mapname": "M02-FastDarkness",
@@ -2076,7 +2264,8 @@
     "mapSize": 448,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "8d2cfcf3060114c96440185af00238656d083497fbeb3274794bbdbc20d5150f"
   },
   {
     "mapname": "M02-Fetzel1_0",
@@ -2087,7 +2276,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "1a54c15e8a63a4a057bb99b5e8eae466cafd045039fca31156f7a9728ff6c7a4"
   },
   {
     "mapname": "M02-fuersuperfaulemetzler",
@@ -2098,7 +2288,8 @@
     "mapSize": 448,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "394f1194c6c058ae8bf9c3955da6b7e8c7be81c5e3ae2959376c7eda9a260644"
   },
   {
     "mapname": "M02-FunMetzel2005",
@@ -2109,7 +2300,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "df4d22d3f16a669f80f03235d00d0a25dc2d6bc0ce7fc1c710d5bbb6792a33f5"
   },
   {
     "mapname": "M02-Gemetzel-8er",
@@ -2120,7 +2312,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "17a8a2d6d65435f9d2770810af7ccfa0222ac13b2421e7f8b3daba2232f3dd41"
   },
   {
     "mapname": "M02-gemischterkaktus",
@@ -2131,7 +2324,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3d457ebf5490ec09986b06436b13371413bac29a482141abc6210f25683a45e7"
   },
   {
     "mapname": "M02-GetunteAufbaumetzel",
@@ -2142,7 +2336,8 @@
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "1fe099ebc1773c89d0977333db65468793fe55fd6b4777447998dd2ebb9fc6a2"
   },
   {
     "mapname": "M02-Gewurschtel",
@@ -2153,7 +2348,8 @@
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "6a5b6062eb6853ac8a3071aceb5ab644b1896b9ff2bc3713ebefb45ec14dcb62"
   },
   {
     "mapname": "M02-Greenland",
@@ -2164,7 +2360,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "53cf139f9ddbb6c199996781c2ee9380c1cc08a4873ba3690f427725f7cac06a"
   },
   {
     "mapname": "M02-Guido_weitesLand",
@@ -2175,7 +2372,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "75635e9e84cad9152c662e5c00c557ed83c9bf4414ccd2e5b6fd93c54e794a20"
   },
   {
     "mapname": "M02-Handelswegebeta2",
@@ -2186,7 +2384,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "dd703e733a03d9eebd3b68ab677371ddb10a54863e10ece7ab5e11f9dff185d5"
   },
   {
     "mapname": "M02-JdK-Aufbaumetzel2-8terPT45",
@@ -2197,7 +2396,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7f61a47537eb5de9b2d05f66052360fc21067afaf3b915961f680f3eba3ed9b3"
   },
   {
     "mapname": "M02-JdK-Aufbaumetzel2er",
@@ -2208,7 +2408,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "0ba791be5ac3692516353aea085b48bc397dee095a35cb594a2be87af31e83c0"
   },
   {
     "mapname": "M02-JdK-Aufbaumetzel4er",
@@ -2219,7 +2420,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "64b596e35674515a4a7eb500cdc867bdf885c045c62553cbaf24e89888a19f09"
   },
   {
     "mapname": "M02-JdK-Aufbaumetzel6er",
@@ -2230,7 +2432,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "db8eab5d285e414d7ed39cc263c03ee40d8cc153a0436adf56d01e42d8a000ad"
   },
   {
     "mapname": "M02-JdK-Aufbaumetzel8erneu-fixed",
@@ -2241,7 +2444,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7a9bc473eb7af415061faf9c03c9c1571020c4d9eab5f1b745ad6cb5eb21ed39"
   },
   {
     "mapname": "M02-JdK-Aufbaumetzel8erneu",
@@ -2252,7 +2456,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "75eba5b477402e5d7a3a3c8c97e204f94806330089c8bf2047e59bc4b504fb71"
   },
   {
     "mapname": "M02-JdK-Aufbaumetzeldie8er",
@@ -2263,7 +2468,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "968b198385e5be0eeff56efdae275f143e0ae235a0a9126beaabcfa68d0beb29"
   },
   {
     "mapname": "M02-JdK-DerWettlauf2er0PT",
@@ -2274,7 +2480,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "0c754d888275ed7c0582f12f271b051ef8b2c4efad0583b2125198b453886238"
   },
   {
     "mapname": "M02-JdK-DerWettlauf4er0PT",
@@ -2285,7 +2492,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "c35b82cca21c05bcb2effd06bec3e56f1e6ee822dfda89850ba063e2b13a0f69"
   },
   {
     "mapname": "M02-JdK-ExpertenMetzel4er",
@@ -2296,7 +2504,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "cb810531f2fcb7f38fd9bdf8aefbdf6d89d9685bda5f4a21490214fffb5d428d"
   },
   {
     "mapname": "M02-JdK-Metzel-Streifen_durchs_Land",
@@ -2307,7 +2516,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "cf58f98680df448384d1a183e2914d0576b77fe17179f6896ec749a471ba875b"
   },
   {
     "mapname": "M02-JdK-Metzel-Time4er",
@@ -2318,7 +2528,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3755b0191690d5b5123f4ca5cf4e19fef9449c7cab74c782141fbbf105498876"
   },
   {
     "mapname": "M02-JdK-Metzel-Time6er",
@@ -2329,7 +2540,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "2c268d2fe292054c1b2634abd5919f1d830aa962d6396ff8604b7b870b3e8122"
   },
   {
     "mapname": "M02-JdK-Metzel-Time8erneu",
@@ -2340,7 +2552,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "0a9422cf514c48a831f669319717afcfc6f21382409e5d7ae1badb27a3858647"
   },
   {
     "mapname": "M02-JdK-SchneemannMetzel4er",
@@ -2351,7 +2564,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b502732d2569559bcf5a0cdac8b4dbe25ac59f0856bbd11bb089bbedb9ded4d7"
   },
   {
     "mapname": "M02-JdK-SchneemannMetzel6er",
@@ -2362,7 +2576,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "8ee54b87847bae1a6a18435b57f604fc7d71b4ead321b0330a9b223442c8879a"
   },
   {
     "mapname": "M02-JdK-SchneemannMetzel8er",
@@ -2373,7 +2588,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "65a9ab526885f3fa956ee3a1c85949a2ea3fe133d06172ec8e43a718ed2a316b"
   },
   {
     "mapname": "M02-JdK-Spezial-DIE1-Maya2er",
@@ -2384,7 +2600,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "8734e28d7aae163298ae4631858cb15fa6fb88d5c73ee964b123e0cf6fdbb3de"
   },
   {
     "mapname": "M02-JdK-Spezial-DIE1-Maya4er",
@@ -2395,7 +2612,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b7606d3099cb77398e303819a798e049aabd2d3d9a059d4bfd4ce7d8fe2dccec"
   },
   {
     "mapname": "M02-JdK-Spezial-DIE1-Maya6er",
@@ -2406,7 +2624,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "c6c25f4e2530865ce185be69bf0cfd83d651297fcad85479454209f6cf51570a"
   },
   {
     "mapname": "M02-JdK-Spezial-DIE1-Maya8er",
@@ -2417,7 +2636,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "b066d5f0e7839451cda4c3a3a3ae839833086572888236f164e045ca522eb351"
   },
   {
     "mapname": "M02-JdK-SternMetzel2er",
@@ -2428,7 +2648,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "9ca6b2ed8b31287038b58978e8fdd86d3b02ffd64e2a69b6ea16eae571ffaee1"
   },
   {
     "mapname": "M02-JdK-SternMetzel4er",
@@ -2439,7 +2660,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "2c928063979558578774dd02deb791424793d6642d28e7ae84d06582c67ad71f"
   },
   {
     "mapname": "M02-JdK-SternMetzel6er",
@@ -2450,7 +2672,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "982e2b9cd66b92a278485e4d43674fb79b5cc9e5138454fcb3ff0a16179cfb63"
   },
   {
     "mapname": "M02-JdK-StrategieMetzel4er",
@@ -2461,7 +2684,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "01825f89f1d69ab7c95dce55b8a801435a4641a30a11c597422fa249693c8412"
   },
   {
     "mapname": "M02-JdK-StrategieMetzel6er",
@@ -2472,7 +2696,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "a9dba695cb6416697a0909f2d64f826201da92e8a9a3440d070cf05d25eb118c"
   },
   {
     "mapname": "M02-JdK-Teuto-LAN2005MP2-6er",
@@ -2483,7 +2708,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "0ff9a94fbbe48cce199d5e427e5e3e281441da7d52e305282932fca89e25a7b7"
   },
   {
     "mapname": "M02-JdK-timetofight2er",
@@ -2494,7 +2720,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "a5141201dc4744ec18c0f91c44130c94dcc4103cb6154a0877a2d217f9ead3d5"
   },
   {
     "mapname": "M02-JdK-timetofight3er",
@@ -2505,7 +2732,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "75518a2e9e6792644e0b57b41a32209d9e391d23c2f44e86951ea95661cbf744"
   },
   {
     "mapname": "M02-JdK-timetofight4er",
@@ -2516,7 +2744,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "34ce0d793ed2db72ca1b1f925f5fc1848f84f73ba102d55337cbedf2c3afb937"
   },
   {
     "mapname": "M02-JdK-timetofight5er",
@@ -2527,7 +2756,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "367835470510eef20f9ac5eee39333ddf55fcc604e9d174f791d0013433d58af"
   },
   {
     "mapname": "M02-JdK-timetofight6er",
@@ -2538,7 +2768,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "c14e949d749d633edd6404268bf8cb46d59f25e59f9d52c04afc70c5b79eeb5e"
   },
   {
     "mapname": "M02-JdK-timetofight7er",
@@ -2549,7 +2780,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 7
+    "maxPlayers": 7,
+    "map_sha256": "74bf09cd1e247f1ccc58f604a1e283bc3aa6f64f0e60087e414928602e152ff9"
   },
   {
     "mapname": "M02-JdK-timetofight8er",
@@ -2560,7 +2792,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "bfc3c6632420855e1436c58036551d43a8027ae9238edba49ffbb5faa65009f2"
   },
   {
     "mapname": "M02-JdK-WaldschratMetzel4er",
@@ -2571,7 +2804,8 @@
     "mapSize": 960,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "467c46d6dd7be63631b0a9b4a5a78b0351c405541c4a09c89dba4eb90cef2966"
   },
   {
     "mapname": "M02-JdK-WikiMetzel4er",
@@ -2582,7 +2816,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "4dd884a03703ae7e1b3686b5e882b3ab6b2f82a39a8e90ed88ffbc0a82a6c9ff"
   },
   {
     "mapname": "M02-JdK-WikiMetzel6er",
@@ -2593,7 +2828,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "f070d1fee35d04ab0d6d0565f70417e7e72b730a8aaff3669ba7b9fc990ad83d"
   },
   {
     "mapname": "M02-jungstar",
@@ -2604,7 +2840,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "391ac7dffa85cb36c62a3baaaf44071f34d6fcedce74de79f239f8148f51d5ff"
   },
   {
     "mapname": "M02-k2",
@@ -2615,7 +2852,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "354ffa0a4380cea8857eef6b27ef9df8198cdf71017f51ad14140f124a560df5"
   },
   {
     "mapname": "M02-k5",
@@ -2626,7 +2864,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "5610ad739a33439e60baf18997bde3e756f86681bf718d2532cc0f440200651c"
   },
   {
     "mapname": "M02-k6",
@@ -2637,7 +2876,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "c54810adafe1d4ea9c07d20c58b5b1e43891b89b7ad4ebe519291e67eb798b70"
   },
   {
     "mapname": "M02-k6forgeta",
@@ -2648,7 +2888,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "c6f6b3a07af53b7393eb04bf25d515f8687360a25cd88670d6ea4d81bb3ddc9f"
   },
   {
     "mapname": "M02-KleeblattMetzel-6er",
@@ -2659,7 +2900,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "f2ce39fcf7ac45ebc45a014cb1711d8c35716868c1e09bbe64608f0eea4d1d91"
   },
   {
     "mapname": "M02-littlefinal",
@@ -2670,7 +2912,8 @@
     "mapSize": 320,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "f6123f7d9c4e732e9e08fe673d532b6b7982cefb2e60d733197ad05f26dc4a9f"
   },
   {
     "mapname": "M02-M01-Weltmetzel-XXL-fixed",
@@ -2681,7 +2924,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3cf67308d14acf9e1fbb9423fee0b35b7014fa35184601d8069ccacb49660bb8"
   },
   {
     "mapname": "M02-Metzel",
@@ -2692,7 +2936,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "8872a748f30eaad0b79d6e4732643806d2d29e2cda4d038e609e20ea56459793"
   },
   {
     "mapname": "M02-metzel1vs1",
@@ -2703,7 +2948,8 @@
     "mapSize": 448,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "73fcf4a26ab539c7ffb4bc5076a8791ec8567637ac63b7b26c5a51ea2948f587"
   },
   {
     "mapname": "M02-Metzel2",
@@ -2714,7 +2960,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "ad9bc6911817f679a60fd3bd0a04899d9ee32445cb13c3f2bc4d8a270065b955"
   },
   {
     "mapname": "M02-Metzel2003",
@@ -2725,7 +2972,8 @@
     "mapSize": 704,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b05cddd24051c3379f4a455d5c11eb8a061af37630f9e93eb9c6ef55df63a137"
   },
   {
     "mapname": "M02-Metzel2005-4er",
@@ -2736,7 +2984,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3714f68014acd91dfcda65aeb189867ad530ab4cd2138efe53a448f1c66dcceb"
   },
   {
     "mapname": "M02-Metzel4MegaundCU",
@@ -2747,7 +2996,8 @@
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "654a1247ba300059034c908f371cf722769376e0c832ea4722b14c800984d244"
   },
   {
     "mapname": "M02-Metzel4SOCDragonheartundCU",
@@ -2758,7 +3008,8 @@
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "47f27cf07324310228cdc3112dc9effc0a930afc39c18ee0bfc4ee1d04be1bc9"
   },
   {
     "mapname": "M02-Metzel5undCU",
@@ -2769,7 +3020,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "8faf5fff0404afa89c0279319f1643e993847d41a088869a59dc0e4656d410b3"
   },
   {
     "mapname": "M02-Metzelchen4",
@@ -2780,7 +3032,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "15d71a1b905e19163cb72fa7a443935670fb6f393218909e9fdf3742acf95c09"
   },
   {
     "mapname": "M02-Metzelchen61_0",
@@ -2791,7 +3044,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "e5e5e25485028ca42a7ef5539ed7f79b4e5c2d654fd263443d01f4a8106b9251"
   },
   {
     "mapname": "M02-MetzelderWikinger2-6er",
@@ -2802,7 +3056,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "96e56d96102138bd51f10cc921dde6c84d222862459d562c4267382022020fd2"
   },
   {
     "mapname": "M02-Metzelflower",
@@ -2813,7 +3068,8 @@
     "mapSize": 576,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bd0bfeb12805b7fd61139b3b3dfbf7add3cadd89ddbaf7f3cc01f68723118be0"
   },
   {
     "mapname": "M02-MetzelFlower2",
@@ -2824,7 +3080,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "90f882f9f6ede360a6e640d3a50eaa94a4ba321c881604a6b5c710af9d64f337"
   },
   {
     "mapname": "M02-MetzelHexagonv2",
@@ -2835,7 +3092,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "6556abed9b4c46cf382f0aff79fae949e0031f750f94adee9882d7dd7bf8206c"
   },
   {
     "mapname": "M02-MetzelPur4er2_2",
@@ -2846,7 +3104,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "612f97347cff21338306b12bfc88a4e580d28d2e0823b1531b3c02e41889bc17"
   },
   {
     "mapname": "M02-Mini-Wiki",
@@ -2857,7 +3116,8 @@
     "mapSize": 256,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "d69ea234a7b2dc80efa2e5f680aaa5fcbb823365f31244eb25e9100beb51b3b2"
   },
   {
     "mapname": "M02-MosMiniMetzelfuerschwaebisch-sparsameHaeuslebauer",
@@ -2868,7 +3128,8 @@
     "mapSize": 256,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "5619d457a30e267dc3e6d53d95464842a78182d4c2de0ec0b4d43919657ebbc5"
   },
   {
     "mapname": "M02-NBY_HGLG_Metzel_8er",
@@ -2879,7 +3140,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "367429b8ba140834896ce04b5a247336b73f8de763c3f8437668bd5bd60e0d1d"
   },
   {
     "mapname": "M02-NDerAuswegbeta3",
@@ -2890,7 +3152,8 @@
     "mapSize": 576,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "a485e46679d28693a04deb90979d7b605f2de5189fa7db96fa29c16f1f94ffac"
   },
   {
     "mapname": "M02-No1-Metzel-6er-Wibb",
@@ -2901,7 +3164,8 @@
     "mapSize": 640,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "151f8433553ecaba418cf9a7414918517f3f63e85aac4db4b02e0d5eeb5a362c"
   },
   {
     "mapname": "M02-P-Metzel-hg-lg6er",
@@ -2912,7 +3176,8 @@
     "mapSize": 832,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "c2ef4cd1decb93f76eadacb93d7aa8013a1b1d7e89adb4b9b0b50fad71218f16"
   },
   {
     "mapname": "M02-P-Metzel6er",
@@ -2923,7 +3188,8 @@
     "mapSize": 832,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "71d3a9ab68ad9c955d25d8885fc943ff72c856a4f957a3118b0e524a3183291a"
   },
   {
     "mapname": "M02-poptakalika_02",
@@ -2934,7 +3200,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "365c0325807b614e6288b7e6a77930899d1c473455f4d2138b5911897af12020"
   },
   {
     "mapname": "M02-Quadratur-DieMetzel",
@@ -2945,7 +3212,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "37702602faf24465ed150252f965b70c5419de9be8b62af62830b771c99b6937"
   },
   {
     "mapname": "M02-Quickzel",
@@ -2956,7 +3224,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "be46d9ec8a22fa0e84a1ca9db3682aa06f1a419b11d75ffb1b98e7a8b1b73041"
   },
   {
     "mapname": "M02-RoemerDuell",
@@ -2967,7 +3236,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "070ecb09896057a5984f9271e4efd229002d54e1c4a70bc47ad522e13d1eae6f"
   },
   {
     "mapname": "M02-Roemermetzelxxl2004",
@@ -2978,7 +3248,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "c012a7aa8fd586025d0f37ab2b8fedff91ee8f9945d7f3051814ae257f426494"
   },
   {
     "mapname": "M02-RoemermetzelXXL2005",
@@ -2989,7 +3260,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "9aa41240adbdb6c66bd0b065519b32bfaac0899b61c0fb1a4283d1c825a64690"
   },
   {
     "mapname": "M02-rumblendajungle",
@@ -3000,7 +3272,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "950807c64509ec2eea0e1df4ca933b4a536296954ca3281e9bb8900e69a50cd2"
   },
   {
     "mapname": "M02-S3-Alien-Opig2001",
@@ -3011,7 +3284,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "182d69a229a1ceae4ac9cba5185c5b8f8256309278decffcd3e9994bad2717eb"
   },
   {
     "mapname": "M02-S4WM_DeadmansWalk",
@@ -3022,7 +3296,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "a63bc38827720020d6d6788912cdba85e36bfb24c47a709bfd6b01973f7db0d7"
   },
   {
     "mapname": "M02-S4WM_Sumpfhausen",
@@ -3033,7 +3308,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "abf9419350c860cb713d799c7e40848d6df6a72972172607aa7df92800dff38f"
   },
   {
     "mapname": "M02-SchowiederMetzel",
@@ -3044,7 +3320,8 @@
     "mapSize": 704,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "9b56bda68682f53b8cb3185e10f6eea33fe6f58a226dfa77a9ba4cc8b649a50b"
   },
   {
     "mapname": "M02-Schranzwerk6er",
@@ -3055,7 +3332,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "bcb4dcfa9db3d74fdfa49b113e3e90718815e82b1a40de41ca4e892e00a4fe53"
   },
   {
     "mapname": "M02-SchwertmetzelxlWorm",
@@ -3066,7 +3344,8 @@
     "mapSize": 832,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "09370a8b11753fd11a4c07fa5986a3abdf2845e56a3a31319f949f2d7891e187"
   },
   {
     "mapname": "M02-SMS-6erSuzuki-Metzel-XXL",
@@ -3077,7 +3356,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "4658ee9674876c1c70fdcf47c0f7acb706a169301c7c10f0a0405e3156982b6d"
   },
   {
     "mapname": "M02-SMS-Beachparty-6er-v_1_1",
@@ -3088,7 +3368,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "95168410a5ede7907ff43951fc44b9aab9f8b0776fe1a321fdebc208ee7d4302"
   },
   {
     "mapname": "M02-SMS-BlumenviereckXXLMetzel",
@@ -3099,7 +3380,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "557a87f43e9b9505e157dcb5b9fb50c6c22e52ece520363d4b8a86318bd29b3f"
   },
   {
     "mapname": "M02-SMS-CubesMetzel4er",
@@ -3110,7 +3392,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "408f886dd63787c4279d20f0c20997b882ddc1944132f59f0eeb0c1a854d5413"
   },
   {
     "mapname": "M02-SMS-Dschungel-LabyrinthXXL4er",
@@ -3121,7 +3404,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "6006452cc8f1343cc09316881e2caed09af92ce219dbb2b0900473818b4fefaa"
   },
   {
     "mapname": "M02-SMS-SchneeOase4er",
@@ -3132,7 +3416,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "7635177a478a970626e95fdaa0bb0320251fcc85179750417f02620d3170409b"
   },
   {
     "mapname": "M02-SMS-thelongway-4er-v_1_3",
@@ -3143,7 +3428,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e7addaa9ec2b13ffbfdb10e664d49a4cad1be9d8964024acf32f3d99ecfb1dcb"
   },
   {
     "mapname": "M02-SneakySneaky",
@@ -3154,7 +3440,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "076634f7917038942c1bcbc6d6b54d066fd1d9b2166debaa000f8b84a0546b5e"
   },
   {
     "mapname": "M02-SnowFight",
@@ -3165,7 +3452,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "1900b2a0774dd4c7824472b26f1a4bbd679c686833bcab6cd57d7d2eab60bbb8"
   },
   {
     "mapname": "M02-Squares_2_romans-3er",
@@ -3176,7 +3464,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "6dd5964e23b35868a76999ac63f2df4255445015bfb882fff773295ac4cc8ff4"
   },
   {
     "mapname": "M02-StrandMetzel",
@@ -3187,7 +3476,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "784754ab2f9ed2b8cd86d95529d256786c4c25a29d1717f05e7812d7aca629b2"
   },
   {
     "mapname": "M02-TRIPLEWARS",
@@ -3198,7 +3488,8 @@
     "mapSize": 512,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "21934a8bc2e402e9541bba5006723926a0c6e31c4700fc77f3256eb18bc47124"
   },
   {
     "mapname": "M02-TuS-MetzelxxL",
@@ -3209,7 +3500,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "8781549ed515be18210133e6293a94f24552f681dee4ed0c5b5f504de2edcf92"
   },
   {
     "mapname": "M02-U-Metzelhg-lg4er",
@@ -3220,7 +3512,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "aa1dba51a44753b80b95f4c6eb7798b569c2822576b94bb780d5ba012e04f5e2"
   },
   {
     "mapname": "M02-U-Metzelhg-lg4erskripted2",
@@ -3231,7 +3524,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "ad7cd5eb98c3d03556934cb36c713430f3748a2d943ff36cb9116c325799b36a"
   },
   {
     "mapname": "M02-Virolent6erbybelger1_01",
@@ -3242,7 +3536,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "088e80ba8a55ce13b9a0a4e9a629f0d491e582d04f21eb9ad122260815e0e971"
   },
   {
     "mapname": "M02-Virolent6erbybelger1_02",
@@ -3253,7 +3548,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "8e3d3d9881a5e937a63889897a6410902de1c752308afa03e16423d0223bfa75"
   },
   {
     "mapname": "M02-VoelkermetzelmitTroianer",
@@ -3264,7 +3560,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "3b835f9f24e3f530bcd2c32fb450e45f6defd98f127d987686bc280b176f6139"
   },
   {
     "mapname": "M02-WaldsprintSpecialEdition-4er-Roemer",
@@ -3275,7 +3572,8 @@
     "mapSize": 448,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "75cf784353fa5f16ba21c794df9f1b1985cf49b65fac75b818fe4066d4aab6b2"
   },
   {
     "mapname": "M02-Weltmetzel-XXL",
@@ -3286,7 +3584,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "d32551ab8626405736afdb1db9c587ebc3f02c3c6066fc9e2c4293cbface05ad"
   },
   {
     "mapname": "M02-Weltmetzelmitmanaundschaufeln",
@@ -3297,7 +3596,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3a38c70c77c5d79fc3b0246972afbb81a47a390c3656e44aad85b026ee440fc3"
   },
   {
     "mapname": "M02-whirly-4er",
@@ -3308,7 +3608,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bb5038e8f5f4b484d6e4e36c7acc49cb2943c9c570ce275454c82c0df507e93c"
   },
   {
     "mapname": "M02-whirlytastic",
@@ -3319,7 +3620,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "6ed2024f83d32173b50570f547d9cb9d9bff40cb35f0ecd2d3728438abfaf936"
   },
   {
     "mapname": "M02-WickiederWikinger",
@@ -3330,7 +3632,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "022b06c6f780075d7616ff830b922e6a22e4bc975fe37f858a7758144cb507b1"
   },
   {
     "mapname": "M02-Wikkishauen",
@@ -3341,7 +3644,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b420f214cdf754ec1203e18b9813caae675c5b2e3df35118200a4205c2ef0af2"
   },
   {
     "mapname": "M02-WikkishauenLM",
@@ -3352,7 +3656,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "1be3da09d8146149d04dd653a827948a4b9b93b9483b7a3ff33f26eb0085ab89"
   },
   {
     "mapname": "M02-WM2006_Metzilein",
@@ -3363,7 +3668,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "468ea2b320fe0053e7c3b008145163808eeb78d76eb2b6d97471a838c0be163d"
   },
   {
     "mapname": "M02-WM2007_YingYang",
@@ -3374,7 +3680,8 @@
     "mapSize": 640,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "dd51fa2a91c1176de0478571464cc76117e005f9eb5885acd48fb7b817130171"
   },
   {
     "mapname": "M02-Wuerfelchen",
@@ -3385,7 +3692,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "0fd1edd448e94c831d22ea2941cc75fe38353e5df73ac26b63328d2ba7a0602e"
   },
   {
     "mapname": "M02-XerxesmetzelXXLa",
@@ -3396,7 +3704,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "36cae985c58e2d4606f04ede1253a6f483e86ba73cdf882bbc61b9548ff5ca2b"
   },
   {
     "mapname": "M02-XerxesmetzelYOG4",
@@ -3407,7 +3716,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "db84cfcf869c54fa7c7cd9ed263776095a501455cd7711ec7b65687fcfff08fc"
   },
   {
     "mapname": "M02-XerxesmetzelYOG5",
@@ -3418,7 +3728,8 @@
     "mapSize": 896,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "445b566cfd63054843feb315d3cadbc5b7b567a8aa24808e2566834b708dc3f4"
   },
   {
     "mapname": "M02-XerxesYOG1-4lowgoods",
@@ -3429,7 +3740,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "1b0899dc746dd94bf0cce77245df5275261c0c6360b3143904c1c99354fc3310"
   },
   {
     "mapname": "M02-ZulusGarden",
@@ -3440,7 +3752,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "0f69cf2dfb90e6bb83cc0552533a9496bd508913d1d5cd1685a6b7b7b872ffa6"
   },
   {
     "mapname": "MP-0h_Fratzengeballer",
@@ -3451,7 +3764,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5035dc6a3db8dc2a31099c7710d48df242889a53c11bf9f59f4cea1885f9bf72"
   },
   {
     "mapname": "MP-22_waffenschmieden_MP",
@@ -3462,7 +3776,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "894c5584293c3b35e2e5dda2036166a5bb8044a0471c80ac325f82e6f9cdb306"
   },
   {
     "mapname": "MP-3er_Koop_Spezial",
@@ -3473,7 +3788,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "93a7a4854e9eb5f0e803b13d70ff0d632502d0cffcfac2d4c33b6a0775721521"
   },
   {
     "mapname": "MP-5x3_METZEL",
@@ -3484,7 +3800,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "747f852acc4b849a5af30e0b50b232307b4662bf9235769c3de88e50fb435e7a"
   },
   {
     "mapname": "MP-6er-Metzel-fixed",
@@ -3495,7 +3812,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "d4835941aeee259bbae847817be9ef8d8b22e98f78e70126cefdb4c9bcd4414c"
   },
   {
     "mapname": "MP-AutoSettler_2vs2_Buddel_v0_6",
@@ -3506,7 +3824,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5f23d6a137da561066aa53d270f6045313eb207bf18afee2a2d79f212eb6512e"
   },
   {
     "mapname": "MP-AutoSettler_2vs2_Metzel_v0_6",
@@ -3517,7 +3836,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ce3677aad70daf76f9c56202b00f726426ccb57e791789ede7116ec9c8b726be"
   },
   {
     "mapname": "MP-CDB-Metzelfuzzi2-8er_xxl_METZEL",
@@ -3528,7 +3848,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "9bc0ad7b4c801b12706108117e349627d58c135903a345a1d4e50b7060a52f6d"
   },
   {
     "mapname": "MP-CDB-Schwarzer_Dart_METZEL",
@@ -3539,7 +3860,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "a1df80c5ed97174adca595f17dae929fb6fa43a56f73dd58c26f548756bdc138"
   },
   {
     "mapname": "MP-Der_kurze_Wege_Xtrem_v2020",
@@ -3550,7 +3872,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "4991d586c93c534de67077b21d433ce86abb04c8ce4cbe15221c3ec790df6a20"
   },
   {
     "mapname": "MP-Der_Ring_des_Schicksals",
@@ -3561,7 +3884,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 7
+    "maxPlayers": 7,
+    "map_sha256": "ea94beddffade494d2e1238ea4a1b73b20c9c0f09017e7805f661ed2f1b84ea4"
   },
   {
     "mapname": "MP-Der_Sicherheitstum",
@@ -3572,7 +3896,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 7
+    "maxPlayers": 7,
+    "map_sha256": "edf24b50cd31241feeb068833a008afbe7668a630af20c154a6502ff1bd8e0c5"
   },
   {
     "mapname": "MP-Die_Trojaner_kommen",
@@ -3583,7 +3908,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "722022b883146546d82d1a19beb01f4697567f3f41a30d5585ad26f8b4301bea"
   },
   {
     "mapname": "MP-Die_Trojaner_kommen_4erbeta",
@@ -3594,7 +3920,8 @@
     "mapSize": 704,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "c213ee85f6a534a468b9c961c9ed507e0a523195a1fd3c6b6500015962dcec6e"
   },
   {
     "mapname": "MP-grosser_run_ums_gold_METZEL",
@@ -3605,7 +3932,8 @@
     "mapSize": 704,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "e0bf54ea74ec4e42ce252c382e2d8c3afd9d7cf8013741bec71d50f835c3bd6c"
   },
   {
     "mapname": "MP-KoopFjordkontrolle",
@@ -3616,7 +3944,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 7
+    "maxPlayers": 7,
+    "map_sha256": "778fe9cc2054c3e0c935f709da7b9e91a764da45af720ab895f1c7d3547ff9ca"
   },
   {
     "mapname": "MP-Metzel_um_dein_Leben_METZEL",
@@ -3627,7 +3956,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "62f3e3426c577d9795bfccc25e01352bc4485033443aaeca57e3bd3fdfd2f340"
   },
   {
     "mapname": "MP-Nichts_ist_noch_zu_viel",
@@ -3638,7 +3968,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "82fd115a3bb99cc9be28b9fc3f25bedf9ff76b693e019f76ae8365aae9e09cd8"
   },
   {
     "mapname": "MP-OP-Superlative_Metzel",
@@ -3649,7 +3980,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "26465a46614f5134561bf130633d204bbefee465ce95282ac3939ab40d4b6fa7"
   },
   {
     "mapname": "MP-Q_Schink-_Kong",
@@ -3660,7 +3992,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "c2d534d7e87f79980ac9ef4f64a4a4ff9f0f81f34f5991cafbddaec4999e74e6"
   },
   {
     "mapname": "MP-TheDivineTyrantEng_1_1_6",
@@ -3671,7 +4004,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "07dee732f491fed72dbbb139488439be7e98f8a53b05ed41370ed4e4140ad935"
   },
   {
     "mapname": "MP-TheDivineTyrant_1_1_6",
@@ -3682,7 +4016,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 3
+    "maxPlayers": 3,
+    "map_sha256": "73cb15cb03c58e1b4db1cc806d7638d762d61f6bbfdbaa716f3eccc762cde689"
   },
   {
     "mapname": "MP-TowerBattle6er-v1",
@@ -3693,7 +4028,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 7
+    "maxPlayers": 7,
+    "map_sha256": "ba212b04388276a675c5a604179ca614d8e3e8cd13f570a307649fc0f46656df"
   },
   {
     "mapname": "MP-Trojaner_Schatzplanet_METZEL",
@@ -3704,7 +4040,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "ee7ac469d48bf211a0d58d5974da01014cc380c3aaff9811094e3afc2ced883a"
   },
   {
     "mapname": "MP-Umzingelt_raffnix",
@@ -3715,7 +4052,8 @@
     "mapSize": 1024,
     "defaultGoods": 1,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 7
+    "maxPlayers": 7,
+    "map_sha256": "a0bec0acb8baf34721f8233ef10c181b5ca322fe777b2721e1b9933d5b98571a"
   },
   {
     "mapname": "MP-Was_auch_immer_kommt",
@@ -3726,7 +4064,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "6adf5509c6de120de434ac30408443b3e60640866ef55d50e67f7744fb5d6851"
   },
   {
     "mapname": "MS01-FuelTheWaves_1_0_4",
@@ -3737,7 +4076,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "99ddd22f5e272d9c0db1fa9e40c6c9c1f92058cf0e832ae98f6b33d17ef5fa27"
   },
   {
     "mapname": "RG8-001",
@@ -3748,7 +4088,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "6d210370d49446187fcdb0968923fa5583b3f1caebbab92d45acc1537286ed9a"
   },
   {
     "mapname": "RG8-002",
@@ -3759,7 +4100,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4d309a0b38eb9ef94557a5c8561c2a41ecb7449688c406fb591901bd8b125273"
   },
   {
     "mapname": "RG8-003",
@@ -3770,7 +4112,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "54b5f6c321d390fb4b55f86a7d403b9183a5972e2a58473d7c3cee15e9b96244"
   },
   {
     "mapname": "RG8-004",
@@ -3781,7 +4124,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "439630bc77441633cdd6c3b391b58072b8ff98e942c58cd3c51a519ee749193b"
   },
   {
     "mapname": "RG8-005",
@@ -3792,7 +4136,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "cd0022d36a4da1b1cca981e938845b73cb27f4e31d074df7879994fafd856396"
   },
   {
     "mapname": "RG8-006",
@@ -3803,7 +4148,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "748c1b89a526f991ccaa4f53706d5a6e0b3c6b27487b2fa05718607cbd8c9821"
   },
   {
     "mapname": "RG8-007",
@@ -3814,7 +4160,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5845c5b664f1cd7df162007f3d7cf7436a6abcbedfdcacecbb203c08a90f91d5"
   },
   {
     "mapname": "RG8-008",
@@ -3825,7 +4172,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "31eca50ddb3ee5aa90cdd7a2e80160b09db05e1f1ebf7f9365b068780e4a53e5"
   },
   {
     "mapname": "RG8-009",
@@ -3836,7 +4184,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "260a62321c5316fccb0dfb6ee233186dafcae0260abbc9591cfcfa25c4d34504"
   },
   {
     "mapname": "RG8-010",
@@ -3847,7 +4196,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d4e49700f7e30654fdf453809d37dfb80c90c69ad523a7ae0e6f0729a656b8ea"
   },
   {
     "mapname": "RG8-011",
@@ -3858,7 +4208,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "174511b5e9453d0450aabfbb3cc90cda80c3c548125862366064d4773685f42b"
   },
   {
     "mapname": "RG8-012",
@@ -3869,7 +4220,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d271305fe8eab2a0c4ca6a4188465b06e8dc9e5cf0a42dd6da4a28fc0d0ad744"
   },
   {
     "mapname": "RG8-013",
@@ -3880,7 +4232,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7308d2700e5c245b70dd4f5cfc0e4cc5df41c701c2c5267907d9d0cfbf773d8c"
   },
   {
     "mapname": "RG8-014",
@@ -3891,7 +4244,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ddfb22314e2f55b8fe2677692b65225fac141235cbf7966057b80acdf4c19e96"
   },
   {
     "mapname": "RG8-015",
@@ -3902,7 +4256,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "6adfcf9b3e3e603825f6230cbd6001ecc07076ddef61c243dfa54f11d9e5b3ea"
   },
   {
     "mapname": "RG8-016",
@@ -3913,7 +4268,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "0d42ea49bace9d1d50c4991f39dda2cc8783dafde06c88014e591738ba066219"
   },
   {
     "mapname": "RG8-017",
@@ -3924,7 +4280,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "60b2f4adca72c62a5994b846cc89220f0e93bbda606aa1b824d1cfbc0030e5e9"
   },
   {
     "mapname": "RG8-018",
@@ -3935,7 +4292,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "b9a8a00a52190cb93f79d5dc6fceb74ac87363bcc462633407eb9664ff54803d"
   },
   {
     "mapname": "RG8-019",
@@ -3946,7 +4304,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "1a32251cd5645d321859d3b4009ff4224fe3d60be45f2719598494f5bb060c82"
   },
   {
     "mapname": "RG8-020",
@@ -3957,7 +4316,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "90a707d17a8121fffeb84b62281f599cd540a0a246ed36c5dae3bac6bfd9316c"
   },
   {
     "mapname": "RG8-021",
@@ -3968,7 +4328,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "57fa98d7f9ad7951b8dd2eefa24e9aa90a3a669d1b3c0248e8e89478a8049fff"
   },
   {
     "mapname": "RG8-022",
@@ -3979,7 +4340,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "69be2f3949884143121ac4d576794f595639af93c693a46b6be07fa9aa45d04e"
   },
   {
     "mapname": "RG8-023",
@@ -3990,7 +4352,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "14be64a47f0526778b96fd878a8abcbcc282fa0558915138bdc04cdeddad65e3"
   },
   {
     "mapname": "RG8-024",
@@ -4001,7 +4364,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "27f7e3010e7ce41004cab340015aa01bb16eadcfb438e040a5b1ed8422d3b559"
   },
   {
     "mapname": "RG8-025",
@@ -4012,7 +4376,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "cc9d02b9050a884161a52e156aab8b4efbcb169f4415957c9fee43fd054c27cd"
   },
   {
     "mapname": "RG8-026",
@@ -4023,7 +4388,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "e72c7f96595b80b657d23b2eeedd0240c2a56e146d871ed7df2dd472539a9565"
   },
   {
     "mapname": "RG8-027",
@@ -4034,7 +4400,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "f7ea58d0074fce1463b1005d999780be8ebfe5c62b0fd83e1111944c554a4474"
   },
   {
     "mapname": "RG8-028",
@@ -4045,7 +4412,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4732bc8d910ac098ca8462729af6d2a0221babb0d84a611961bf5c48c590fdb9"
   },
   {
     "mapname": "RG8-029",
@@ -4056,7 +4424,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "97f92b2d93b2b3ff3313067f0ad5b84ca344e4365f226c4c7c5df2a9d9880d93"
   },
   {
     "mapname": "RG8-030",
@@ -4067,7 +4436,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "246b8fedcad4e9aba648d3a19894ba00deb0ff9980f530920ed44642581fd50c"
   },
   {
     "mapname": "RG8-031",
@@ -4078,7 +4448,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "01b71f905857c90a241fdd1977b3f0130c8f57371ca9498b6dd9c285e9c0684c"
   },
   {
     "mapname": "RG8-032",
@@ -4089,7 +4460,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "e780bc85150d633f2808a2bcf01cb3aef769d9a0abe61691ba819bd39ae35481"
   },
   {
     "mapname": "RG8-033",
@@ -4100,7 +4472,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d625a00f7559832a7f15d2acaeb02cbe1adc9d9bb7d53f0bfae50d9fa377b4a3"
   },
   {
     "mapname": "RG8-034",
@@ -4111,7 +4484,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d9e9e9a769d9f9eb34df4a6836128d0cca1de5e3f0a3d966ee1d25311604a245"
   },
   {
     "mapname": "RG8-035",
@@ -4122,7 +4496,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4bc73740f7f666ca96a882aa4ffdd9c7cc2baf9158a40af63cd82675ed745b1f"
   },
   {
     "mapname": "RG8-036",
@@ -4133,7 +4508,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d207e670eaae1878c58032442d68983526e91c58c94368b2fa1c35851d0d519b"
   },
   {
     "mapname": "RG8-037",
@@ -4144,7 +4520,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ae717e07f8797be340f9dba465c7bdf6876ee26ea02e3c20d6ba271c427af8ea"
   },
   {
     "mapname": "RG8-038",
@@ -4155,7 +4532,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "56ba24dd522ed3ecf94824c0a11a1d7714a22f0ebf6e8fe03c4445cfa632134d"
   },
   {
     "mapname": "RG8-039",
@@ -4166,7 +4544,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "300c5c98eb32e26cece878c47e5f2f1b0500fd44c38ec70e74716f2fa72aa7c5"
   },
   {
     "mapname": "RG8-040",
@@ -4177,7 +4556,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "6bea1d9a53775cedf6f0d7e856a7fd8938ff8a0ebf079b04ba294c2be5334e86"
   },
   {
     "mapname": "RG8-041",
@@ -4188,7 +4568,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7b092742856323c50992320730f7700a42b0f068880218b6349569558860ed74"
   },
   {
     "mapname": "RG8-042",
@@ -4199,7 +4580,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "663dfb88720c3dd8b1b9df76e28ffae741bc1a9de8540406d119d20f0dbe1c0b"
   },
   {
     "mapname": "RG8-043",
@@ -4210,7 +4592,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "000a63d5c5806c49d374069cede9308caebe0fd68ab63bb7aff78757260b54d5"
   },
   {
     "mapname": "RG8-044",
@@ -4221,7 +4604,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "fcd2454a92c109b15d1e73dc92f3045684b9033e36b1e76f5b4249e73994906f"
   },
   {
     "mapname": "RG8-045",
@@ -4232,7 +4616,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d5a7ee4cb575a4d0a35d755c306bae972f0b37b96b8f7c4d2e14fd5489e1433b"
   },
   {
     "mapname": "RG8-046",
@@ -4243,7 +4628,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "05fdac07f4ae035fae24d24b660eb5cd1da9c2299c14b65951408cfa62cea8d2"
   },
   {
     "mapname": "RG8-047",
@@ -4254,7 +4640,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "2a3648751fbc0116d11dba70f2f4d10ef9af4ffbf271b2a8efd460d357718736"
   },
   {
     "mapname": "RG8-048",
@@ -4265,7 +4652,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "b6c9f9edd1e0375dd337448735c910e410588d339fb9896c62db861dec083040"
   },
   {
     "mapname": "RG8-049",
@@ -4276,7 +4664,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "bb043befad1dd9e7a87866c9ee447bf138e56a3925cab085d3c0479cdca8907a"
   },
   {
     "mapname": "RG8-050",
@@ -4287,7 +4676,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "da14f0cf6fd912e712b99f7315ab2ecb075232b5a695887820f2fa5e26d94e12"
   },
   {
     "mapname": "RG8-051",
@@ -4298,7 +4688,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "bff9d982d6ae01192164d78e8c8353494682c3186b22e69d150bde1818c40378"
   },
   {
     "mapname": "RG8-052",
@@ -4309,7 +4700,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8be7b7776c7a852f973a9a43618f5bf88a51d8551f524f594e21e72e38c703ed"
   },
   {
     "mapname": "RG8-053",
@@ -4320,7 +4712,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a773e5c8ae49d15533a3d7295c054a42f648ff3356c515ef2bcb35858a8cf562"
   },
   {
     "mapname": "RG8-054",
@@ -4331,7 +4724,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "0b0d6bb2bed19b872c25ec1ffda8ee46cb8b39db2b9d500ddba22ce59f8a4a7f"
   },
   {
     "mapname": "RG8-055",
@@ -4342,7 +4736,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "59e9b57c4adc5b94ba336941cf54fb696364058ed3fea86ff00f2450cc79d9f2"
   },
   {
     "mapname": "RG8-056",
@@ -4353,7 +4748,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ff9fc606b56f1550411131b68aeef2c4aceeb7bd10e520850fcffb0100aac016"
   },
   {
     "mapname": "RG8-057",
@@ -4364,7 +4760,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "6f22b9fc4500c843ba09daf9d7d3147a7559066251fedd5ac04365e1042d31b0"
   },
   {
     "mapname": "RG8-058",
@@ -4375,7 +4772,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "1dd084099fc2d2138835003f0cd9f84808aeb09c1820cfe784866bd290d721f9"
   },
   {
     "mapname": "RG8-059",
@@ -4386,7 +4784,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7644e36d7d20a5b748f6078a15dd09f5ab14d6a1c02ced7a5507edca823f01cc"
   },
   {
     "mapname": "RG8-060",
@@ -4397,7 +4796,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8e7ed5d452a099764589fb42786cd49b7011cead322acf03167b585e058ac455"
   },
   {
     "mapname": "RG8-061",
@@ -4408,7 +4808,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ac52da02ae41073fcadcd06dc988fc99c0b07f31a0c35f55e17d4d546bb87703"
   },
   {
     "mapname": "RG8-062",
@@ -4419,7 +4820,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "66ed8338e14d3f580aac7701f3fa534a319b134659b90a456c0d57d1e78891f8"
   },
   {
     "mapname": "RG8-063",
@@ -4430,7 +4832,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "9a7afc6ae671d6d5f0cf1581aca9fe7acebcbfbaf79812ff30c213c9a35adbac"
   },
   {
     "mapname": "RG8-064",
@@ -4441,7 +4844,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "69ad98212cb39011c3a7d3963ad50d8405e1053464af91860e4ea177940cca15"
   },
   {
     "mapname": "RG8-065",
@@ -4452,7 +4856,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "2f50e8d8327afc9221ed44694eab2b600c4e9a12a65157166c51bbb2da8e0a3d"
   },
   {
     "mapname": "RG8-066",
@@ -4463,7 +4868,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a32beff4be8d1e1bc48e98e1bc2aca281d02ef3de5fe3d408b461891ec8a62d5"
   },
   {
     "mapname": "RG8-067",
@@ -4474,7 +4880,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "666f979a8efc94658d1f663c39000bb13eaddc1df8c5d583f57c11a70622f995"
   },
   {
     "mapname": "RG8-068",
@@ -4485,7 +4892,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "3a95ac0675fa88af19927a5b2550e38e1d6291ab13e3ac89f140b3a3a0e6ccaa"
   },
   {
     "mapname": "RG8-069",
@@ -4496,7 +4904,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "0ead327884181148b7a2f87cbe4fd1fe5b50331a378d4df3cbe100923a55faf1"
   },
   {
     "mapname": "RG8-070",
@@ -4507,7 +4916,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4ff40c379d7d2c141f699cd4231161b746da8d171604a276b3d5182a5961483c"
   },
   {
     "mapname": "RG8-071",
@@ -4518,7 +4928,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "2a9e11f11bb87ee5913725694ce8d6259b6a7c18d55897ab7c17165a9720993f"
   },
   {
     "mapname": "RG8-072",
@@ -4529,7 +4940,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "af4d383a60a9b684f9baec933f1057f02142f7b900a469c8bd170a5eb3547ae1"
   },
   {
     "mapname": "RG8-073",
@@ -4540,7 +4952,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a343c64ca5a2261749fd39f4de873a8317b549a2bda793f99d5c652dbdb8fe85"
   },
   {
     "mapname": "RG8-074",
@@ -4551,7 +4964,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "8b25178e9c42f230970a6d9571f095b1771e1bf2062409b687713fc2a21447cc"
   },
   {
     "mapname": "RG8-075",
@@ -4562,7 +4976,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "86e15810719d2248f6b4ab1fd8ab0f4e0512d7b6fc6d13a49e190fc704c4fa59"
   },
   {
     "mapname": "RG8-076",
@@ -4573,7 +4988,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "35f256f4897f958e3529903f63cdd23367d38e9db0094c5d5e0f103a239f0e38"
   },
   {
     "mapname": "RG8-077",
@@ -4584,7 +5000,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "944f1959ed52c809d5e5317fbc08f0f096eeb8f0da17c3d7b1123011d4a4b404"
   },
   {
     "mapname": "RG8-078",
@@ -4595,7 +5012,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5ebcaf12ff9ebbaea29852eac0c75b86658a24082b0e38aad832e2773e24c85f"
   },
   {
     "mapname": "RG8-079",
@@ -4606,7 +5024,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "f64869308f69d1f70f47efc9827cc1e417d52a8758b9b16a5bc65b0338abcf3f"
   },
   {
     "mapname": "RG8-080",
@@ -4617,7 +5036,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a1c248bf3987bd33dc9b8a6c126383879c4251a27d3363646c0f018aa8d29644"
   },
   {
     "mapname": "RG8-081",
@@ -4628,7 +5048,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "39e2c10fa0386282af730740678454ebd048a2a64261a94858ff1b3c02cebfce"
   },
   {
     "mapname": "RG8-082",
@@ -4639,7 +5060,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "b5f046df9fb13b1ca9c88d60f86d57532d57fbefe0627dadea9aeede5b0234d6"
   },
   {
     "mapname": "RG8-083",
@@ -4650,7 +5072,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "0fa646f84758592d828df2000dd3d0eabf5042dae5d793a087fd7f9d9f5fe44b"
   },
   {
     "mapname": "RG8-084",
@@ -4661,7 +5084,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "002a239d68b8e1b81c42671346de717a70c46d398b650e388f8242e5219c4d5b"
   },
   {
     "mapname": "RG8-085",
@@ -4672,7 +5096,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "b867398bf78f2e4b899ae6a3104c0563a4c6b27682aef38139bd423e2ec1d1bd"
   },
   {
     "mapname": "RG8-086",
@@ -4683,7 +5108,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a84260c18ea664653e4380a62dea0faccee97f605505e9bcb9ec75582c698562"
   },
   {
     "mapname": "RG8-087",
@@ -4694,7 +5120,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "d926c95681526291f4263cff07a574b2d3a8f340ba1b53b42b345a5faaf07bcd"
   },
   {
     "mapname": "RG8-088",
@@ -4705,7 +5132,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "c02612444a0b092228610d8aea4da8722a080cdaaf25d1aa55ec95cfac2bf523"
   },
   {
     "mapname": "RG8-089",
@@ -4716,7 +5144,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "92ba0b3464dfe43573b5c25f26bfc9441e0f03937fc3e101fbd17d438f8d4b5c"
   },
   {
     "mapname": "RG8-090",
@@ -4727,7 +5156,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7e764151aa6bd984a398b80cc4bad7220791bffe2fbcfdefb3a1cb0d817014ea"
   },
   {
     "mapname": "RG8-091",
@@ -4738,7 +5168,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "095d76479c36ce0fda03925bde29a8b104b8d0aab0d1f9a6f2880450d86cc90f"
   },
   {
     "mapname": "RG8-092",
@@ -4749,7 +5180,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "33a3fc42d4fc07bd3a1560a8daf158b1bc2d24bebec3f0144906aab738e68440"
   },
   {
     "mapname": "RG8-093",
@@ -4760,7 +5192,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "b3a7a00ded7aadaea124e8bb6c07a67cfc7f8e2efeb0df06c1c9b1caf35580ee"
   },
   {
     "mapname": "RG8-094",
@@ -4771,7 +5204,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "ccf2755489d91d9e535207b803e8258a9b8e95231560d8f1aaec13c0831d47d8"
   },
   {
     "mapname": "RG8-095",
@@ -4782,7 +5216,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "04ab988311de805f3da37eceee593a261d0855602f6318ddf49498b438ba5418"
   },
   {
     "mapname": "RG8-096",
@@ -4793,7 +5228,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "48e16c290713b371a3c423eaffa885a0a3201b733714bed6426c84992dd6f7e3"
   },
   {
     "mapname": "RG8-097",
@@ -4804,7 +5240,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "a9a3a08f900419bb81024fc4b4c97c6bda03eaafd3cd70f3d31e4c69c4a07943"
   },
   {
     "mapname": "RG8-098",
@@ -4815,7 +5252,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "85856768d722034798e08dc8a86c272e5f99720b5d05307be1d889a4af4e3a3b"
   },
   {
     "mapname": "RG8-099",
@@ -4826,7 +5264,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "3c95670e7ee3a7baa611c8a94ed87ce1c06a823378b89f9a799bce48edcbca89"
   },
   {
     "mapname": "RG8-100",
@@ -4837,7 +5276,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "550c40c592d396df2f347f4e9b98c387826d5339082a83affd8b723b3322c2d2"
   },
   {
     "mapname": "SP-9base",
@@ -4848,7 +5288,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "9bb79842756a53f3aab2f8639274fb4264f49b154d614c671445c2e7c95eebf4"
   },
   {
     "mapname": "SP-Camelot2",
@@ -4859,7 +5300,8 @@
     "mapSize": 768,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "903472fc5697761e482ca1b3c704f2ec88055ce694a60906430fe74123fcca85"
   },
   {
     "mapname": "SP-CM-needabighelp",
@@ -4870,7 +5312,8 @@
     "mapSize": 1024,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7b72f2fca70f4e2260433676865327aed921823288e1dc5e56b5e8c2cffa092e"
   },
   {
     "mapname": "SP-das-m-projekt-extrem",
@@ -4881,7 +5324,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "f33f4854fc22d6f7e51107990ab1246da238395f99094ed50266fdad726899ba"
   },
   {
     "mapname": "SP-das-m-projekt",
@@ -4892,7 +5336,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "9e728e02dd47945356dd23e23f8a70b132c2151ed3814d551032a26e5b10eee8"
   },
   {
     "mapname": "SP-gemayate-mayas",
@@ -4903,7 +5348,8 @@
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 2
+    "maxPlayers": 2,
+    "map_sha256": "132e22ae53622829d8dfb5655e5fab35c2a34d3e4c7eaa9db8a4cf601ad5d513"
   },
   {
     "mapname": "SP-Mordor",
@@ -4914,7 +5360,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "5af33e496d5536c8fff6f764ae4bcb8a6a5cb30995bafd8eaf066dea6224e06c"
   },
   {
     "mapname": "SP-schiffschlacht-2.0",
@@ -4925,7 +5372,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "7198749d9c438e7599e87826be2c8c0e8ba3d29d0b6d72bb7e172b781b8bf855"
   },
   {
     "mapname": "SP-wuestenland",
@@ -4936,7 +5384,8 @@
     "mapSize": 576,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 5
+    "maxPlayers": 5,
+    "map_sha256": "2ea6aca589ecb3ce1d16b8b5d1ded5782c82209646fb7c512ed43d47399ac154"
   },
   {
     "mapname": "T01-Agavetest",
@@ -4947,7 +5396,8 @@
     "mapSize": 256,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 1
+    "maxPlayers": 1,
+    "map_sha256": "cecaa9dd2a8508d70d0bb04e41ff0c1c18ba04af9f5269d6c4268414192dc88c"
   },
   {
     "mapname": "T01-DefeatTheWaves_1_8_2",
@@ -4958,7 +5408,8 @@
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "4fff9001b0ee5913fc9f29b98d3ae8032a95d14ab81725ad4066e5a780d59148"
   },
   {
     "mapname": "T01-Grainfarmtest4",
@@ -4969,7 +5420,8 @@
     "mapSize": 256,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 1
+    "maxPlayers": 1,
+    "map_sha256": "be23ff214b9e8ddabc082c7b158ae152364569856f5c2d66ed165280ee48b6b4"
   },
   {
     "mapname": "T01-Honeytest",
@@ -4980,7 +5432,8 @@
     "mapSize": 256,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 1
+    "maxPlayers": 1,
+    "map_sha256": "ddfc04532fb8f728fab4b2d501a7a88ce0da220709f22bb38ee9774bfbd5faa6"
   },
   {
     "mapname": "T01-Sunflowertest2",
@@ -4991,7 +5444,8 @@
     "mapSize": 256,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 1
+    "maxPlayers": 1,
+    "map_sha256": "f237a37bc7c34843405a13c8c55a5691a68010667d576f2aa7cd6bf9fe939127"
   },
   {
     "mapname": "T01-TheWoodsUnitTesterV5",
@@ -5002,7 +5456,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "821318fc7c07ec9daf636e2d0ff75ff5f83cdca0c836fdeb7444f95d0839ef57"
   },
   {
     "mapname": "T01-TrainYourEco_1_1",
@@ -5013,7 +5468,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "32e43e4b95b1c89b077c6c03a51ca9a7b1b2139eef38ce0d59ea4aec6a326788"
   },
   {
     "mapname": "T01-Unit-Tester-Metzel",
@@ -5024,7 +5480,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "83e056cb38b130572b5d15f311240ca73c7f1dea2a98ccf2f2b1f297b5c81c49"
   },
   {
     "mapname": "T01-Unit-Tester",
@@ -5035,7 +5492,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "64d8026a31a2e7a42083e82d17c383b1209d466a6fb35b5373a22146234ae22f"
   },
   {
     "mapname": "T01-Winetest",
@@ -5046,7 +5504,8 @@
     "mapSize": 256,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 1
+    "maxPlayers": 1,
+    "map_sha256": "2d403215d97fc9ad035f54872a225561e0b501337a0981301ae0d11354ce910b"
   },
   {
     "mapname": "TM2020-00-GROUP",
@@ -5057,7 +5516,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "c3bc533e5d687bdf90fa18b124fd32ab6ad998e0f2e64d0c52f1cda3bbcdb362"
   },
   {
     "mapname": "TM2020-01",
@@ -5068,7 +5528,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "6ded7bd937315b2841857f0e50257c01f0f1f8fdf3008925841fb8c076525c53"
   },
   {
     "mapname": "TM2020-20",
@@ -5079,7 +5540,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "94b2b060969d7d7bbb9f0e757e0b5ec5157018a1f00a7a8c870fca563c2e3ec1"
   },
   {
     "mapname": "TM2020-21",
@@ -5090,7 +5552,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "bf2ae996e2d2c8d9e0af33474602ac02f2937d27287657d8b86ac8a95486325b"
   },
   {
     "mapname": "TM2020-22",
@@ -5101,7 +5564,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "fe71ab124c7dad139ee579745928e871a72c66ae73991bfcf238ebb937f477c8"
   },
   {
     "mapname": "TM2020-23",
@@ -5112,7 +5576,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "fcbb415bfd6419a86054ee2870298fa1d2717bfb63da39d4fa9b1efdf148ebdb"
   },
   {
     "mapname": "TM2020-24",
@@ -5123,7 +5588,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "42e5a28a3872f8e992f8d59478d96c820ae86b2f86667e6c2f2428c5487131a9"
   },
   {
     "mapname": "TM2020-40",
@@ -5134,7 +5600,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "c9ae76838f74ffb52e42379e6adaa60c35cfdc2766e397efcf9507f0b5d8ba23"
   },
   {
     "mapname": "TM2020-41",
@@ -5145,7 +5612,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "aac1e2ddfa9ca888f7360d7e102f2bd7a5709e14ad28f46fc7a13b66862309ad"
   },
   {
     "mapname": "TM2020-42",
@@ -5156,7 +5624,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "5b643d493ab4c27be8cc6d1dc50bf328ebd7268341c57b17184376c43547db1e"
   },
   {
     "mapname": "TM2020-43",
@@ -5167,7 +5636,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "cabe504dcd98819e5117650415f38e3784ca4361d6f12959ddea35901d2ad2fb"
   },
   {
     "mapname": "TM2020-44",
@@ -5178,7 +5648,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "08f28b8933b91f99729adddb233695aa7d7e3ffd0c8d9e1b7c9ead4bb6725a90"
   },
   {
     "mapname": "TM2020-45",
@@ -5189,7 +5660,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "051b854d79f12d9b7fc0e4124ae553777315b89c469d0a806cbef976c640991b"
   },
   {
     "mapname": "TM2020-46",
@@ -5200,7 +5672,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "7ec7652f29672575084ddb5885e395009ce6e9d80356b9657bbc4e0a6ecdd408"
   },
   {
     "mapname": "TM2020-50",
@@ -5211,7 +5684,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "bc99e871c60bc5489b644883ef2c6f11122f19f6df1365e130869a376c388607"
   },
   {
     "mapname": "TM2020-51",
@@ -5222,7 +5696,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "e03c092baf38d24d4f12c4e5edc104386c5f26c8961fa65ac721caa74c10c616"
   },
   {
     "mapname": "TM2020-52",
@@ -5233,7 +5708,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "f67a4a0be76ca29fbb848821b9f4fba9b720e17017769962b1b52ae3e61264d8"
   },
   {
     "mapname": "TM2020-53",
@@ -5244,7 +5720,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "3bb78ace4b94eeb31da1cdc193f76311e8ae6f5f8c985f500ec5823479db27c1"
   },
   {
     "mapname": "TM2020-80",
@@ -5255,7 +5732,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "8e2a31c09fb3332cabe7dcfa91a1875245843d6541f8a73fd96b3fcb64a30208"
   },
   {
     "mapname": "TM2020-81",
@@ -5266,7 +5744,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "2126a1f55aaa057dfbc5278684cfb7c5c560770a07569c397ac2825743af0c07"
   },
   {
     "mapname": "TM2020-82",
@@ -5277,7 +5756,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "6decc83220d83fb4e69b05f19fb18535759ef8491c331a125d4be44f52b9aee9"
   },
   {
     "mapname": "TM2020-83",
@@ -5288,7 +5768,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "6fdc7d25878a8aaaa74e903e9b745fbf34bbd9d615b166195f29d7fae4078ec8"
   },
   {
     "mapname": "TM2020-84",
@@ -5299,7 +5780,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "5e64a7eba95b7fdf2d3838e261b166940e551e30d9e9447c36490173be3116e4"
   },
   {
     "mapname": "TM2020-86",
@@ -5310,7 +5792,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "2341172486b396562fb79e227ebe472d63a913485e103a77a2ab5bbb1c1b8655"
   },
   {
     "mapname": "TM2020-90",
@@ -5321,7 +5804,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "c34a435f966433617f097ee9f6b7f0bff781cc8cedf09b9630e6ee54ba92ce96"
   },
   {
     "mapname": "TM2020-91",
@@ -5332,7 +5816,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "402f0f25bae794815a336254c1ec15ef93d2fb3046dac510570b491bb9522e71"
   },
   {
     "mapname": "TM2020-92",
@@ -5343,7 +5828,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "c1bef0c9e9fe3db68e6df0ec8d330389541fb7b051707f4033b14d12b1341522"
   },
   {
     "mapname": "TM2020-96",
@@ -5354,7 +5840,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8
+    "maxPlayers": 8,
+    "map_sha256": "57294064826d2cd40a9057a5f895b744078b5111c730812c5ecf06dd280edc17"
   },
   {
     "mapname": "TM2020-97",
@@ -5365,7 +5852,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 7
+    "maxPlayers": 7,
+    "map_sha256": "ffdf65e74881c78da8d7e5dca8c355efb9c31d0e02b730a73e88d2b59a297868"
   },
   {
     "mapname": "TM2020-98",
@@ -5376,7 +5864,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "731540f6ada667f95d877d79925b489ecb1ca1c855f3daefe3ce6570a3fec668"
   },
   {
     "mapname": "TM2020-99",
@@ -5387,7 +5876,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "c93aa958faca202d8800014e4f879c5e34411fbb454a908f3e605999d1012c5f"
   },
   {
     "mapname": "TM2022-April",
@@ -5398,7 +5888,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6
+    "maxPlayers": 6,
+    "map_sha256": "3bc15fdc4b8d12c739f3eb754adf2770f0ba6f59a7a5fbd831ae8ef6a3d1269e"
   },
   {
     "mapname": "WC2021-G-TheWoods-UBO-PT0",
@@ -5409,7 +5900,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "7a3ddd2fe54c7fbf2592b22838699d1f76a319d4280194248956d7ff913c89d0"
   },
   {
     "mapname": "WC2021-G-TheWoods-UBO",
@@ -5420,7 +5912,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "8bc41d380a2b0521e00cbeafbfc90507d2be2bbc755248491a6ec16bdf4983be"
   },
   {
     "mapname": "WC2021-G-TheWoods",
@@ -5431,7 +5924,8 @@
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "d10bf997dcaefc41606504afc29b160ae85af1ba416814ada937e13ce3ac1c53"
   },
   {
     "mapname": "WC2021-MAP000",
@@ -5442,7 +5936,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "f27148699937d111e3b662e388e3746cae2d3e59bda3ecdd2da0d72bed4830d6"
   },
   {
     "mapname": "WC2021-MAP001",
@@ -5453,7 +5948,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "ab9aeea566ad8949cce6522943cec057cb973aa02cc90066a0ef5c3ccb3afe09"
   },
   {
     "mapname": "WC2021-MAP002",
@@ -5464,7 +5960,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "309a770e6dc5cb8efa8c1b609eff2134ae9e5a8224878bd38c50dcff85170a8f"
   },
   {
     "mapname": "WC2021-MAP003",
@@ -5475,7 +5972,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "f7754cb50dab33fa31956821199d343a5b00954c3dad75fdfddff97863746b9a"
   },
   {
     "mapname": "WC2021-MAP004",
@@ -5486,7 +5984,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "702d34c72a7169d6adcafcbe11cfcef9e928d6eaa72fc9ab0c5ee832856c0fd1"
   },
   {
     "mapname": "WC2021-MAP005",
@@ -5497,7 +5996,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3aab5f2d993509435c8b0a13b2c34e8f147714760c9b4668f257e54ee99fd7c9"
   },
   {
     "mapname": "WC2021-MAP006",
@@ -5508,7 +6008,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "0762ea252d4a60b07255e05cbdb4b1a913c59c0536f014b40ab55e49b9520a82"
   },
   {
     "mapname": "WC2021-MAP007",
@@ -5519,7 +6020,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "85cc87f1a021070ebc59a38096953f4dcfb5651e5537e56974a733f339d59d6a"
   },
   {
     "mapname": "WC2021-MAP008",
@@ -5530,7 +6032,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "ffa24975d14ad4dd51eb56ba0669ab7bd4e7626d39b9e322bbed0bb42e380d57"
   },
   {
     "mapname": "WC2021-MAP009",
@@ -5541,7 +6044,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e005ebd885d2779aff9bfe29dd76ee7b15699b63235496f49eb8f320e5e94be1"
   },
   {
     "mapname": "WC2021-MAP010",
@@ -5552,7 +6056,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "095b416a6ec7a2e82d2367e167f26ca9bc412fdb3c83fd86467343d3f81a8eff"
   },
   {
     "mapname": "WC2021-MAP011",
@@ -5563,7 +6068,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3fcfdb8cc3582b557670af19466528e209ad2bbbbf864ef66f1cf657b9b4de2b"
   },
   {
     "mapname": "WC2021-MAP012",
@@ -5574,7 +6080,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "acdce28953245dc6ba36738453da8b04fe1f0e5c616719b532648e42d41c8bf2"
   },
   {
     "mapname": "WC2021-MAP013",
@@ -5585,7 +6092,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "c63d1e0f439f9ac2b07dfee68084432fdc3d24e7f5f5d4972fcdfebb69a92625"
   },
   {
     "mapname": "WC2021-MAP014",
@@ -5596,7 +6104,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "66b9423dcdcfbc3b8f008ed9f7c23a832583a5852aa28a9cfe2570159146d11e"
   },
   {
     "mapname": "WC2021-MAP015",
@@ -5607,7 +6116,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "88d980db232f23af728f7de2c79a6cf51fb62f24690f11100c33661270e98451"
   },
   {
     "mapname": "WC2021-MAP016",
@@ -5618,7 +6128,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "75e0118536b2ff853c3d0c12dc9adb6c0176d744a1c449ce5db9d94eed0662d3"
   },
   {
     "mapname": "WC2021-MAP017",
@@ -5629,7 +6140,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "f3ca57f72b5dc519fd04fe6978e45c46fe1e13008a83a33ebae25a7b9fe91c51"
   },
   {
     "mapname": "WC2021-MAP018",
@@ -5640,7 +6152,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "88a2497f89cb1968c3ff6938ad3854a4ccc036299f13ab63583a09cc967c8887"
   },
   {
     "mapname": "WC2021-MAP019",
@@ -5651,7 +6164,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "381ea57c881fd77088023034f1051934c27cab752324990f2b73585110c908cd"
   },
   {
     "mapname": "WC2021-MAP020",
@@ -5662,7 +6176,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "08931d87561a05d9fdcb3e43e306126bb265eddb20dc87aff93e96da713d9639"
   },
   {
     "mapname": "WC2021-MAP021",
@@ -5673,7 +6188,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "9f71df1f90320a10e089201a2547249ec7ea7e5715f76f9eb72799aa54902ee6"
   },
   {
     "mapname": "WC2021-MAP022",
@@ -5684,7 +6200,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "aa29e510e82fb29156843e0d902dd8c09ea2e17d3d4c4fed446e9dd66034d0aa"
   },
   {
     "mapname": "WC2021-MAP023",
@@ -5695,7 +6212,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "d3399141a707362ad506b3c7d4d6782de1acab96373858e437c3e50b57efc49d"
   },
   {
     "mapname": "WC2021-MAP024",
@@ -5706,7 +6224,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e772e1dff217272fcb58fd3ea0b4907fccaf481dcf8b55bc836ec9c4822e89e4"
   },
   {
     "mapname": "WC2021-MAP025",
@@ -5717,7 +6236,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "d1c4750db21f89d13bcfd668b7349c75322a833ef002a5ab0c7115db2069b3d1"
   },
   {
     "mapname": "WC2021-MAP026",
@@ -5728,7 +6248,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e8597666455a30f520fa4649d1eab5927746adeb0652a6213a810cddc9ade4ef"
   },
   {
     "mapname": "WC2021-MAP027",
@@ -5739,7 +6260,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "883d9e65982c10c07b2fa0ca3bc85e6b15ca34334da65d49551e93cda74b9f4a"
   },
   {
     "mapname": "WC2021-MAP028",
@@ -5750,7 +6272,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "eabb67a1c1060c73648436267c554b8fbd983aa096cd69c97de4f6b5e0acfd26"
   },
   {
     "mapname": "WC2021-MAP029",
@@ -5761,7 +6284,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "2b3f39445465857eb187f8bc8c6c1d331103c013c5798b6d904cddc5104e1e58"
   },
   {
     "mapname": "WC2021-MAP030",
@@ -5772,7 +6296,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "36cce61ed598b1dc4fb769b0162eec0c74627325b8ccc7285304d51fba552b52"
   },
   {
     "mapname": "WC2021-MAP031",
@@ -5783,7 +6308,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "3aba262a17cbca87b6e34d41840361f7c9b2fa902edb8d8b41c10c31c0c52a05"
   },
   {
     "mapname": "WC2021-MAP032",
@@ -5794,7 +6320,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b5651a6a8c1cd5ab5ac2f3759c6cf5e78145ac432632a66a8ea28231179b3379"
   },
   {
     "mapname": "WC2021-MAP033",
@@ -5805,7 +6332,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "d943be6640fd0f981d5d7ada74dd38ec8233a3c2055ddd7f7f1dc1707e2e9d31"
   },
   {
     "mapname": "WC2021-MAP034",
@@ -5816,7 +6344,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "68766f607a0fff443815ac5706f4dfa440e0c9dd0a29781c386bc4719754785f"
   },
   {
     "mapname": "WC2021-MAP035",
@@ -5827,7 +6356,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "79d76e0c34de2671bacd4e9dde5290a9c327767d274c935a228ae955f35930e6"
   },
   {
     "mapname": "WC2021-MAP036",
@@ -5838,7 +6368,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bbcfe12e87aa79b441b9a29ec6766be1704e897029fb198393ed4ca144017aae"
   },
   {
     "mapname": "WC2021-MAP037",
@@ -5849,7 +6380,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "982ee4fbf10f1a5e0296ee18498b5bc059dd0e26d4f3346f9e67901987e684b3"
   },
   {
     "mapname": "WC2021-MAP038",
@@ -5860,7 +6392,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "a0f474a5563755a452232319e23fa8d05a7450406a21083377d5765a48aa1775"
   },
   {
     "mapname": "WC2021-MAP039",
@@ -5871,7 +6404,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "fe30df8b45d4d41ba3b5f22fc35a1c7a0619af2d1c1a1d0ff74a40c30ec17423"
   },
   {
     "mapname": "WC2021-MAP040",
@@ -5882,7 +6416,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "10e78dfabb5b036cbce02c21739a21fbae8bbde81d22fb31146fa85290ea49f6"
   },
   {
     "mapname": "WC2021-MAP041",
@@ -5893,7 +6428,8 @@
     "mapSize": 960,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "aac1db0a20676b9a5a4f115d3241b2607ea9ddbf462aab601acb8c132848b427"
   },
   {
     "mapname": "WC2021-MAP042",
@@ -5904,7 +6440,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "a78c1d0ffa3e58d5f61acf578896db86708e8fe933b88fb7cbe9e244f725e1b4"
   },
   {
     "mapname": "WC2021-MAP043",
@@ -5915,7 +6452,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e602bfbe5a51701082c31fd775b125486cf6bcbf5eb43c1f1cd069fc7106e52a"
   },
   {
     "mapname": "WC2021-MAP044",
@@ -5926,7 +6464,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "2c494c1eb036fe7583c79d550af422ebb107ddfe6d3193fa55cca3a744addd98"
   },
   {
     "mapname": "WC2021-MAP045",
@@ -5937,7 +6476,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "00d9aec89560c2b598cb0a293913029bc8d6d31d7b4beeb17742f12e4dc4a29c"
   },
   {
     "mapname": "WC2021-MAP046",
@@ -5948,7 +6488,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "eee5f20ff9255ccd48d7477c0355e2700ecd9461844438b7a3e5e303ad0f4384"
   },
   {
     "mapname": "WC2021-MAP047",
@@ -5959,7 +6500,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "693f667a0602d0cf2db54b66ef75b027da41135129d8061ad56a3d442056685d"
   },
   {
     "mapname": "WC2021-MAP048",
@@ -5970,7 +6512,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "8efa390ef75647475a4354cbdb3a1f56e4da3a45eadeb11de4b098b51af92e27"
   },
   {
     "mapname": "WC2021-MAP049",
@@ -5981,7 +6524,8 @@
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "63e9eb822dc223ab344f24225cbf08cd482aed45f160c3446263527d8aa02c69"
   },
   {
     "mapname": "WC2021-MAP050",
@@ -5992,7 +6536,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "042d89faf348cbb281cd71a073c7f811d96e43f0fb88cc179b705625d347a453"
   },
   {
     "mapname": "WC2021-MAP051",
@@ -6003,7 +6548,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "53e877a8d0a2e9f977d85ebe67bff68143ef791adfbbb625e570190faeea6e8b"
   },
   {
     "mapname": "WC2021-MAP052",
@@ -6014,7 +6560,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "a17d25ac218d6e0d3f302fa1cbb38b34dde861b03c1de53e88f7473632daf098"
   },
   {
     "mapname": "WC2021-MAP053",
@@ -6025,7 +6572,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "dd04ac0c0d05963c7832bb4db8173e08e0a7383396b794ab09a321680c8e0150"
   },
   {
     "mapname": "WC2021-MAP054",
@@ -6036,7 +6584,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "f4b532f3a17eac5dacd91c572281f13ac0de13fa6edfa7202e031e01c25c0649"
   },
   {
     "mapname": "WC2021-MAP055",
@@ -6047,7 +6596,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "c1a87369f594478fe1d16fbe3b24b35a70b0e4932313c43aefa9fda34cc95ad3"
   },
   {
     "mapname": "WC2021-MAP056",
@@ -6058,7 +6608,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "70d0fb0abd9adeae32994fb222c93c272d836fcdce704b008c7587a33597706e"
   },
   {
     "mapname": "WC2021-MAP057",
@@ -6069,7 +6620,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "45e3f4905ac9ffd8755d49847389d1fa9beafd668c8fbe27c3861d5b17408c8a"
   },
   {
     "mapname": "WC2021-MAP058",
@@ -6080,7 +6632,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "94ed5b38d2d02df86963adb7198c406e7fc9be6dd7750e5e12283b3f591a56fa"
   },
   {
     "mapname": "WC2021-MAP059",
@@ -6091,7 +6644,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "6f5ee2a34d6f2ce7e71b5dc4ce5b5c0a4d9e0525b410470fa4832c9d15fbb6df"
   },
   {
     "mapname": "WC2021-MAP060",
@@ -6102,7 +6656,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b79159db0ebec78a1cee0f85dc65eba47771692477274dd6ef43bcb5417e80a3"
   },
   {
     "mapname": "WC2021-MAP061",
@@ -6113,7 +6668,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "062dbd6cc8caf2099273a826f9c8876fc81e525c91ecbbd2305fe74b300cb471"
   },
   {
     "mapname": "WC2021-MAP062",
@@ -6124,7 +6680,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "06a164e78b684f33037f545115e3fe3112f5f1108e2ae5c1c3765185492f03e5"
   },
   {
     "mapname": "WC2021-MAP063",
@@ -6135,7 +6692,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "7c56c8c50276ea123ba4d669e55260d8857aab2b899038e82948218031595b84"
   },
   {
     "mapname": "WC2021-MAP064",
@@ -6146,7 +6704,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "5224e2027045965dc7d3b5a4338d22320dc96b02427416373bcd2c5e30258b27"
   },
   {
     "mapname": "WC2021-MAP065",
@@ -6157,7 +6716,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "8053c8d4eaebcf37a4f4d4d3b4f84d0e10d4fe1147588429387a21c080f4dba8"
   },
   {
     "mapname": "WC2021-MAP066",
@@ -6168,7 +6728,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "af7ea269fa9aedd164640118ed39203caa637c53832ab232e2a5b626d3b747c8"
   },
   {
     "mapname": "WC2021-MAP067",
@@ -6179,7 +6740,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "87a5d6d758ed5470eefeb5d534eb5e4f10c440f94d3bc21fda56f5e2fdfdedf8"
   },
   {
     "mapname": "WC2021-MAP068",
@@ -6190,7 +6752,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "eca5cac34e65dad3b7e01b2e63af57a47ce5fb331e30f00891fccc6c5b55750e"
   },
   {
     "mapname": "WC2021-MAP069",
@@ -6201,7 +6764,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "efae73e7c3ce5dfb5cc25ae99190ab00ab09a6e626b85ca0568eb1a4489a4a5d"
   },
   {
     "mapname": "WC2021-MAP070",
@@ -6212,7 +6776,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bb41ad20386dddbfa2a7b201873f2720b9ce63a876d7b08a738ec685e9000a41"
   },
   {
     "mapname": "WC2021-MAP071",
@@ -6223,7 +6788,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "6bc7e73b90dc6ffc74acf868ad4532067692a3de08657759f12430eb9778f728"
   },
   {
     "mapname": "WC2021-MAP072",
@@ -6234,7 +6800,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "22fc430597a3d2ea067d59e3a0d54193e2365c2544affd7bb2e132cd802d95f6"
   },
   {
     "mapname": "WC2021-MAP073",
@@ -6245,7 +6812,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "11c2c5cc4be4c8d4a301a22ffa0eba372e74cfae70135bd652a5105e60290428"
   },
   {
     "mapname": "WC2021-MAP074",
@@ -6256,7 +6824,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "142ccbdd99dc588c3cee974c1cca72b3f7ec3f00fc1aeabfa5e8076a142ad509"
   },
   {
     "mapname": "WC2021-MAP075",
@@ -6267,7 +6836,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "0ca3a3e5bd453c21edfbd48f6d6dea77b0fa685ff4154a92523ee20f881fb147"
   },
   {
     "mapname": "WC2021-MAP076",
@@ -6278,7 +6848,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "0e42402a6a6ac5c3f4eea5a8312cb9c4d10772401e944cc68e2e347e8b4969bd"
   },
   {
     "mapname": "WC2021-MAP077",
@@ -6289,7 +6860,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "d222a814e1ae1e83544971cbc3795e9acc53d2812f7fd433154ee9c34343bae1"
   },
   {
     "mapname": "WC2021-MAP078",
@@ -6300,7 +6872,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "81e1263ad78102a3766815d6ce7dc05b83d8e09e30662a8967c1b1227a80b365"
   },
   {
     "mapname": "WC2021-MAP079",
@@ -6311,7 +6884,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bf9a17ba6ba99cd9401e1d2f7611d7ad5d49f6f0c6481d231af521dd1f68526d"
   },
   {
     "mapname": "WC2021-MAP080",
@@ -6322,7 +6896,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "19f1749ceddda5303f4914375d3b564f956cc903884af4d7175763e06c72a2c8"
   },
   {
     "mapname": "WC2021-MAP081",
@@ -6333,7 +6908,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e8c186b4481874a16fab351a62b310014d1b39319751c2e07b0a4c5da3cce6fb"
   },
   {
     "mapname": "WC2021-MAP082",
@@ -6344,7 +6920,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "c1cfd2c918309daa67e846012c157c87d4a0657e998378fe91ee276604db3f76"
   },
   {
     "mapname": "WC2021-MAP083",
@@ -6355,7 +6932,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "5f6ded14377893eb4ae7d91a89d7684282b03a24c716b0a9089c79f12f753cb4"
   },
   {
     "mapname": "WC2021-MAP084",
@@ -6366,7 +6944,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "a5f2bfe81a9c83bc81b036b22ce4b43b827e42b527a2ad91bc3ed57fe2757ff5"
   },
   {
     "mapname": "WC2021-MAP085",
@@ -6377,7 +6956,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "483b64bdb0929bd774ea9ce842466505cb2c1441a383b0805853225e28a51f65"
   },
   {
     "mapname": "WC2021-MAP086",
@@ -6388,7 +6968,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "80975da24e9c2605834f35ffb336864b0d2d2ef7af683405f1f1da5570e11b10"
   },
   {
     "mapname": "WC2021-MAP087",
@@ -6399,7 +6980,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "41699397b7f04301525ffa289a7e96364e6c06d4658a7d96c8b00957558e1290"
   },
   {
     "mapname": "WC2021-MAP088",
@@ -6410,7 +6992,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "0d17109914e3498e5a9aa49cafd6a1abcfb8bef6973b67d8bf76bd5bafe3c4a1"
   },
   {
     "mapname": "WC2021-MAP089",
@@ -6421,7 +7004,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b1b6f0716841f99786d624a06bafa7ca374d50533c6109afa9c6ec7ab507b80d"
   },
   {
     "mapname": "WC2021-MAP090",
@@ -6432,7 +7016,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "5fadb63da6d5bea9373e5eb2f89151589809133720237fecc88d942cd90d7a0b"
   },
   {
     "mapname": "WC2021-MAP091",
@@ -6443,7 +7028,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "91fe52cebccd15017d47d3328781db41035da0dda42dc46c8a9fdfba288e340e"
   },
   {
     "mapname": "WC2021-MAP092",
@@ -6454,7 +7040,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "278e795274c110e614701f617bef379519077c840d10ea4ea658a340478dbbe1"
   },
   {
     "mapname": "WC2021-MAP093",
@@ -6465,7 +7052,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "58cf8553314e6074f56f3f8ed1074ab7598d4b51ec4d2ace5274b00bf634a11c"
   },
   {
     "mapname": "WC2021-MAP094",
@@ -6476,7 +7064,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "8efa390ef75647475a4354cbdb3a1f56e4da3a45eadeb11de4b098b51af92e27"
   },
   {
     "mapname": "WC2021-MAP095",
@@ -6487,7 +7076,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "5ad027657cb41fb49fd27c8625157bad3a33e5007cf787176e5236a150f7df43"
   },
   {
     "mapname": "WC2021-MAP096",
@@ -6498,7 +7088,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "250354dc82055417aaa81b1733c428398a3296c8e922078baa12b8b44d97b8fe"
   },
   {
     "mapname": "WC2021-MAP097",
@@ -6509,7 +7100,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "07c9ae817ed8310ee3d2d743bc54d03f14b92c412bc4c3d8c043feb6d21ededb"
   },
   {
     "mapname": "WC2021-MAP098",
@@ -6520,7 +7112,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "bbcfe12e87aa79b441b9a29ec6766be1704e897029fb198393ed4ca144017aae"
   },
   {
     "mapname": "WC2021-MAP099",
@@ -6531,7 +7124,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "2c494c1eb036fe7583c79d550af422ebb107ddfe6d3193fa55cca3a744addd98"
   },
   {
     "mapname": "WC2021-MAP100",
@@ -6542,7 +7136,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "94cdfc32b097a92de70517267dd684613e592f8213654052309164d3aaec35b9"
   },
   {
     "mapname": "WC2021-MAP101",
@@ -6553,7 +7148,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "0bbc03956df6b1b1ec4ecb9337011880bb573305359c68af75a5ae2f18aba300"
   },
   {
     "mapname": "WC2021-MAP102",
@@ -6564,7 +7160,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "9184dad0182ec8196bcf514b24d825613be8e1094c5b4cfaf8640ee9bda20278"
   },
   {
     "mapname": "WC2021-MAP103",
@@ -6575,7 +7172,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "89e7361ad6301a2ba44dc4106292e22e1ce234705878364bbd63ed47fae993fa"
   },
   {
     "mapname": "WC2021-MAP104",
@@ -6586,7 +7184,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "a4821f7ecd5277271455e7f5edf8369a6e549cbc49f85a56d0ac3c429025d37b"
   },
   {
     "mapname": "WC2021-MAP105",
@@ -6597,7 +7196,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e527a297fec4df886b7536a609be91cfd65bb2ad5322a6d88e40b4ef65225a15"
   },
   {
     "mapname": "WC2021-MAP106",
@@ -6608,7 +7208,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b1234b3b64fdc4ee5a75a68ccee702ef9a18c6e8ce9f1ef42bc438f9a02df67a"
   },
   {
     "mapname": "WC2021-MAP107",
@@ -6619,7 +7220,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "86dabd14dd23b419bb65681fc45a49f73bfd4ba43ca1e5b539b18b73d10d5323"
   },
   {
     "mapname": "WC2021-MAP108",
@@ -6630,7 +7232,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "65d922852946af75c1bd2b148edfcbbb1b7f4455ad51f720dcd29a7d73a8471f"
   },
   {
     "mapname": "WC2021-MAP109",
@@ -6641,7 +7244,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e6a5fb69479ed6978f397ea8a765883784d4d496b75e3ce82c5574445a1c6e96"
   },
   {
     "mapname": "WC2021-MAP110",
@@ -6652,7 +7256,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "2feeb2ad671291b15d426c0eeb6a8260e4eade54afe7d06fcc0eee169904fa2c"
   },
   {
     "mapname": "WC2021-MAP111",
@@ -6663,7 +7268,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "50dfb63b9e1e5067ff830494d10a72bf956487f1bf26ca96a207cbddd623121c"
   },
   {
     "mapname": "WC2021-MAP112",
@@ -6674,7 +7280,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "b959607dd5c1c78a3e29f7f336ac7ebf59a4cc7c65d31db303847b6b751c4dd0"
   },
   {
     "mapname": "WC2021-MAP113",
@@ -6685,7 +7292,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "50aef3b6d09ed0a2319c184e9b62da1c75d86a5b705770c2439520f26aff208f"
   },
   {
     "mapname": "WC2021-MAP114",
@@ -6696,7 +7304,8 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "9aa135409c939e8ae562eced4088ae885add2a528535b53191dc745a2ce0f546"
   },
   {
     "mapname": "WC2021-MAP115",
@@ -6707,6 +7316,7 @@
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4
+    "maxPlayers": 4,
+    "map_sha256": "e226ad97aefc833377a88a01a0208edaa90950934583131ab15c2a2a3fa2f079"
   }
 ]
