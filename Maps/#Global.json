@@ -1378,6 +1378,19 @@
     "map_sha256": "da1e615bcdd0800bf19c4d485caf433d6ad720197f59ae9f886cd13897c4bcd1"
   },
   {
+    "map": "COOP-DieBastion-v1_0_0.map",
+    "mapname": "COOP-DieBastion-v1_0_0",
+    "mapfolder": "User",
+    "mapgroup": "Cooperative Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/COOP-DieBastion-v1_0_0.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/COOP-DieBastion-v1_0_0.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "6e63465c6cf7d7d43f00822788909ad29785dac8271c7c7836844f0028dc2bd4"
+  },
+  {
     "map": "K01-AL01-Die-Piratenbrut.map",
     "mapname": "K01-AL01-Die-Piratenbrut",
     "mapfolder": "Singleplayer",
