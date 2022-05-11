@@ -2522,17 +2522,17 @@
     "map_sha256": "17a8a2d6d65435f9d2770810af7ccfa0222ac13b2421e7f8b3daba2232f3dd41"
   },
   {
-    "map": "M02-Gemetzel-8erfixed_v2.map",
-    "mapname": "M02-Gemetzel-8erfixed_v2",
+    "map": "M02-Gemetzel-8er_NewExperience_v1.map",
+    "mapname": "M02-Gemetzel-8er_NewExperience_v1",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Gemetzel-8erfixed_v2.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Gemetzel-8erfixed_v2.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Gemetzel-8er_NewExperience_v1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Gemetzel-8er_NewExperience_v1.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "c96fdd3a1cf056329b705de4081cf9b8901763c7b8ac6d86ed224087f4fa29ab"
+    "map_sha256": "3333b5c3a2346536f70943b5a21bf5b356872f1f665630adfaf46f963ad7be48"
   },
   {
     "map": "M02-gemischterkaktus.map",
