@@ -2522,17 +2522,17 @@
     "map_sha256": "17a8a2d6d65435f9d2770810af7ccfa0222ac13b2421e7f8b3daba2232f3dd41"
   },
   {
-    "map": "M02-Gemetzel-8er_NewExperience_v1.map",
-    "mapname": "M02-Gemetzel-8er_NewExperience_v1",
+    "map": "M02-Gemetzel-8er_NewExperience_v2.map",
+    "mapname": "M02-Gemetzel-8er_NewExperience_v2",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK (by ThoNic)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Gemetzel-8er_NewExperience_v1.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Gemetzel-8er_NewExperience_v1.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Gemetzel-8er_NewExperience_v2.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Gemetzel-8er_NewExperience_v2.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "3333b5c3a2346536f70943b5a21bf5b356872f1f665630adfaf46f963ad7be48"
+    "map_sha256": "f1e19db9371f1965bb7a0081ebec22eed39a747647faa21f198c791f249f0ced"
   },
   {
     "map": "M02-gemischterkaktus.map",
@@ -4093,6 +4093,32 @@
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 4,
     "map_sha256": "0f69cf2dfb90e6bb83cc0552533a9496bd508913d1d5cd1685a6b7b7b872ffa6"
+  },
+  {
+    "map": "M03-SF_Eskalationsmetzel-8er.map",
+    "mapname": "M03-SF_Eskalationsmetzel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Eskalationsmetzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Eskalationsmetzel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "c0757a29e95f2ae301a5304dcd46ba70325c5ce4fbb2cdb352db1c9f69a38bd6"
+  },
+  {
+    "map": "M03-SF_Evermetzel-8er.map",
+    "mapname": "M03-SF_Evermetzel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Evermetzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Evermetzel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "aa8dab148bd710df566d54d6d59596d3bde5c7a0ee23e9d81451fc6d0eddb01c"
   },
   {
     "map": "MP-0h_Fratzengeballer.map",
