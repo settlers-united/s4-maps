@@ -4342,6 +4342,19 @@
     "map_sha256": "778fe9cc2054c3e0c935f709da7b9e91a764da45af720ab895f1c7d3547ff9ca"
   },
   {
+    "map": "MP-KriegderVoelker_v3_1.map",
+    "mapname": "MP-KriegderVoelker_v3_1",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-KriegderVoelker_v3_1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-KriegderVoelker_v3_1.png",
+    "mapSize": 1024,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 5,
+    "map_sha256": "0501a836e268f1b3df1f314587e909410c5be3a3c251c056a80767a948b7ac88"
+  },
+  {
     "map": "MP-Metzel_um_dein_Leben_METZEL.map",
     "mapname": "MP-Metzel_um_dein_Leben_METZEL",
     "mapfolder": "User",
