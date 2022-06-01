@@ -7163,6 +7163,19 @@
     "map_sha256": "9bb79842756a53f3aab2f8639274fb4264f49b154d614c671445c2e7c95eebf4"
   },
   {
+    "map": "SP-Alte_Feinde_und_Neue_Freunde_v1.map",
+    "mapname": "SP-Alte_Feinde_und_Neue_Freunde_v1",
+    "mapfolder": "Singleplayer",
+    "mapgroup": "Singleplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/SP-Alte_Feinde_und_Neue_Freunde_v1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/SP-Alte_Feinde_und_Neue_Freunde_v1.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "32a598f5ac03339ad5db705b92a3a53be35515b716c7b298ff119e747e059815"
+  },
+  {
     "map": "SP-Camelot2.map",
     "mapname": "SP-Camelot2",
     "mapfolder": "Singleplayer",
