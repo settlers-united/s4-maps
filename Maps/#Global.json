@@ -4238,6 +4238,19 @@
     "map_sha256": "a1df80c5ed97174adca595f17dae929fb6fa43a56f73dd58c26f548756bdc138"
   },
   {
+    "map": "MP-COOP-Verbannt.map",
+    "mapname": "MP-COOP-Verbannt",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-COOP-Verbannt.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-COOP-Verbannt.png",
+    "mapSize": 896,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "cf7fbc64eb367247f5e65d14443e2f5194e6720424e463ff36261cc3911593db"
+  },
+  {
     "map": "MP-Der_kurze_Wege_Xtrem_v2020.map",
     "mapname": "MP-Der_kurze_Wege_Xtrem_v2020",
     "mapfolder": "User",
