@@ -4186,6 +4186,19 @@
     "map_sha256": "d4835941aeee259bbae847817be9ef8d8b22e98f78e70126cefdb4c9bcd4414c"
   },
   {
+    "map": "MP-8er_dark_forest_metzel-v1.map",
+    "mapname": "MP-8er_dark_forest_metzel-v1",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-8er_dark_forest_metzel-v1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-8er_dark_forest_metzel-v1.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "157f53a8b7f6aafca2573b7dcb70ef33b1c86a792b2430e30d381289ad3811c0"
+  },
+  {
     "map": "MP-AutoSettler_2vs2_Buddel_v0_6.map",
     "mapname": "MP-AutoSettler_2vs2_Buddel_v0_6",
     "mapfolder": "User",
