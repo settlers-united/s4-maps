@@ -4095,6 +4095,19 @@
     "map_sha256": "0f69cf2dfb90e6bb83cc0552533a9496bd508913d1d5cd1685a6b7b7b872ffa6"
   },
   {
+    "map": "M03-SF_Baumstammmetzel-8er.map",
+    "mapname": "M03-SF_Baumstammmetzel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Baumstammmetzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Baumstammmetzel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "0a9f8310d68815dde53982f317719c124d6e49adc565b8f09e23e361eaa83e9b"
+  },
+  {
     "map": "M03-SF_Eskalationsmetzel-8er.map",
     "mapname": "M03-SF_Eskalationsmetzel-8er",
     "mapfolder": "User",
@@ -4119,6 +4132,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "7e313022d87355d92815648f63b222115d7dc42f7f635eb2e08516efb649ba30"
+  },
+  {
+    "map": "M03-SF_Welteroberungsmetzel-8er.map",
+    "mapname": "M03-SF_Welteroberungsmetzel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "bd60156c26c70b004e362650ca4dd6410c09ca88d0fddbe88ad1304fe3a34d6f"
   },
   {
     "map": "MP-0h_Fratzengeballer.map",
