@@ -4355,6 +4355,45 @@
     "map_sha256": "a748c7f5d68f0852df1d7572d3f1b60d244a541badcac26a3440b44b87828e28"
   },
   {
+    "map": "MP-8er_Europa_East_vs_West_Edition_1.0.map",
+    "mapname": "MP-8er_Europa_East_vs_West_Edition_1.0",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-8er_Europa_East_vs_West_Edition_1.0.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-8er_Europa_East_vs_West_Edition_1.0.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "b3c677a3b355351c5376ebe1ae92a8ade6d0536ac8789cd896ec956ca2d70c7c"
+  },
+  {
+    "map": "MP-8er_Europa_Finnland_Edition_1.0.map",
+    "mapname": "MP-8er_Europa_Finnland_Edition_1.0",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-8er_Europa_Finnland_Edition_1.0.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-8er_Europa_Finnland_Edition_1.0.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "332dfac8285a85fae5fcee793bab8c6f322fe49f65aea5d0b80a846ae39e5919"
+  },
+  {
+    "map": "MP-8er_Europa_Finnland_Edition_2.0.map",
+    "mapname": "MP-8er_Europa_Finnland_Edition_2.0",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-8er_Europa_Finnland_Edition_2.0.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-8er_Europa_Finnland_Edition_2.0.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "b23a1179354362bb918e8069f65d964a366d377bb581ed77a94b7352d0294a8c"
+  },
+  {
     "map": "MP-AutoSettler_2vs2_Buddel_v0_6.map",
     "mapname": "MP-AutoSettler_2vs2_Buddel_v0_6",
     "mapfolder": "User",
@@ -7657,17 +7696,17 @@
     "map_sha256": "cecaa9dd2a8508d70d0bb04e41ff0c1c18ba04af9f5269d6c4268414192dc88c"
   },
   {
-    "map": "T01-DefeatTheWaves_1_8_2.map",
-    "mapname": "T01-DefeatTheWaves_1_8_2",
+    "map": "T01-DefeatTheWaves_1_8_2_v2.map",
+    "mapname": "T01-DefeatTheWaves_1_8_2_v2",
     "mapfolder": "User",
     "mapgroup": "TRAIN AND TEST MAPS (by ramseslein, sl4ng3r & Phottor)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/T01-DefeatTheWaves_1_8_2.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/T01-DefeatTheWaves_1_8_2.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/T01-DefeatTheWaves_1_8_2_v2.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/T01-DefeatTheWaves_1_8_2_v2.png",
     "mapSize": 896,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 8,
-    "map_sha256": "4fff9001b0ee5913fc9f29b98d3ae8032a95d14ab81725ad4066e5a780d59148"
+    "map_sha256": "ca4d5899ed46ccc1d6b3158ef2f349ddba258282c7f369b57aa764b52a2cf611"
   },
   {
     "map": "T01-Grainfarmtest4.map",
