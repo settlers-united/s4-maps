@@ -4316,6 +4316,19 @@
     "map_sha256": "9748f4ede80f10dcc0892a2df6d76c5c493b1cf41d0a510ea04e2d6802e1f5e2"
   },
   {
+    "map": "M04-Wdt-GrueneMetzelInsel-8er.map",
+    "mapname": "M04-Wdt-GrueneMetzelInsel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-Wdt-GrueneMetzelInsel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-Wdt-GrueneMetzelInsel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "6f0e7972344a84b70c6349a49fbef129dfcc79d019780895ed30721873d8cc1c"
+  },
+  {
     "map": "M04-Wdt-NormandyMetzel-2er.map",
     "mapname": "M04-Wdt-NormandyMetzel-2er",
     "mapfolder": "User",
@@ -4392,6 +4405,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
     "map_sha256": "7a6b49a2a2fa6e909874a9dd44712600fdb5fab5f74e7a5787a34b8d34203f14"
+  },
+  {
+    "map": "M04-Wdt-TheBobMetzel-8er.map",
+    "mapname": "M04-Wdt-TheBobMetzel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-Wdt-TheBobMetzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-Wdt-TheBobMetzel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "c0cf69e959a4706c96ffec771467c79a7f38b3d4a6aca1fb01e6295a9dc21e16"
   },
   {
     "map": "MP-0h_Fratzengeballer.map",
