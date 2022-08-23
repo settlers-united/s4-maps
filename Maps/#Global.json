@@ -3081,6 +3081,19 @@
     "map_sha256": "a9dba695cb6416697a0909f2d64f826201da92e8a9a3440d070cf05d25eb118c"
   },
   {
+    "map": "M02-JdK-StrategieMetzel8er.map",
+    "mapname": "M02-JdK-StrategieMetzel8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by ThoNic)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-JdK-StrategieMetzel8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-JdK-StrategieMetzel8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "2c753c89980461b8903dd5c5ef0f9672c5704e809af525a84d352ebb93907583"
+  },
+  {
     "map": "M02-JdK-Teuto-LAN2005MP2-6er.map",
     "mapname": "M02-JdK-Teuto-LAN2005MP2-6er",
     "mapfolder": "User",
@@ -4316,6 +4329,19 @@
     "map_sha256": "9748f4ede80f10dcc0892a2df6d76c5c493b1cf41d0a510ea04e2d6802e1f5e2"
   },
   {
+    "map": "M04-RABBIT77-SchnelleMetzel.map",
+    "mapname": "M04-RABBIT77-SchnelleMetzel",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-RABBIT77-SchnelleMetzel.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-RABBIT77-SchnelleMetzel.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "6ebdc536b1a733cafa13c57fa5821007892076fe0ca1a5b8eff941b1fedcd0f0"
+  },
+  {
     "map": "M04-Wdt-GrueneMetzelInsel-8er.map",
     "mapname": "M04-Wdt-GrueneMetzelInsel-8er",
     "mapfolder": "User",
@@ -4418,6 +4444,32 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "c0cf69e959a4706c96ffec771467c79a7f38b3d4a6aca1fb01e6295a9dc21e16"
+  },
+  {
+    "map": "M04-WdT_HGemetzel-8er.map",
+    "mapname": "M04-WdT_HGemetzel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-WdT_HGemetzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-WdT_HGemetzel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "9a3b16f359b42eb8c7fe3448029ade714db4d5378538f988f8f4974c71e5bfb7"
+  },
+  {
+    "map": "M04-WdT_LGemetzel-8er.map",
+    "mapname": "M04-WdT_LGemetzel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-WdT_LGemetzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-WdT_LGemetzel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 1,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "0b4146216508b2d3465487397c381c51b4af52b51aea50e54c444da911d947d4"
   },
   {
     "map": "MP-0h_Fratzengeballer.map",
