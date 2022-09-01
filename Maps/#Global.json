@@ -169,6 +169,19 @@
     "map_sha256": "47485ae8e70f508f4632fed9136f487ff5a7eb548784d7e89692e2a1d767a8d7"
   },
   {
+    "map": "B01-Chaka-8er.map",
+    "mapname": "B01-Chaka-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Chaka-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Chaka-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "781bb10d3513899c38c63eb4942c68d45b7a7fc97af66c9459f6f5115aadbd4c"
+  },
+  {
     "map": "B01-Colorado-6er.map",
     "mapname": "B01-Colorado-6er",
     "mapfolder": "User",
@@ -897,6 +910,19 @@
     "map_sha256": "8dfa7e26681012fa5e8afcf57ed859d9dc6b075d3ccf6781a3be0711a00bf51e"
   },
   {
+    "map": "B01-ROMAX-8er.map",
+    "mapname": "B01-ROMAX-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-ROMAX-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-ROMAX-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "1af8545395fb0e2ca96bd88a9109a0b0d436e743b4ba1c004bf0be76f03b5db5"
+  },
+  {
     "map": "B01-Sonnielein-6er.map",
     "mapname": "B01-Sonnielein-6er",
     "mapfolder": "User",
@@ -960,6 +986,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "4fd36b5ecad545810b48afb63e72803f5e839077accd416d9e54c3fee764c7e6"
+  },
+  {
+    "map": "B01-Tasmanien-Insel-8er.map",
+    "mapname": "B01-Tasmanien-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Tasmanien-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Tasmanien-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "e1b8b83c2e6184ef56ed8b63d9ed8db02a591e9e0aaab3d4988395293cbe40c0"
   },
   {
     "map": "B01-THX-Selktion-8er.map",
