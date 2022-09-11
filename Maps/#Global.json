@@ -1302,7 +1302,7 @@
   {
     "map": "B02-4-Isles-2er.map",
     "mapname": "B02-4-Isles-2er",
-    "mapfolder": "Singleplayer",
+    "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
     "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-4-Isles-2er.map",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-4-Isles-2er.png",
@@ -1310,7 +1310,7 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 2,
-    "map_sha256": "4bd36c1977e060d2b3587ff5ed8cb84f0731408922e7606aa2c20fb30e1a041b"
+    "map_sha256": "7e43f5a0553f3f784058f1f51bdfc7b1d53c79a7150e26eda877e854518e3a81"
   },
   {
     "map": "B02-Alien-4er.map",
@@ -5887,6 +5887,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "3714f68014acd91dfcda65aeb189867ad530ab4cd2138efe53a448f1c66dcceb"
+  },
+  {
+    "map": "M02-METZEL-2er.map",
+    "mapname": "M02-METZEL-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-METZEL-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-METZEL-2er.png",
+    "mapSize": 704,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "5f79879070fc4d6a330b7623654e30ee50685256dda39954c8304f3485cc4f55"
   },
   {
     "map": "M02-Metzel-4er.map",
