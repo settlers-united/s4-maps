@@ -715,19 +715,6 @@
     "map_sha256": "cbf5de32e13f1826b991061e7bf7f7413711615b805fa53020f995ce84f83038"
   },
   {
-    "map": "B01-littel-Merlin-4er.map",
-    "mapname": "B01-littel-Merlin-4er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-littel-Merlin-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-littel-Merlin-4er.png",
-    "mapSize": 576,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "ca053cb98212aa694e00024b913cdedf0211ce9093ca88a42a3cc2d7481ebf1f"
-  },
-  {
     "map": "B01-little-marshylein-4er.map",
     "mapname": "B01-little-marshylein-4er",
     "mapfolder": "User",
@@ -739,6 +726,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "1326d71524b92200d5599e2a2a5cbf82f177887953c079c3690fbc227d367c59"
+  },
+  {
+    "map": "B01-little-Merlin-4er.map",
+    "mapname": "B01-little-Merlin-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-little-Merlin-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-little-Merlin-4er.png",
+    "mapSize": 576,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "ca053cb98212aa694e00024b913cdedf0211ce9093ca88a42a3cc2d7481ebf1f"
   },
   {
     "map": "B01-Macushla-8er.map",
@@ -1040,6 +1040,19 @@
     "map_sha256": "1af8545395fb0e2ca96bd88a9109a0b0d436e743b4ba1c004bf0be76f03b5db5"
   },
   {
+    "map": "B01-Schlangen-Insel-8er.map",
+    "mapname": "B01-Schlangen-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Schlangen-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Schlangen-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "01f55c8644366ce9245a7912c5dd60cd9d188c6956a08f23547ddab807d89820"
+  },
+  {
     "map": "B01-Sonnielein-6er.map",
     "mapname": "B01-Sonnielein-6er",
     "mapfolder": "User",
@@ -1077,19 +1090,6 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "afcd1bbb275bdfa30685c98cd679713a70190babe78701bbd9ac2f511f57a85c"
-  },
-  {
-    "map": "B01-Sterntaler-4er.map",
-    "mapname": "B01-Sterntaler-4er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Sterntaler-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Sterntaler-4er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "0af0522908490048c698c4d7cf02c3a509ac2fe63c78c72e99d12574b46f0877"
   },
   {
     "map": "B01-Sterntaler-8er.map",
@@ -2598,6 +2598,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "fb3142a2fe303d75eddbad4a7b823be4107e6fccbad794a4d69b15eb2aa4cffa"
+  },
+  {
+    "map": "B02-Sterntaler-4er.map",
+    "mapname": "B02-Sterntaler-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Sterntaler-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Sterntaler-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "0af0522908490048c698c4d7cf02c3a509ac2fe63c78c72e99d12574b46f0877"
   },
   {
     "map": "B02-Stripeland-4er.map",
