@@ -6604,19 +6604,6 @@
     "map_sha256": "9748f4ede80f10dcc0892a2df6d76c5c493b1cf41d0a510ea04e2d6802e1f5e2"
   },
   {
-    "map": "M04-RABBIT77-SchnelleMetzel.map",
-    "mapname": "M04-RABBIT77-SchnelleMetzel",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAPS",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-RABBIT77-SchnelleMetzel.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-RABBIT77-SchnelleMetzel.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "6ebdc536b1a733cafa13c57fa5821007892076fe0ca1a5b8eff941b1fedcd0f0"
-  },
-  {
     "map": "M04-Wdt-GrueneMetzelInsel-8er.map",
     "mapname": "M04-Wdt-GrueneMetzelInsel-8er",
     "mapfolder": "User",
