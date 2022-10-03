@@ -455,12 +455,12 @@
     "map_sha256": "c78a1cf5de62e246fca0c66fb2386c8b36f310add23947b0c6a88b9907a658b6"
   },
   {
-    "map": "B01-Gruene-Insel-4.map",
-    "mapname": "B01-Gruene-Insel-4",
+    "map": "B01-Gruene-Insel-4er.map",
+    "mapname": "B01-Gruene-Insel-4er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Gruene-Insel-4.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Gruene-Insel-4.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Gruene-Insel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Gruene-Insel-4er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
