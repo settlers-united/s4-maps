@@ -3653,12 +3653,12 @@
     "map_sha256": "6a6ff0e88efd2d0600c28ed0955a2e99b5fa3bb365f1c4a21b00ce95fc8a3c8e"
   },
   {
-    "map": "BM01-Tuniermetzel1-3D-4er.map",
-    "mapname": "BM01-Tuniermetzel1-3D-4er",
+    "map": "BM01-Turniermetzel1-3D-4er.map",
+    "mapname": "BM01-Turniermetzel1-3D-4er",
     "mapfolder": "User",
     "mapgroup": "BUTZEL MAP PACK (halb Buddel / halb Metzel) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/BM01-Tuniermetzel1-3D-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/BM01-Tuniermetzel1-3D-4er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/BM01-Turniermetzel1-3D-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/BM01-Turniermetzel1-3D-4er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
