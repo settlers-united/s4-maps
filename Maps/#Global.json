@@ -234,19 +234,6 @@
     "map_sha256": "dd8d58d8c5c154b84235604b370574f82ff84923db11dc3f542ecd3516b26ec9"
   },
   {
-    "map": "B01-Colorado-6er.map",
-    "mapname": "B01-Colorado-6er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Colorado-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Colorado-6er.png",
-    "mapSize": 704,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6,
-    "map_sha256": "0a0d345e05bc1da5002a44d12da3f3d4f3db75f13784499767be0b980aa63491"
-  },
-  {
     "map": "B01-Colorado-8er.map",
     "mapname": "B01-Colorado-8er",
     "mapfolder": "User",
@@ -297,6 +284,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
     "map_sha256": "3e929a609690b18475f2da3eec73226d4de0198b8249142aed55a3f87491f8da"
+  },
+  {
+    "map": "B01-DickeZeckenBuddel-6er.map",
+    "mapname": "B01-DickeZeckenBuddel-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-DickeZeckenBuddel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-DickeZeckenBuddel-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "cf2f990c28cf4561584ccd968f8ae1f6b1f07b549279c8b18b2a291ed21fa1dc"
   },
   {
     "map": "B01-Die-neue-Insel-8er.map",
@@ -572,19 +572,6 @@
     "map_sha256": "3d91ff5aacccd83bdf10a6d8ff0bff9a4a506c20d3e8c54808efed8a30f8aa9e"
   },
   {
-    "map": "B01-Im-Garten-Eden-4er.map",
-    "mapname": "B01-Im-Garten-Eden-4er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Im-Garten-Eden-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Im-Garten-Eden-4er.png",
-    "mapSize": 1024,
-    "defaultGoods": 2,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "da1624ba1037c8d9c3cc7eb8b8e0a20347ae169829602978d00a38c2944543b0"
-  },
-  {
     "map": "B01-Insomnia-8er.map",
     "mapname": "B01-Insomnia-8er",
     "mapfolder": "User",
@@ -700,6 +687,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "6025f30f22b99b2d4b5acc89dae39c43a055a68164670b8927d83b1d274caf95"
+  },
+  {
+    "map": "B01-KroetenBuddel-8er.map",
+    "mapname": "B01-KroetenBuddel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-KroetenBuddel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-KroetenBuddel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "49cc375ca5b34acf108b924ff585669f2cf6ed9d223bfc97d69a038c72c07e37"
   },
   {
     "map": "B01-LA-Ring-6er.map",
@@ -1612,6 +1612,19 @@
     "map_sha256": "3a72f294a27ee0bb93b17e5003834892707b64c011198716487b9eed2bd5c24b"
   },
   {
+    "map": "B02-Colorado-6er.map",
+    "mapname": "B02-Colorado-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Colorado-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Colorado-6er.png",
+    "mapSize": 704,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "0a0d345e05bc1da5002a44d12da3f3d4f3db75f13784499767be0b980aa63491"
+  },
+  {
     "map": "B02-Countdown-2er.map",
     "mapname": "B02-Countdown-2er",
     "mapfolder": "User",
@@ -1883,6 +1896,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "d21173e3a355f2377d2d0ff15150a3fb5515220e35f4db975b27a805ca6cd3f7"
+  },
+  {
+    "map": "B02-Im-Garten-Eden-4er.map",
+    "mapname": "B02-Im-Garten-Eden-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Im-Garten-Eden-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Im-Garten-Eden-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "da1624ba1037c8d9c3cc7eb8b8e0a20347ae169829602978d00a38c2944543b0"
   },
   {
     "map": "B02-Interdependence-4er.map",
