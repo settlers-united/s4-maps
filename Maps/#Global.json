@@ -5252,17 +5252,17 @@
     "map_sha256": "36cae985c58e2d4606f04ede1253a6f483e86ba73cdf882bbc61b9548ff5ca2b"
   },
   {
-    "map": "M01-Xerxes-Metzel-5b-4er.map",
-    "mapname": "M01-Xerxes-Metzel-5b-4er",
+    "map": "M01-Xerxes-Metzel-5b-4er-Ubo.map",
+    "mapname": "M01-Xerxes-Metzel-5b-4er-Ubo",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Xerxes-Metzel-5b-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Xerxes-Metzel-5b-4er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Xerxes-Metzel-5b-4er-Ubo.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Xerxes-Metzel-5b-4er-Ubo.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 4,
-    "map_sha256": "fb1a711d7d6d37c1a061a1cfcc290fbe40d490d2962477caa136216c682ba28b"
+    "map_sha256": "908c2c1f51e81888d174d75fb45a7ee0c2192eda5fd1f404e61f486e2f41054b"
   },
   {
     "map": "M01-Xerxes-Metzel-YOGa-4er.map",
@@ -6539,6 +6539,19 @@
     "map_sha256": "f8c894c26f753fdc2c056c8d090c12cf1fe98d49648019c183e814e00f17df4e"
   },
   {
+    "map": "M02-Xerxes-Metzel-5b-4er.map",
+    "mapname": "M02-Xerxes-Metzel-5b-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Xerxes-Metzel-5b-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Xerxes-Metzel-5b-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 4,
+    "map_sha256": "fb1a711d7d6d37c1a061a1cfcc290fbe40d490d2962477caa136216c682ba28b"
+  },
+  {
     "map": "M03-SF_Baumstammmetzel-8er.map",
     "mapname": "M03-SF_Baumstammmetzel-8er",
     "mapfolder": "User",
@@ -6680,6 +6693,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "9748f4ede80f10dcc0892a2df6d76c5c493b1cf41d0a510ea04e2d6802e1f5e2"
+  },
+  {
+    "map": "M04-FE.-Tenebrismetzel-8er.map",
+    "mapname": "M04-FE.-Tenebrismetzel-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Tenebrismetzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Tenebrismetzel-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "7418db85d3655675e626452b9ab68e4e6bd76a1457639a3be2b1c59d10ae4132"
   },
   {
     "map": "M04-Wdt-GrueneMetzelInsel-8er.map",
