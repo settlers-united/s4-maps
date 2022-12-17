@@ -6695,6 +6695,45 @@
     "map_sha256": "9748f4ede80f10dcc0892a2df6d76c5c493b1cf41d0a510ea04e2d6802e1f5e2"
   },
   {
+    "map": "M04-FE.-Tenebrismetzel-2er.map",
+    "mapname": "M04-FE.-Tenebrismetzel-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Tenebrismetzel-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Tenebrismetzel-2er.png",
+    "mapSize": 960,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 2,
+    "map_sha256": "e4f7b280d83eaed379c871920c9699c5de90207a3432c6b625ed0f2c5b5cdda6"
+  },
+  {
+    "map": "M04-FE.-Tenebrismetzel-4er.map",
+    "mapname": "M04-FE.-Tenebrismetzel-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Tenebrismetzel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Tenebrismetzel-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 4,
+    "map_sha256": "ff8c56d202742d3bc82213814940e4dd4e988c117a4eb03a7204e695edc57d11"
+  },
+  {
+    "map": "M04-FE.-Tenebrismetzel-6er.map",
+    "mapname": "M04-FE.-Tenebrismetzel-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Tenebrismetzel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Tenebrismetzel-6er.png",
+    "mapSize": 960,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 6,
+    "map_sha256": "59cda920ad43b28dba885edd0b172cc275ae2ec224491fb19f748c2cd201a096"
+  },
+  {
     "map": "M04-FE.-Tenebrismetzel-8er.map",
     "mapname": "M04-FE.-Tenebrismetzel-8er",
     "mapfolder": "User",
@@ -6705,7 +6744,7 @@
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 8,
-    "map_sha256": "7418db85d3655675e626452b9ab68e4e6bd76a1457639a3be2b1c59d10ae4132"
+    "map_sha256": "4c4af0bf40efd997ec8a9dffcd84e9ef778eb6239fd553789d1c80c5f80db1c9"
   },
   {
     "map": "M04-Wdt-GrueneMetzelInsel-8er.map",
