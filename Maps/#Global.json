@@ -6695,6 +6695,45 @@
     "map_sha256": "9748f4ede80f10dcc0892a2df6d76c5c493b1cf41d0a510ea04e2d6802e1f5e2"
   },
   {
+    "map": "M04-FE.-Decisionmetzel-2er.map",
+    "mapname": "M04-FE.-Decisionmetzel-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Decisionmetzel-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Decisionmetzel-2er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "75e1a52f076de2b1b2b2d708ebe93b041b9a3a29ff75bcd3b303c01e00653e89"
+  },
+  {
+    "map": "M04-FE.-Decisionmetzel-4er.map",
+    "mapname": "M04-FE.-Decisionmetzel-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Decisionmetzel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Decisionmetzel-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "4576af9009808c9b86480c84ce34defcb046d889770458b2ab4f2ef7fc34090c"
+  },
+  {
+    "map": "M04-FE.-Decisionmetzel-6er.map",
+    "mapname": "M04-FE.-Decisionmetzel-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Decisionmetzel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Decisionmetzel-6er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "88b9adaebfec73a23b3388d881f9444a96b3ab7ae6908e1c70b3480694ac7ee1"
+  },
+  {
     "map": "M04-FE.-Tenebrismetzel-2er.map",
     "mapname": "M04-FE.-Tenebrismetzel-2er",
     "mapfolder": "User",
