@@ -5590,6 +5590,19 @@
     "map_sha256": "395dccf05201268e3417601a10f8119491fd84a664929bc731de66ba27cf6ed2"
   },
   {
+    "map": "M02-Gemetzel-8er_NewExperience_v2.map",
+    "mapname": "M02-Gemetzel-8er_NewExperience_v2",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Gemetzel-8er_NewExperience_v2.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Gemetzel-8er_NewExperience_v2.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "f1e19db9371f1965bb7a0081ebec22eed39a747647faa21f198c791f249f0ced"
+  },
+  {
     "map": "M02-getunte-Aufbaumetzel-4er.map",
     "mapname": "M02-getunte-Aufbaumetzel-4er",
     "mapfolder": "User",
