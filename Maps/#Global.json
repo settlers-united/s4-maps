@@ -143,19 +143,6 @@
     "map_sha256": "17e3eb115b96c1628a8046a680000738f8909bc28d6b12c45faf9dc1dd3f0912"
   },
   {
-    "map": "B01-Bienennest-6er.map",
-    "mapname": "B01-Bienennest-6er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Bienennest-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Bienennest-6er.png",
-    "mapSize": 896,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6,
-    "map_sha256": "3027c6f81d12488464b507a1c73d4da4403d7f14dd05c3eecda8d76427f9520f"
-  },
-  {
     "map": "B01-Bier-Insel-8er.map",
     "mapname": "B01-Bier-Insel-8er",
     "mapfolder": "User",
@@ -167,6 +154,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "836c57a92a838d74fa66955bdb802b2a52531fbd777247e7e46c55121392872d"
+  },
+  {
+    "map": "B01-Black-Buddel-4er.map",
+    "mapname": "B01-Black-Buddel-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Black-Buddel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Black-Buddel-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "d02c742e15ab558f587f6423836d5c83a7fb3e3cf10d580a1e87352f09465d48"
   },
   {
     "map": "B01-Blaue-Insel-8er.map",
@@ -741,19 +741,6 @@
     "map_sha256": "ca053cb98212aa694e00024b913cdedf0211ce9093ca88a42a3cc2d7481ebf1f"
   },
   {
-    "map": "B01-Macushla-8er.map",
-    "mapname": "B01-Macushla-8er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Macushla-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Macushla-8er.png",
-    "mapSize": 1024,
-    "defaultGoods": 2,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8,
-    "map_sha256": "b5c04af991401d49268a1ad63b98cf65fee14db2890bf3dd987d2be82757f38f"
-  },
-  {
     "map": "B01-Malediven-6er.map",
     "mapname": "B01-Malediven-6er",
     "mapfolder": "User",
@@ -1196,6 +1183,19 @@
     "map_sha256": "6b176e838e0f387a7942d31c1ea59b2220f23dd285a94a1018b04f75d2752a18"
   },
   {
+    "map": "B01-White-Buddel-4er.map",
+    "mapname": "B01-White-Buddel-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-White-Buddel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-White-Buddel-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "773c2fa79982082536db473ae1cda2df040469b47f11820d704679f46ae6fdc4"
+  },
+  {
     "map": "B01-Wildnis-8er.map",
     "mapname": "B01-Wildnis-8er",
     "mapfolder": "User",
@@ -1441,6 +1441,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 2,
     "map_sha256": "99507fc3ae497a4c6cf7ac2022d8d973fab75fc9c4d199a7cb53617789c7e923"
+  },
+  {
+    "map": "B02-Bienennest-6er.map",
+    "mapname": "B02-Bienennest-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Bienennest-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Bienennest-6er.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "3027c6f81d12488464b507a1c73d4da4403d7f14dd05c3eecda8d76427f9520f"
   },
   {
     "map": "B02-Big-Brother-4er.map",
@@ -2039,6 +2052,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "44271c36ec20e82ef6cf1725ffc65b36869755d3cb2b3b6c25c4d0dde580a234"
+  },
+  {
+    "map": "B02-Macushla-8er.map",
+    "mapname": "B02-Macushla-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Macushla-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Macushla-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "b5c04af991401d49268a1ad63b98cf65fee14db2890bf3dd987d2be82757f38f"
   },
   {
     "map": "B02-Middlecrash-4er.map",
@@ -4147,6 +4173,19 @@
     "map_sha256": "06f6754b7976a1f075285b50e914e3b941915c4c60260ffd43878615fdee8cfd"
   },
   {
+    "map": "M01-Black-Metzel-4er.map",
+    "mapname": "M01-Black-Metzel-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Black-Metzel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Black-Metzel-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "80a67411a42d7d4e06bf6b31eef91be33c1729f8524d2e48bb9f184666e0ceb2"
+  },
+  {
     "map": "M01-Blumenmetzel-4er.map",
     "mapname": "M01-Blumenmetzel-4er",
     "mapfolder": "User",
@@ -4275,19 +4314,6 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "9bc0ad7b4c801b12706108117e349627d58c135903a345a1d4e50b7060a52f6d"
-  },
-  {
-    "map": "M01-Cow-for-Gold-3er.map",
-    "mapname": "M01-Cow-for-Gold-3er",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Cow-for-Gold-3er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Cow-for-Gold-3er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 3,
-    "map_sha256": "bdc82aad7f58df77c9b0b2ca374fc5ceb71a8afb84f51067d57f124eab1f5553"
   },
   {
     "map": "M01-DfS-Blumenmetzel-4er.map",
@@ -4784,19 +4810,6 @@
     "map_sha256": "2ed4d91c02f5addbf80dd32db9739e308fddbf49d550af45131dd093b7739559"
   },
   {
-    "map": "M01-Mosaicus-4er.map",
-    "mapname": "M01-Mosaicus-4er",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Mosaicus-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Mosaicus-4er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "e03b884e3318df04356fea229eea14953818748f3831cb3d7b15469dcc227bf7"
-  },
-  {
     "map": "M01-NBY-HGLGMetzel-8er.map",
     "mapname": "M01-NBY-HGLGMetzel-8er",
     "mapfolder": "User",
@@ -5226,6 +5239,19 @@
     "map_sha256": "3cf67308d14acf9e1fbb9423fee0b35b7014fa35184601d8069ccacb49660bb8"
   },
   {
+    "map": "M01-White-Metzel-4er.map",
+    "mapname": "M01-White-Metzel-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-White-Metzel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-White-Metzel-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "6e5a662d262ffe3b86897b875128efb05b1b8da1197efaf4a764c4f1325c3dcb"
+  },
+  {
     "map": "M01-Xerxes-Metzel-3b-4er.map",
     "mapname": "M01-Xerxes-Metzel-3b-4er",
     "mapfolder": "User",
@@ -5419,6 +5445,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
     "map_sha256": "ba476405286ee2b359d9560be659727764bb5c0234a719c95612e15843e23f4c"
+  },
+  {
+    "map": "M02-Cow-for-Gold-3er.map",
+    "mapname": "M02-Cow-for-Gold-3er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Cow-for-Gold-3er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Cow-for-Gold-3er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 3,
+    "map_sha256": "bdc82aad7f58df77c9b0b2ca374fc5ceb71a8afb84f51067d57f124eab1f5553"
   },
   {
     "map": "M02-D-Metzel-6er.map",
@@ -5850,12 +5889,12 @@
     "map_sha256": "61867433f1cbccc2b19a2f6166faed3c36c8afec0c01a4500797a224be441e93"
   },
   {
-    "map": "M02-Kleeblattmetzel-6er.map",
-    "mapname": "M02-Kleeblattmetzel-6er",
+    "map": "M02-KleeblattMetzel-6er.map",
+    "mapname": "M02-KleeblattMetzel-6er",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Kleeblattmetzel-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Kleeblattmetzel-6er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-KleeblattMetzel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-KleeblattMetzel-6er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
@@ -5941,11 +5980,11 @@
     "map_sha256": "3714f68014acd91dfcda65aeb189867ad530ab4cd2138efe53a448f1c66dcceb"
   },
   {
-    "map": "M02-METZEL-2er.map",
+    "map": "M02-METZEL-2er.MAP",
     "mapname": "M02-METZEL-2er",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-METZEL-2er.map",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-METZEL-2er.MAP",
     "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-METZEL-2er.png",
     "mapSize": 704,
     "defaultGoods": 3,
@@ -6134,6 +6173,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "dd2e2ec01d4606b76fbc1cfc87288cf557405b0b1993d49bf130788dc0d1a42b"
+  },
+  {
+    "map": "M02-Mosaicus-4er.map",
+    "mapname": "M02-Mosaicus-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Mosaicus-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Mosaicus-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "e03b884e3318df04356fea229eea14953818748f3831cb3d7b15469dcc227bf7"
   },
   {
     "map": "M02-No1-Metzel-6er.map",
@@ -6474,12 +6526,12 @@
     "map_sha256": "8e3d3d9881a5e937a63889897a6410902de1c752308afa03e16423d0223bfa75"
   },
   {
-    "map": "M02-Whirly-4er.map",
-    "mapname": "M02-Whirly-4er",
+    "map": "M02-whirly-4er.map",
+    "mapname": "M02-whirly-4er",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Whirly-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Whirly-4er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-whirly-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-whirly-4er.png",
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
