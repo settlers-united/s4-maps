@@ -11726,6 +11726,19 @@
     "map_sha256": "b9870fd7db907602e02408a30affd5d6e01e697b8cf9e523a0278516234301b3"
   },
   {
+    "map": "SP-Eiszeit-III.map",
+    "mapname": "SP-Eiszeit-III",
+    "mapfolder": "Singleplayer",
+    "mapgroup": "Singleplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/SP-Eiszeit-III.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/SP-Eiszeit-III.png",
+    "mapSize": 1024,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 7,
+    "map_sha256": "5155616a320bd3758b2aa2f0b478615074a0f4db8a831fb93d811121b1a9edca"
+  },
+  {
     "map": "SP-gemayate-mayas.map",
     "mapname": "SP-gemayate-mayas",
     "mapfolder": "Singleplayer",
