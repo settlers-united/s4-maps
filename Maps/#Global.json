@@ -6799,6 +6799,58 @@
     "map_sha256": "88b9adaebfec73a23b3388d881f9444a96b3ab7ae6908e1c70b3480694ac7ee1"
   },
   {
+    "map": "M04-FE.-DesertumExitium-2er.map",
+    "mapname": "M04-FE.-DesertumExitium-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-DesertumExitium-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-DesertumExitium-2er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "ee4519db1e1bfbb5d796e32a9fe795b883de06694224bb492c0b6fbccc2d356f"
+  },
+  {
+    "map": "M04-FE.-DesertumExitium-4er.map",
+    "mapname": "M04-FE.-DesertumExitium-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-DesertumExitium-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-DesertumExitium-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "faefa29e478e1b27e73ca212140648f65dafa521e015e927542a6102d3061f3a"
+  },
+  {
+    "map": "M04-FE.-DesertumExitium-6er.map",
+    "mapname": "M04-FE.-DesertumExitium-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-DesertumExitium-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-DesertumExitium-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "da9785715e38ec09ca8e0f4e30c198c6875e7ab7bb5f9b846a4c0a483d3e752e"
+  },
+  {
+    "map": "M04-FE.-DesertumExitium-8er.map",
+    "mapname": "M04-FE.-DesertumExitium-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-DesertumExitium-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-DesertumExitium-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "9838469c0bdd5627714281256e309634ab7577f2852ded30f5ea55619023c2bc"
+  },
+  {
     "map": "M04-FE.-Tenebrismetzel-2er.map",
     "mapname": "M04-FE.-Tenebrismetzel-2er",
     "mapfolder": "User",
