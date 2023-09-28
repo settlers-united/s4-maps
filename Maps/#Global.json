@@ -6760,6 +6760,58 @@
     "map_sha256": "9748f4ede80f10dcc0892a2df6d76c5c493b1cf41d0a510ea04e2d6802e1f5e2"
   },
   {
+    "map": "M04-FE.-Abrakadabra-2er.map",
+    "mapname": "M04-FE.-Abrakadabra-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Abrakadabra-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Abrakadabra-2er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "13084dcf2728a6ac8262bf610f9afb45242025c52ab9aeb7646f7e4db81e2074"
+  },
+  {
+    "map": "M04-FE.-Abrakadabra-4er.map",
+    "mapname": "M04-FE.-Abrakadabra-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Abrakadabra-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Abrakadabra-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "7a0fd33b6cda9a5e78c3d39d6895993b93b61ae5477e1bc10f0ecb989e5ab272"
+  },
+  {
+    "map": "M04-FE.-Abrakadabra-6er.map",
+    "mapname": "M04-FE.-Abrakadabra-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Abrakadabra-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Abrakadabra-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "d71f05aa8d19bd84ed6d9eeec90c36d81bee0f6203f050bad4f13e749915234c"
+  },
+  {
+    "map": "M04-FE.-Abrakadabra-8er.map",
+    "mapname": "M04-FE.-Abrakadabra-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Abrakadabra-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Abrakadabra-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "61c185ed0c424fd05a0f05799c9be56edd6a9151eff7771b9efe8480c8bf3a1d"
+  },
+  {
     "map": "M04-FE.-Decisionmetzel-2er.map",
     "mapname": "M04-FE.-Decisionmetzel-2er",
     "mapfolder": "User",
