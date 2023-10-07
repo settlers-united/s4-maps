@@ -7007,6 +7007,58 @@
     "map_sha256": "4c4af0bf40efd997ec8a9dffcd84e9ef778eb6239fd553789d1c80c5f80db1c9"
   },
   {
+    "map": "M04-FE.-TheRockyRoad-2er.map",
+    "mapname": "M04-FE.-TheRockyRoad-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-TheRockyRoad-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-TheRockyRoad-2er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "765889ec42a6dc20ef248798e01e6cf80aa682c4a817e6bde87338f252c02b0f"
+  },
+  {
+    "map": "M04-FE.-TheRockyRoad-4er.map",
+    "mapname": "M04-FE.-TheRockyRoad-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-TheRockyRoad-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-TheRockyRoad-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "91a53b5487433793863b7fd7b0ed83c7899641db294cdaa1a64726caa4767eee"
+  },
+  {
+    "map": "M04-FE.-TheRockyRoad-6er.map",
+    "mapname": "M04-FE.-TheRockyRoad-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-TheRockyRoad-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-TheRockyRoad-6er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "e5ebac5518fba03d39d9c46ef302c1bae3a0dabf03b14eb03f35623891ae85b3"
+  },
+  {
+    "map": "M04-FE.-TheRockyRoad-8er.map",
+    "mapname": "M04-FE.-TheRockyRoad-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-TheRockyRoad-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-TheRockyRoad-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "5ef0d118d931727bafdf0648bf9a2e335267dc544ace9f9195841bc6ccaea96d"
+  },
+  {
     "map": "M04-TerrainMetzel-2er.map",
     "mapname": "M04-TerrainMetzel-2er",
     "mapfolder": "User",
@@ -7564,32 +7616,6 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "c2d534d7e87f79980ac9ef4f64a4a4ff9f0f81f34f5991cafbddaec4999e74e6"
-  },
-  {
-    "map": "MP-TheDivineTyrantEng_1_1_6.map",
-    "mapname": "MP-TheDivineTyrantEng_1_1_6",
-    "mapfolder": "User",
-    "mapgroup": "Multiplayer Maps",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-TheDivineTyrantEng_1_1_6.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-TheDivineTyrantEng_1_1_6.png",
-    "mapSize": 768,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 3,
-    "map_sha256": "07dee732f491fed72dbbb139488439be7e98f8a53b05ed41370ed4e4140ad935"
-  },
-  {
-    "map": "MP-TheDivineTyrant_1_1_6.map",
-    "mapname": "MP-TheDivineTyrant_1_1_6",
-    "mapfolder": "User",
-    "mapgroup": "Multiplayer Maps",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-TheDivineTyrant_1_1_6.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-TheDivineTyrant_1_1_6.png",
-    "mapSize": 768,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 3,
-    "map_sha256": "73cb15cb03c58e1b4db1cc806d7638d762d61f6bbfdbaa716f3eccc762cde689"
   },
   {
     "map": "MP-TowerBattle6er-v1.map",
