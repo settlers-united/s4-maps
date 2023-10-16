@@ -1482,17 +1482,17 @@
     "map_sha256": "aa5f3422fca5fb5dd9e44270e95313544d6d612d5a7816d43151f951a149ee67"
   },
   {
-    "map": "B02-Biohazard-8er.map",
-    "mapname": "B02-Biohazard-8er",
+    "map": "B02-Biohazard-8er-v2.map",
+    "mapname": "B02-Biohazard-8er-v2",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Biohazard-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Biohazard-8er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Biohazard-8er-v2.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Biohazard-8er-v2.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 8,
-    "map_sha256": "7bf1b6ccbfef7da6cc443121712980861f066872860dc18ceb3299cd2112b383"
+    "map_sha256": "44e36f02b19f02526617eab6144e926d0d783d17959226b2a894d98c82cb5b7f"
   },
   {
     "map": "B02-Bogi-Buddel-4er.map",
