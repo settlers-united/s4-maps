@@ -1209,12 +1209,12 @@
     "map_sha256": "1768e1274e61878a11e87752db4d2a340e63048a0df50bf004d92fed2f823761"
   },
   {
-    "map": "B01-Windrad2023.map",
-    "mapname": "B01-Windrad2023",
+    "map": "B01-Windrad2023-8er.map",
+    "mapname": "B01-Windrad2023-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Windrad2023.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Windrad2023.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Windrad2023-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Windrad2023-8er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -5304,12 +5304,12 @@
     "map_sha256": "6e5a662d262ffe3b86897b875128efb05b1b8da1197efaf4a764c4f1325c3dcb"
   },
   {
-    "map": "M01-Windrad2023-Metzel.map",
-    "mapname": "M01-Windrad2023-Metzel",
+    "map": "M01-Windrad2023-Metzel-8er.map",
+    "mapname": "M01-Windrad2023-Metzel-8er",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Windrad2023-Metzel.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Windrad2023-Metzel.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Windrad2023-Metzel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Windrad2023-Metzel-8er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
