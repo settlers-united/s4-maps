@@ -130,19 +130,6 @@
     "map_sha256": "1abd704ce6995b78074f77ced22dea72ea968ea971cda901bff07943fbe2bd10"
   },
   {
-    "map": "B01-Bergmonster-4er.map",
-    "mapname": "B01-Bergmonster-4er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Bergmonster-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Bergmonster-4er.png",
-    "mapSize": 768,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "17e3eb115b96c1628a8046a680000738f8909bc28d6b12c45faf9dc1dd3f0912"
-  },
-  {
     "map": "B01-Bier-Insel-8er.map",
     "mapname": "B01-Bier-Insel-8er",
     "mapfolder": "User",
@@ -195,17 +182,17 @@
     "map_sha256": "15da82d141a4f32149fc5ae81d1da6096e4e895112218cb7fd8c5d033de4ecd0"
   },
   {
-    "map": "B01-California-6er.map",
-    "mapname": "B01-California-6er",
+    "map": "B01-California2023-6er.map",
+    "mapname": "B01-California2023-6er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-California-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-California-6er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-California2023-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-California2023-6er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
-    "map_sha256": "47485ae8e70f508f4632fed9136f487ff5a7eb548784d7e89692e2a1d767a8d7"
+    "map_sha256": "5bfb3f880c8dcbe2aa93f1439a155f504a9123686500b208ccc90952ac8030f3"
   },
   {
     "map": "B01-Chaka-8er.map",
@@ -676,17 +663,17 @@
     "map_sha256": "177e918da16909e37deafc82df83df83d3fecfe8131151ce50e12909eb3c66db"
   },
   {
-    "map": "B01-Kreuzzug-8er.map",
-    "mapname": "B01-Kreuzzug-8er",
+    "map": "B01-Kreuzzug2023-8er.map",
+    "mapname": "B01-Kreuzzug2023-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Kreuzzug-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Kreuzzug-8er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Kreuzzug2023-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Kreuzzug2023-8er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "6025f30f22b99b2d4b5acc89dae39c43a055a68164670b8927d83b1d274caf95"
+    "map_sha256": "c04e3693270d79e4328eacf367ced422d62f986392b7a1c14631659dc65a4f7e"
   },
   {
     "map": "B01-KroetenBuddel-8er.map",
@@ -1222,6 +1209,19 @@
     "map_sha256": "1768e1274e61878a11e87752db4d2a340e63048a0df50bf004d92fed2f823761"
   },
   {
+    "map": "B01-Windrad2023.map",
+    "mapname": "B01-Windrad2023",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Windrad2023.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Windrad2023.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "65e7d0daabea7396c34e1306c95f16a92222d9a8c94919e365aa1f97d82d5524"
+  },
+  {
     "map": "B01-Wookis-Poli-6er.map",
     "mapname": "B01-Wookis-Poli-6er",
     "mapfolder": "User",
@@ -1443,6 +1443,19 @@
     "map_sha256": "99507fc3ae497a4c6cf7ac2022d8d973fab75fc9c4d199a7cb53617789c7e923"
   },
   {
+    "map": "B02-Bergmonster-4er.map",
+    "mapname": "B02-Bergmonster-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Bergmonster-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Bergmonster-4er.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "17e3eb115b96c1628a8046a680000738f8909bc28d6b12c45faf9dc1dd3f0912"
+  },
+  {
     "map": "B02-Bienennest-6er.map",
     "mapname": "B02-Bienennest-6er",
     "mapfolder": "User",
@@ -1571,6 +1584,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "d701245c6e945686f1968986e4e12ab3518370603de2463f3ce7ca0d16af29b6"
+  },
+  {
+    "map": "B02-California-6er.map",
+    "mapname": "B02-California-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-California-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-California-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "47485ae8e70f508f4632fed9136f487ff5a7eb548784d7e89692e2a1d767a8d7"
   },
   {
     "map": "B02-Central-6er.map",
@@ -1740,6 +1766,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
     "map_sha256": "2e4d8f4f16369664162583ba28c74671c853a0b168725906e39a065abad9e172"
+  },
+  {
+    "map": "B02-Dunkle_Arena.map",
+    "mapname": "B02-Dunkle_Arena",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Dunkle_Arena.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Dunkle_Arena.png",
+    "mapSize": 512,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "21df3e1a647e363b1616821efecf87bfddfe428578189e359036438990858b15"
   },
   {
     "map": "B02-El-Dorado-4erI.map",
@@ -2013,6 +2052,19 @@
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 6,
     "map_sha256": "cbe5f47e91857e00c5e06d64f8462ef19e7dfabca200c5d39c1dea46a03c1a9a"
+  },
+  {
+    "map": "B02-Kreuzzug-8er.map",
+    "mapname": "B02-Kreuzzug-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Kreuzzug-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Kreuzzug-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "6025f30f22b99b2d4b5acc89dae39c43a055a68164670b8927d83b1d274caf95"
   },
   {
     "map": "B02-Kristallika-4er.map",
@@ -4420,19 +4472,6 @@
     "map_sha256": "4355d26fb3890e4e8cfd7db28585aa698ecb6241f06be3e2714ff1ee10caedb5"
   },
   {
-    "map": "M01-Fast-Darkness-4er.map",
-    "mapname": "M01-Fast-Darkness-4er",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Fast-Darkness-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Fast-Darkness-4er.png",
-    "mapSize": 448,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4,
-    "map_sha256": "8d2cfcf3060114c96440185af00238656d083497fbeb3274794bbdbc20d5150f"
-  },
-  {
     "map": "M01-FUN-at-Metzel-6er.map",
     "mapname": "M01-FUN-at-Metzel-6er",
     "mapfolder": "User",
@@ -5265,6 +5304,19 @@
     "map_sha256": "6e5a662d262ffe3b86897b875128efb05b1b8da1197efaf4a764c4f1325c3dcb"
   },
   {
+    "map": "M01-Windrad2023-Metzel.map",
+    "mapname": "M01-Windrad2023-Metzel",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Windrad2023-Metzel.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Windrad2023-Metzel.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "b43d36926959954fa026881b2ab11cd02b564372b5344ae0143ea5f7345b83c6"
+  },
+  {
     "map": "M01-Xerxes-Metzel-3b-4er.map",
     "mapname": "M01-Xerxes-Metzel-3b-4er",
     "mapfolder": "User",
@@ -5588,6 +5640,19 @@
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 6,
     "map_sha256": "41bc61b0730ae031e472798b1a5d656b12db2409b5d83728a831d92617aee958"
+  },
+  {
+    "map": "M02-Fast-Darkness-4er.map",
+    "mapname": "M02-Fast-Darkness-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Fast-Darkness-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Fast-Darkness-4er.png",
+    "mapSize": 448,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 4,
+    "map_sha256": "8d2cfcf3060114c96440185af00238656d083497fbeb3274794bbdbc20d5150f"
   },
   {
     "map": "M02-faule-Metzler-4er.map",
@@ -13323,6 +13388,19 @@
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 5,
     "map_sha256": "1c0293b134c950ed9f7785b9e8397a01a6244eb2f8efc8dec3b6c8d9c2f96ba9"
+  },
+  {
+    "map": "SZ01-Napoleons-Risiko-TeamTwo.map",
+    "mapname": "SZ01-Napoleons-Risiko-TeamTwo",
+    "mapfolder": "User",
+    "mapgroup": "SPECIAL MAP PACK 1 (Scripted) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/SZ01-Napoleons-Risiko-TeamTwo.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/SZ01-Napoleons-Risiko-TeamTwo.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "a3d57b3e2134157d3fde24f82f75a7283b11e2ee038a6fb341fc48f83edf92c4"
   },
   {
     "map": "SZ01-neue-Feinde-4er.map",
