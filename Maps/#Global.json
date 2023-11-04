@@ -910,19 +910,6 @@
     "map_sha256": "f4a7250f58ae96fa090ca26c057f17bf70b170345044d32d570fc385a9433d33"
   },
   {
-    "map": "B01-polaris-XL-6er.map",
-    "mapname": "B01-polaris-XL-6er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-polaris-XL-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-polaris-XL-6er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6,
-    "map_sha256": "b2fec693d2790891f64251f1ef597295c6eec39cb4d18e319fcdd291b82c82dc"
-  },
-  {
     "map": "B01-polaris-XL-Ring-6er.map",
     "mapname": "B01-polaris-XL-Ring-6er",
     "mapfolder": "User",
@@ -934,6 +921,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
     "map_sha256": "366033639471a876f0a5eab7c406a6e449aac41ba4f8bac47995698633a4d206"
+  },
+  {
+    "map": "B01-polaris-XL2023-6er.map",
+    "mapname": "B01-polaris-XL2023-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-polaris-XL2023-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-polaris-XL2023-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "fbde5e0e2eb264268148d757ce39e133838d21be2568c02e1e8ab2020afb7dda"
   },
   {
     "map": "B01-polaris-XXL-8er.map",
