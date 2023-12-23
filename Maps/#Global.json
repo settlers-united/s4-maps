@@ -6734,6 +6734,32 @@
     "map_sha256": "7e313022d87355d92815648f63b222115d7dc42f7f635eb2e08516efb649ba30"
   },
   {
+    "map": "M03-SF_JanichKinaabPakal-Metzel-4er.map",
+    "mapname": "M03-SF_JanichKinaabPakal-Metzel-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_JanichKinaabPakal-Metzel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_JanichKinaabPakal-Metzel-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 4,
+    "map_sha256": "9908ef006ad963bc62c81684e0f2d13db470c537c2a3dc3ca66632f75dbcd294"
+  },
+  {
+    "map": "M03-SF_JanichKinaabPakal-Metzel-6er.map",
+    "mapname": "M03-SF_JanichKinaabPakal-Metzel-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_JanichKinaabPakal-Metzel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_JanichKinaabPakal-Metzel-6er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 6,
+    "map_sha256": "9b730e4d5e5fc993950c79913ba54dcbb901c64d02dcfa5644c7e93ef0dad5ce"
+  },
+  {
     "map": "M03-SF_Welteroberungsmetzel-2er-Remaster.map",
     "mapname": "M03-SF_Welteroberungsmetzel-2er-Remaster",
     "mapfolder": "User",
