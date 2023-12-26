@@ -637,6 +637,19 @@
     "map_sha256": "e0b0b61fb79fdac2d13882436279a77480f8a15e3477732eca8ceda565d3da45"
   },
   {
+    "map": "B01-kleines-Windrad-8er.map",
+    "mapname": "B01-kleines-Windrad-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-kleines-Windrad-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-kleines-Windrad-8er.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "5f89864b68491ab657bc12ce286ff05a36108838a1955d5786a3b6c76df2e346"
+  },
+  {
     "map": "B01-Klixus-6er.map",
     "mapname": "B01-Klixus-6er",
     "mapfolder": "User",
@@ -791,19 +804,6 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "23731303bf17700bf3734ad83768409f96e5eb2232d1ac4238466eb41e0884ea"
-  },
-  {
-    "map": "B01-Maure-4er.map",
-    "mapname": "B01-Maure-4er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Maure-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Maure-4er.png",
-    "mapSize": 704,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "6f3b8679231a55837410bf6cd5cdee8605675ce9d8c47bd8415d0da01f84c1f8"
   },
   {
     "map": "B01-Merlin-8er.map",
@@ -1495,12 +1495,12 @@
     "map_sha256": "aa5f3422fca5fb5dd9e44270e95313544d6d612d5a7816d43151f951a149ee67"
   },
   {
-    "map": "B02-Biohazard-8er-v3.map",
-    "mapname": "B02-Biohazard-8er-v3",
+    "map": "B02-BiohazardII-8er.map",
+    "mapname": "B02-BiohazardII-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Biohazard-8er-v3.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Biohazard-8er-v3.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-BiohazardII-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-BiohazardII-8er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
@@ -2130,6 +2130,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "b5c04af991401d49268a1ad63b98cf65fee14db2890bf3dd987d2be82757f38f"
+  },
+  {
+    "map": "B02-Maure-4er.map",
+    "mapname": "B02-Maure-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Maure-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Maure-4er.png",
+    "mapSize": 704,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "6f3b8679231a55837410bf6cd5cdee8605675ce9d8c47bd8415d0da01f84c1f8"
   },
   {
     "map": "B02-Middlecrash-4er.map",
@@ -6744,7 +6757,7 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 4,
-    "map_sha256": "9908ef006ad963bc62c81684e0f2d13db470c537c2a3dc3ca66632f75dbcd294"
+    "map_sha256": "ebdabf28843c16dd0432f55bf2509c40210f5145ba6ddbb2d6efa96f448a4814"
   },
   {
     "map": "M03-SF_JanichKinaabPakal-Metzel-6er.map",
