@@ -3224,6 +3224,45 @@
     "map_sha256": "d10951971c927be1a9bad6a0d45de35be6972bb41c5ae503c41b8ab20a36a72b"
   },
   {
+    "map": "B04-Kuerbis-8er.map",
+    "mapname": "B04-Kuerbis-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B04-Kuerbis-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B04-Kuerbis-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "be0264f5b8e9fecb7a789003020738112640159320d7af3e5c5d1839ee22ecba"
+  },
+  {
+    "map": "B04-Picknickdecke-8er.map",
+    "mapname": "B04-Picknickdecke-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B04-Picknickdecke-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B04-Picknickdecke-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "ea161b4618da94ee8cb332acae79c352468ea3dd66c200b5cb9c8201cfa398ed"
+  },
+  {
+    "map": "B04-Weihnachtsgeschenk-4er.map",
+    "mapname": "B04-Weihnachtsgeschenk-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B04-Weihnachtsgeschenk-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B04-Weihnachtsgeschenk-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "8ef6964d9939df7f9e1453f4483b7f65784c372e97e8e91b3d37fc3581397cac"
+  },
+  {
     "map": "BM01--at-ll-gogo-4er.map",
     "mapname": "BM01--at-ll-gogo-4er",
     "mapfolder": "User",
