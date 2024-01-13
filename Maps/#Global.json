@@ -6760,6 +6760,45 @@
     "map_sha256": "0a9f8310d68815dde53982f317719c124d6e49adc565b8f09e23e361eaa83e9b"
   },
   {
+    "map": "M03-SF_EdenDerDunkelheit-Metzel-2er.map",
+    "mapname": "M03-SF_EdenDerDunkelheit-Metzel-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_EdenDerDunkelheit-Metzel-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_EdenDerDunkelheit-Metzel-2er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "9ce80d7e59d705d6c566bd7753c3f96b14ef566f30d2f73d233ac2f0eec5827f"
+  },
+  {
+    "map": "M03-SF_EdenDerDunkelheit-Metzel-4er.map",
+    "mapname": "M03-SF_EdenDerDunkelheit-Metzel-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_EdenDerDunkelheit-Metzel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_EdenDerDunkelheit-Metzel-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "fef1e9cba9444a8cdc2a5d3db4b978b55b4d2104a8345221b96e9b3dc0c93054"
+  },
+  {
+    "map": "M03-SF_EdenDerDunkelheit-Metzel-6er.map",
+    "mapname": "M03-SF_EdenDerDunkelheit-Metzel-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_EdenDerDunkelheit-Metzel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_EdenDerDunkelheit-Metzel-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "974cdf0451295765465b05df056621dc419e4d3e773c1da4f969a83b5ce30369"
+  },
+  {
     "map": "M03-SF_Eskalationsmetzel-8er.map",
     "mapname": "M03-SF_Eskalationsmetzel-8er",
     "mapfolder": "User",
@@ -7213,6 +7252,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "5ef0d118d931727bafdf0648bf9a2e335267dc544ace9f9195841bc6ccaea96d"
+  },
+  {
+    "map": "M04-Metzel-Hexagon-4er-Remastered.map",
+    "mapname": "M04-Metzel-Hexagon-4er-Remastered",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-Metzel-Hexagon-4er-Remastered.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-Metzel-Hexagon-4er-Remastered.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 4,
+    "map_sha256": "1f57f5185f6f943ad3b240ea2e6342694d4050cf2bf3c07f885af7b8f23ebdd2"
   },
   {
     "map": "M04-TerrainMetzel-2er.map",
