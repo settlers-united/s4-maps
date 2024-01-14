@@ -4862,17 +4862,17 @@
     "map_sha256": "47f27cf07324310228cdc3112dc9effc0a930afc39c18ee0bfc4ee1d04be1bc9"
   },
   {
-    "map": "M01-Metzel-Hexagon-4er.map",
-    "mapname": "M01-Metzel-Hexagon-4er",
+    "map": "M01-Metzel-Hexagon-Remastered-4er.map",
+    "mapname": "M01-Metzel-Hexagon-Remastered-4er",
     "mapfolder": "User",
     "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Metzel-Hexagon-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Metzel-Hexagon-4er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Metzel-Hexagon-Remastered-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Metzel-Hexagon-Remastered-4er.png",
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 4,
-    "map_sha256": "6556abed9b4c46cf382f0aff79fae949e0031f750f94adee9882d7dd7bf8206c"
+    "map_sha256": "1f57f5185f6f943ad3b240ea2e6342694d4050cf2bf3c07f885af7b8f23ebdd2"
   },
   {
     "map": "M01-Metzelflower-4er.map",
@@ -6214,6 +6214,19 @@
     "map_sha256": "ae9109ce35386198eae9817ae3d2cbc45676338e1d336b08bd35105561dc8b7d"
   },
   {
+    "map": "M02-Metzel-Hexagon-4er.map",
+    "mapname": "M02-Metzel-Hexagon-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M02-Metzel-Hexagon-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M02-Metzel-Hexagon-4er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 4,
+    "map_sha256": "6556abed9b4c46cf382f0aff79fae949e0031f750f94adee9882d7dd7bf8206c"
+  },
+  {
     "map": "M02-Metzel-Teamwork-4er.map",
     "mapname": "M02-Metzel-Teamwork-4er",
     "mapfolder": "User",
@@ -6851,19 +6864,6 @@
     "map_sha256": "9b730e4d5e5fc993950c79913ba54dcbb901c64d02dcfa5644c7e93ef0dad5ce"
   },
   {
-    "map": "M03-SF_Welteroberungsmetzel-2er-Remaster.map",
-    "mapname": "M03-SF_Welteroberungsmetzel-2er-Remaster",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by Evergrey)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-2er-Remaster.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-2er-Remaster.png",
-    "mapSize": 960,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 2,
-    "map_sha256": "d7811d40f22f44806ebfb52f3f0df2f4da7bf856a5a2f3a1efab87652295b512"
-  },
-  {
     "map": "M03-SF_Welteroberungsmetzel-2er_v2.map",
     "mapname": "M03-SF_Welteroberungsmetzel-2er_v2",
     "mapfolder": "User",
@@ -6875,19 +6875,6 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 2,
     "map_sha256": "22904b33bdf6f1e2f018be32156cfdfd7a0ff04c7a15346e0d3f6893136beac0"
-  },
-  {
-    "map": "M03-SF_Welteroberungsmetzel-4er-Remaster.map",
-    "mapname": "M03-SF_Welteroberungsmetzel-4er-Remaster",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by Evergrey)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-4er-Remaster.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-4er-Remaster.png",
-    "mapSize": 960,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "819b98810d4c47229c9e541136470a798930e7d68de2ddbc41e053c4eb6ae684"
   },
   {
     "map": "M03-SF_Welteroberungsmetzel-4er_v2.map",
@@ -6903,19 +6890,6 @@
     "map_sha256": "e6de6152ebd450fa9bfa5b934014d9720ecd34c2dcde4edaba1525c228446e7f"
   },
   {
-    "map": "M03-SF_Welteroberungsmetzel-6er-Remaster.map",
-    "mapname": "M03-SF_Welteroberungsmetzel-6er-Remaster",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by Evergrey)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-6er-Remaster.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-6er-Remaster.png",
-    "mapSize": 960,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6,
-    "map_sha256": "8a0425d53fb5ad06eeb44f9b57cd8dcd2f2b36b08576a81fbf13af324bc2b4d1"
-  },
-  {
     "map": "M03-SF_Welteroberungsmetzel-6er_v2.map",
     "mapname": "M03-SF_Welteroberungsmetzel-6er_v2",
     "mapfolder": "User",
@@ -6929,19 +6903,6 @@
     "map_sha256": "0ff5d8b70b906cf1fc2f6d4bcead0af80c80cf8c624ee48e63d5bcbd88e402df"
   },
   {
-    "map": "M03-SF_Welteroberungsmetzel-8er-Remaster.map",
-    "mapname": "M03-SF_Welteroberungsmetzel-8er-Remaster",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAP PACK (by Evergrey)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-8er-Remaster.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-8er-Remaster.png",
-    "mapSize": 960,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8,
-    "map_sha256": "0bf7c494252a7e3ed8ec2229659c98cd11864a411bc7221caae8fb3fd1ff792c"
-  },
-  {
     "map": "M03-SF_Welteroberungsmetzel-8er_v2.map",
     "mapname": "M03-SF_Welteroberungsmetzel-8er_v2",
     "mapfolder": "User",
@@ -6953,6 +6914,58 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "9748f4ede80f10dcc0892a2df6d76c5c493b1cf41d0a510ea04e2d6802e1f5e2"
+  },
+  {
+    "map": "M03-SF_Welteroberungsmetzel-Remaster-2er.map",
+    "mapname": "M03-SF_Welteroberungsmetzel-Remaster-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-Remaster-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-Remaster-2er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "d7811d40f22f44806ebfb52f3f0df2f4da7bf856a5a2f3a1efab87652295b512"
+  },
+  {
+    "map": "M03-SF_Welteroberungsmetzel-Remaster-4er.map",
+    "mapname": "M03-SF_Welteroberungsmetzel-Remaster-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-Remaster-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-Remaster-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "819b98810d4c47229c9e541136470a798930e7d68de2ddbc41e053c4eb6ae684"
+  },
+  {
+    "map": "M03-SF_Welteroberungsmetzel-Remaster-6er.map",
+    "mapname": "M03-SF_Welteroberungsmetzel-Remaster-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-Remaster-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-Remaster-6er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "8a0425d53fb5ad06eeb44f9b57cd8dcd2f2b36b08576a81fbf13af324bc2b4d1"
+  },
+  {
+    "map": "M03-SF_Welteroberungsmetzel-Remaster-8er.map",
+    "mapname": "M03-SF_Welteroberungsmetzel-Remaster-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_Welteroberungsmetzel-Remaster-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_Welteroberungsmetzel-Remaster-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "0bf7c494252a7e3ed8ec2229659c98cd11864a411bc7221caae8fb3fd1ff792c"
   },
   {
     "map": "M04-FE.-Abrakadabra-2er.map",
@@ -7252,19 +7265,6 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "5ef0d118d931727bafdf0648bf9a2e335267dc544ace9f9195841bc6ccaea96d"
-  },
-  {
-    "map": "M04-Metzel-Hexagon-4er-Remastered.map",
-    "mapname": "M04-Metzel-Hexagon-4er-Remastered",
-    "mapfolder": "User",
-    "mapgroup": "METZEL MAPS",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-Metzel-Hexagon-4er-Remastered.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-Metzel-Hexagon-4er-Remastered.png",
-    "mapSize": 832,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 0,
-    "maxPlayers": 4,
-    "map_sha256": "1f57f5185f6f943ad3b240ea2e6342694d4050cf2bf3c07f885af7b8f23ebdd2"
   },
   {
     "map": "M04-TerrainMetzel-2er.map",
