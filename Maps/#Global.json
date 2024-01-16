@@ -7215,6 +7215,19 @@
     "map_sha256": "4c4af0bf40efd997ec8a9dffcd84e9ef778eb6239fd553789d1c80c5f80db1c9"
   },
   {
+    "map": "M04-FE.-Tenebrismetzel-EX-8er.map",
+    "mapname": "M04-FE.-Tenebrismetzel-EX-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Tenebrismetzel-EX-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Tenebrismetzel-EX-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "16da523b93945ba40b0a040bf856ce06d942496255adb1e451374f387b161f7b"
+  },
+  {
     "map": "M04-FE.-TheRockyRoad-2er.map",
     "mapname": "M04-FE.-TheRockyRoad-2er",
     "mapfolder": "User",
