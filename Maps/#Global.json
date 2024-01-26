@@ -3900,6 +3900,19 @@
     "map_sha256": "da1e615bcdd0800bf19c4d485caf433d6ad720197f59ae9f886cd13897c4bcd1"
   },
   {
+    "map": "C01-DefeatTheWaves_1_9_0.map",
+    "mapname": "C01-DefeatTheWaves_1_9_0",
+    "mapfolder": "User",
+    "mapgroup": "DEFEAT MAP PACK (by sl4ng3r)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/C01-DefeatTheWaves_1_9_0.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/C01-DefeatTheWaves_1_9_0.png",
+    "mapSize": 896,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "dd9eaa4bd67062ea32516dd83b86d28bbd4922682fcfbf54c8b564b4934bfdd7"
+  },
+  {
     "map": "COOP-DieBastion-v1_0_0.map",
     "mapname": "COOP-DieBastion-v1_0_0",
     "mapfolder": "User",
