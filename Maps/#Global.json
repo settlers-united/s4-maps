@@ -12194,6 +12194,19 @@
     "map_sha256": "b9870fd7db907602e02408a30affd5d6e01e697b8cf9e523a0278516234301b3"
   },
   {
+    "map": "SP-DV-Die_Flucht_des_dunklen_Volkes-V1_1_0.map",
+    "mapname": "SP-DV-Die_Flucht_des_dunklen_Volkes-V1_1_0",
+    "mapfolder": "Singleplayer",
+    "mapgroup": "Singleplayer Dark Tribe Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/SP-DV-Die_Flucht_des_dunklen_Volkes-V1_1_0.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/SP-DV-Die_Flucht_des_dunklen_Volkes-V1_1_0.png",
+    "mapSize": 768,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 5,
+    "map_sha256": "b1f80c2d7c93186eb03cd2d9a32da9fccf7a0a5cdd935a57c20e0b86d2d8b281"
+  },
+  {
     "map": "SP-Eiszeit-III.map",
     "mapname": "SP-Eiszeit-III",
     "mapfolder": "Singleplayer",
