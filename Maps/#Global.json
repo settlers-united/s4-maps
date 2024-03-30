@@ -12233,6 +12233,19 @@
     "map_sha256": "132e22ae53622829d8dfb5655e5fab35c2a34d3e4c7eaa9db8a4cf601ad5d513"
   },
   {
+    "map": "SP-morbus_Templa.map",
+    "mapname": "SP-morbus_Templa",
+    "mapfolder": "Singleplayer",
+    "mapgroup": "Singleplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/SP-morbus_Templa.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/SP-morbus_Templa.png",
+    "mapSize": 1024,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "201b57ec2b3a2270011984e747e8cd1d5a214bb724120f5cf87ef59a9b02e6cd"
+  },
+  {
     "map": "SP-Mordor.map",
     "mapname": "SP-Mordor",
     "mapfolder": "Singleplayer",
