@@ -13689,6 +13689,19 @@
     "map_sha256": "61e69c75d273bf6cd6172f90e91233fbe27067379d1041e01a5301b8734e8a27"
   },
   {
+    "map": "SZ01-OK_Inter_Frontes.map",
+    "mapname": "SZ01-OK_Inter_Frontes",
+    "mapfolder": "Singleplayer",
+    "mapgroup": "SPECIAL MAP PACK 1 (Scripted) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/SZ01-OK_Inter_Frontes.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/SZ01-OK_Inter_Frontes.png",
+    "mapSize": 1024,
+    "defaultGoods": 2,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "c58cc56f38042bbfea8e8d31d42b5d39f0600d03aa73ff3653d121a2da1b4793"
+  },
+  {
     "map": "SZ01-Protect-Rom-8er.map",
     "mapname": "SZ01-Protect-Rom-8er",
     "mapfolder": "User",
