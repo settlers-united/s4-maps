@@ -6825,6 +6825,45 @@
     "map_sha256": "974cdf0451295765465b05df056621dc419e4d3e773c1da4f969a83b5ce30369"
   },
   {
+    "map": "M03-SF_EdenDerErleuchtung-Metzel-2er.map",
+    "mapname": "M03-SF_EdenDerErleuchtung-Metzel-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_EdenDerErleuchtung-Metzel-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_EdenDerErleuchtung-Metzel-2er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "74b3321fcdd8c58486c013ba7edf0ffe84d6b3c64f5d234c301c5d56bc945c02"
+  },
+  {
+    "map": "M03-SF_EdenDerErleuchtung-Metzel-4er.map",
+    "mapname": "M03-SF_EdenDerErleuchtung-Metzel-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_EdenDerErleuchtung-Metzel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_EdenDerErleuchtung-Metzel-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "d4e6b7af23906945466b7f6830c5090e71ee0da4005bff149da0a8b8d081b37a"
+  },
+  {
+    "map": "M03-SF_EdenDerErleuchtung-Metzel-6er.map",
+    "mapname": "M03-SF_EdenDerErleuchtung-Metzel-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_EdenDerErleuchtung-Metzel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_EdenDerErleuchtung-Metzel-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "8d7b637814e38fa551e0698ed950bd066267203429c62bd89af5d6a593831679"
+  },
+  {
     "map": "M03-SF_Eskalationsmetzel-8er.map",
     "mapname": "M03-SF_Eskalationsmetzel-8er",
     "mapfolder": "User",
