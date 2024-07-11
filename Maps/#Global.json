@@ -208,19 +208,6 @@
     "map_sha256": "a07f330f58208e884a2d4f913ceee191cdad6294a9f8cfd110c568fe0f241976"
   },
   {
-    "map": "B01-Clan-Fun-6er.map",
-    "mapname": "B01-Clan-Fun-6er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Clan-Fun-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Clan-Fun-6er.png",
-    "mapSize": 576,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6,
-    "map_sha256": "dd8d58d8c5c154b84235604b370574f82ff84923db11dc3f542ecd3516b26ec9"
-  },
-  {
     "map": "B01-Colorado-8er.map",
     "mapname": "B01-Colorado-8er",
     "mapfolder": "User",
@@ -557,6 +544,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "3d91ff5aacccd83bdf10a6d8ff0bff9a4a506c20d3e8c54808efed8a30f8aa9e"
+  },
+  {
+    "map": "B01-Ilias-(A)-8er.map",
+    "mapname": "B01-Ilias-(A)-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Ilias-(A)-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Ilias-(A)-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "65f3cc6a5316cabe3cf567b4d7df516c07167d4ec9334a0dae38aaadb2b3dfee"
   },
   {
     "map": "B01-Insomnia-8er.map",
@@ -1636,6 +1636,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "00a459861b3fa8ab3bc3df1c99607cb45c43e7d1263fd1427ebcf4e7a2f285b6"
+  },
+  {
+    "map": "B02-Clan-Fun-6er.map",
+    "mapname": "B02-Clan-Fun-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Clan-Fun-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Clan-Fun-6er.png",
+    "mapSize": 576,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "dd8d58d8c5c154b84235604b370574f82ff84923db11dc3f542ecd3516b26ec9"
   },
   {
     "map": "B02-CM142-2er.map",
