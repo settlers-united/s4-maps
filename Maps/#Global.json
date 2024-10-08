@@ -169,6 +169,19 @@
     "map_sha256": "c267cc5681e7419ed446d0b6df00240c60cfc1fa978dc1ec2c2d824782c81da8"
   },
   {
+    "map": "B01-Blaue-Insel-Remastered-8er.map",
+    "mapname": "B01-Blaue-Insel-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Blaue-Insel-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Blaue-Insel-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "b1a922a69258aa2c5c57d9382061ea996a8d76ed474d9b388c6b22fdfeecd83a"
+  },
+  {
     "map": "B01-Butterbluemlie-6er.map",
     "mapname": "B01-Butterbluemlie-6er",
     "mapfolder": "User",
@@ -481,6 +494,19 @@
     "map_sha256": "64c7dd821ca9af70dfed98dc50f6ce7f7dd6e924950caa64c5d1a3299ae11823"
   },
   {
+    "map": "B01-H2O-Remastered-8er.map",
+    "mapname": "B01-H2O-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-H2O-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-H2O-Remastered-8er.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "84dd0c5f8db06cf4351ee320b2fe0c60b6d5c754b7bcdd9170898e450778fcca"
+  },
+  {
     "map": "B01-Halli-Galli-6er-.map",
     "mapname": "B01-Halli-Galli-6er-",
     "mapfolder": "User",
@@ -531,6 +557,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "5672fcc4ec747ff2a55663e7b8b322f342d1ffe4ad899c94f941027a921916f9"
+  },
+  {
+    "map": "B01-Hawaii-Buddel-Remastered-8er.map",
+    "mapname": "B01-Hawaii-Buddel-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Hawaii-Buddel-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Hawaii-Buddel-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "c03741fbee78c6c74057d1ebed9f332c73ccd3df7f5d1fbcd41b7f67c11ceb77"
   },
   {
     "map": "B01-Hocus-Pocus-8er.map",
@@ -1194,6 +1233,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "89e91118bf7d55e9a62dd1062ac1021eb00b9b1b287e3a1c1c056f3ee5e3a5b5"
+  },
+  {
+    "map": "B01-Wildnis-Remastered-8er.map",
+    "mapname": "B01-Wildnis-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Wildnis-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Wildnis-Remastered-8er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "ec9c662adbd22c57542f94ff0687428db6f47423d5489999943b6dfb2d5ff49e"
   },
   {
     "map": "B01-WildSix-6er.map",
@@ -6927,6 +6979,45 @@
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 6,
     "map_sha256": "9b730e4d5e5fc993950c79913ba54dcbb901c64d02dcfa5644c7e93ef0dad5ce"
+  },
+  {
+    "map": "M03-SF_MetzelFromTheSun-2er.map",
+    "mapname": "M03-SF_MetzelFromTheSun-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_MetzelFromTheSun-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_MetzelFromTheSun-2er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "8d1756ca12b9d714349c6add3fcd98aacba1b740a7d3da8ff1a5ff841c554b22"
+  },
+  {
+    "map": "M03-SF_MetzelFromTheSun-4er.map",
+    "mapname": "M03-SF_MetzelFromTheSun-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_MetzelFromTheSun-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_MetzelFromTheSun-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "e85bfd4d45727f80e01d19ad54c132d4ae8a4205a296d6e968c632ef68bc4452"
+  },
+  {
+    "map": "M03-SF_MetzelFromTheSun-6er.map",
+    "mapname": "M03-SF_MetzelFromTheSun-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_MetzelFromTheSun-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_MetzelFromTheSun-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "e2bcf8e7d69b6bbceeb2f00b776e36a9822bb6b82cdce464c2a941a9666a555c"
   },
   {
     "map": "M03-SF_Welteroberungsmetzel-2er_v2.map",
