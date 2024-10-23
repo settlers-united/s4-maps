@@ -819,6 +819,19 @@
     "map_sha256": "7eb769ba5678c79d2315d9449969431e696296b27efdc6952ac2bf1d4ae0aeec"
   },
   {
+    "map": "B01-marshylein-Remastered-8er.map",
+    "mapname": "B01-marshylein-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-marshylein-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-marshylein-Remastered-8er.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "e9fdad46784d413de077ebeb87b3c77800ec834448ae92ea6f88f146cf0e5b9d"
+  },
+  {
     "map": "B01-Marshys-Neue-Welt-8er.map",
     "mapname": "B01-Marshys-Neue-Welt-8er",
     "mapfolder": "User",
