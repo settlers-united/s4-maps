@@ -806,6 +806,19 @@
     "map_sha256": "a125052b490f66ac85c5a49571adf41687d28fd4f181e960f4f9789b191a245d"
   },
   {
+    "map": "B01-Malediven-Remastered-8er.map",
+    "mapname": "B01-Malediven-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Malediven-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Malediven-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "f3ff78a1b3ac60ae1adb101533e34d791b81dc580b65678be2dcd2b885626767"
+  },
+  {
     "map": "B01-marshylein-8er.map",
     "mapname": "B01-marshylein-8er",
     "mapfolder": "User",
