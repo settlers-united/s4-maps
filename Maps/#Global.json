@@ -816,7 +816,7 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "f3ff78a1b3ac60ae1adb101533e34d791b81dc580b65678be2dcd2b885626767"
+    "map_sha256": "29c8a07570366450f4d22a25aad596c46d556336bc3b13c5bf0083902708fdba"
   },
   {
     "map": "B01-marshylein-8er.map",
