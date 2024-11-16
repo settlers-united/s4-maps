@@ -598,6 +598,19 @@
     "map_sha256": "65f3cc6a5316cabe3cf567b4d7df516c07167d4ec9334a0dae38aaadb2b3dfee"
   },
   {
+    "map": "B01-Ilias-(B)-8er.map",
+    "mapname": "B01-Ilias-(B)-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Ilias-(B)-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Ilias-(B)-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "f7cab32191946c78efd351e190bed8be1c5c634aa43f99f0db800fa2e734d46c"
+  },
+  {
     "map": "B01-Insomnia-8er.map",
     "mapname": "B01-Insomnia-8er",
     "mapfolder": "User",
