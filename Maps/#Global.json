@@ -962,6 +962,19 @@
     "map_sha256": "0e49c9fe27037021b838dc75f6279d126dcf61b498d70ae08a7902113e107275"
   },
   {
+    "map": "B01-Octo-Remastered-8er.map",
+    "mapname": "B01-Octo-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Octo-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Octo-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "801a2723be1b24e6cf423b0d83422fc4a5c5f82108e255a9d328fff1fbea2925"
+  },
+  {
     "map": "B01-polaris-4er.map",
     "mapname": "B01-polaris-4er",
     "mapfolder": "User",
