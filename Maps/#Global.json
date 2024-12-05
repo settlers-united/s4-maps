@@ -4563,6 +4563,32 @@
     "map_sha256": "9bc0ad7b4c801b12706108117e349627d58c135903a345a1d4e50b7060a52f6d"
   },
   {
+    "map": "M01-Clash-of-the-Titans-8er.map",
+    "mapname": "M01-Clash-of-the-Titans-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Clash-of-the-Titans-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Clash-of-the-Titans-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "de9b7c55e65a98bf9f5a0b34ed83515e58c3783950018b52afed0aa21ec8c465"
+  },
+  {
+    "map": "M01-Clash-of-the-Titans-Zero-8er.map",
+    "mapname": "M01-Clash-of-the-Titans-Zero-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M01-Clash-of-the-Titans-Zero-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M01-Clash-of-the-Titans-Zero-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "fb0cbd2a62dda28f4bbe21f6d41d69d65ec1fd74ed3bc10048bb7459f365807a"
+  },
+  {
     "map": "M01-DfS-Blumenmetzel-4er.map",
     "mapname": "M01-DfS-Blumenmetzel-4er",
     "mapfolder": "User",
