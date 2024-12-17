@@ -7033,6 +7033,58 @@
     "map_sha256": "7e313022d87355d92815648f63b222115d7dc42f7f635eb2e08516efb649ba30"
   },
   {
+    "map": "M03-SF_IsleOfTheWoodcutters-2er.map",
+    "mapname": "M03-SF_IsleOfTheWoodcutters-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_IsleOfTheWoodcutters-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_IsleOfTheWoodcutters-2er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 2,
+    "map_sha256": "b0077af1be0a4e4491aa5a94c715456998ed6c25ce6dd267cf2432591d264fc4"
+  },
+  {
+    "map": "M03-SF_IsleOfTheWoodcutters-4er.map",
+    "mapname": "M03-SF_IsleOfTheWoodcutters-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_IsleOfTheWoodcutters-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_IsleOfTheWoodcutters-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 4,
+    "map_sha256": "9a67587574c7f88a8eea6da34c769731c705929c97d0d294d036fe5bd3a04139"
+  },
+  {
+    "map": "M03-SF_IsleOfTheWoodcutters-6er.map",
+    "mapname": "M03-SF_IsleOfTheWoodcutters-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_IsleOfTheWoodcutters-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_IsleOfTheWoodcutters-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 6,
+    "map_sha256": "dde1ac98441b3cc4f74347f01401a6126681c3249be9042a6b23eb2149aefecb"
+  },
+  {
+    "map": "M03-SF_IsleOfTheWoodcutters-8er.map",
+    "mapname": "M03-SF_IsleOfTheWoodcutters-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_IsleOfTheWoodcutters-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_IsleOfTheWoodcutters-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "cab223968427e6ce54630427d6995ed2224a1c412c35ca91d7cf32bd5f0f1ef4"
+  },
+  {
     "map": "M03-SF_JanichKinaabPakal-Metzel-4er.map",
     "mapname": "M03-SF_JanichKinaabPakal-Metzel-4er",
     "mapfolder": "User",
