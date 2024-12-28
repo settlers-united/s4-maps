@@ -7137,6 +7137,19 @@
     "map_sha256": "e85bfd4d45727f80e01d19ad54c132d4ae8a4205a296d6e968c632ef68bc4452"
   },
   {
+    "map": "M03-SF_MetzelFromTheSun-4er_v2.map",
+    "mapname": "M03-SF_MetzelFromTheSun-4er_v2",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAP PACK (by Evergrey)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M03-SF_MetzelFromTheSun-4er_v2.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M03-SF_MetzelFromTheSun-4er_v2.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "fdad0d112d50001cb79d74546951c3e191e6a61f611435d64854bd7d9df15227"
+  },
+  {
     "map": "M03-SF_MetzelFromTheSun-6er.map",
     "mapname": "M03-SF_MetzelFromTheSun-6er",
     "mapfolder": "User",
