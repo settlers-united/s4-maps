@@ -923,6 +923,19 @@
     "map_sha256": "f7ebcc19357742703303f540425bca9b95a4ed797106dfbc064b367cef6b4575"
   },
   {
+    "map": "B01-New-World-Remastered-8er.map",
+    "mapname": "B01-New-World-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-New-World-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-New-World-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "1319a6424b1164bc7392a2cdb8d41139b93d13c7117dd69323bdfa4bc4b1878f"
+  },
+  {
     "map": "B01-Nomen-est-Omen-8er.map",
     "mapname": "B01-Nomen-est-Omen-8er",
     "mapfolder": "User",
