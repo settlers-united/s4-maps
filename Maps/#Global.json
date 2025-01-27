@@ -312,6 +312,19 @@
     "map_sha256": "5b7de960453014dfacdd4763467215729060de92246cc773c1f0044b7cdd8d06"
   },
   {
+    "map": "B01-Die-Spinne-Remastered-8er.map",
+    "mapname": "B01-Die-Spinne-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Die-Spinne-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Die-Spinne-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "23f0ed750e065e967fb8c0bcb3a0097425d680ec57446b302f4f569c5e1d39df"
+  },
+  {
     "map": "B01-Diggi-8er.map",
     "mapname": "B01-Diggi-8er",
     "mapfolder": "User",
@@ -570,6 +583,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "c03741fbee78c6c74057d1ebed9f332c73ccd3df7f5d1fbcd41b7f67c11ceb77"
+  },
+  {
+    "map": "B01-Hexenkueche-8er.map",
+    "mapname": "B01-Hexenkueche-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Hexenkueche-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Hexenkueche-8er.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "3ee98adcee55206351582ed59959d8f3a228c07613ae8899b881d46b333f6b8b"
   },
   {
     "map": "B01-Hocus-Pocus-8er.map",
