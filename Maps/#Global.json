@@ -1118,17 +1118,17 @@
     "map_sha256": "58eac9c2491475e2cfd30365b55f9c8d544d72c36478674bf7c5400cecb1d950"
   },
   {
-    "map": "B01-Tasmanien-Insel-8er.map",
-    "mapname": "B01-Tasmanien-Insel-8er",
+    "map": "B01-Tasmanien-Insel-Remastered-8er.map",
+    "mapname": "B01-Tasmanien-Insel-Remastered-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Tasmanien-Insel-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Tasmanien-Insel-8er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Tasmanien-Insel-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Tasmanien-Insel-Remastered-8er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "e1b8b83c2e6184ef56ed8b63d9ed8db02a591e9e0aaab3d4988395293cbe40c0"
+    "map_sha256": "361aebd731654dfd5632a0a511c9917a8beb82097ae9f26a620612dc1a83da80"
   },
   {
     "map": "B01-Verschollene-Inseln-6er.map",
@@ -1142,6 +1142,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
     "map_sha256": "9fc94cd9c5d67ce40fbb717df45224a34fdf1c9ac7bbfd912041a5c1be66b58e"
+  },
+  {
+    "map": "B01-Weisse-Insel-Remastered-8er.map",
+    "mapname": "B01-Weisse-Insel-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Weisse-Insel-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Weisse-Insel-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "9671a75f958c865d5bcb79b56b8b6230cf56f1d0ec3f34dfb63a3cea349bfbcb"
   },
   {
     "map": "B01-Westinsel-Silver-8ter.map",
@@ -2949,6 +2962,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "4fd36b5ecad545810b48afb63e72803f5e839077accd416d9e54c3fee764c7e6"
+  },
+  {
+    "map": "B02-Tasmanien-Insel-8er.map",
+    "mapname": "B02-Tasmanien-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Tasmanien-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Tasmanien-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "e1b8b83c2e6184ef56ed8b63d9ed8db02a591e9e0aaab3d4988395293cbe40c0"
   },
   {
     "map": "B02-TeamMates-4er.map",
