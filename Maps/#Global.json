@@ -819,6 +819,19 @@
     "map_sha256": "3886bcda1846eb55cd229775ebf387ff1d2109e50c4929c93c412919508e008f"
   },
   {
+    "map": "B01-Mr.Ms-Fjorde-8er.map",
+    "mapname": "B01-Mr.Ms-Fjorde-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Mr.Ms-Fjorde-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Mr.Ms-Fjorde-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "dd074137c12b68aba5935d10249c5e0b3ee6648f68dfeda6b4c89c1ec56c271a"
+  },
+  {
     "map": "B01-Napoleons-Risiko-8er.map",
     "mapname": "B01-Napoleons-Risiko-8er",
     "mapfolder": "User",
