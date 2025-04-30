@@ -351,6 +351,19 @@
     "map_sha256": "d0b0d0bc811a22ce386c15da8bee758888987c0a7f464b464f2684d835073436"
   },
   {
+    "map": "B01-Fidschi-Insel-Remastered-8er.map",
+    "mapname": "B01-Fidschi-Insel-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Fidschi-Insel-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Fidschi-Insel-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "ba27f317c29ad57314f715368382367340ec0b5d409ab371979e33c07129821a"
+  },
+  {
     "map": "B01-Four-Eyes-4er.map",
     "mapname": "B01-Four-Eyes-4er",
     "mapfolder": "User",
