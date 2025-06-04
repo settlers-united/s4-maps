@@ -361,7 +361,7 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "ba27f317c29ad57314f715368382367340ec0b5d409ab371979e33c07129821a"
+    "map_sha256": "10703e8bd8cd119e1b44cea63ecbc56e6d73024e41ca6ddbdadd57c1284001b4"
   },
   {
     "map": "B01-Four-Eyes-4er.map",
@@ -973,6 +973,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "4c486b25913293f6e2ef5423f1f3a210ab1415714dcef6dc976cd1cbc4e48142"
+  },
+  {
+    "map": "B01-polaris-XXL-Remastered-8er.map",
+    "mapname": "B01-polaris-XXL-Remastered-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-polaris-XXL-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-polaris-XXL-Remastered-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "9b2488ed13a275986af31e802d657e3870e8c6f594dbd746b5593ac933970f8c"
   },
   {
     "map": "B01-Rache-des-rams-8er.map",
