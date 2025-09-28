@@ -7735,6 +7735,58 @@
     "map_sha256": "5ef0d118d931727bafdf0648bf9a2e335267dc544ace9f9195841bc6ccaea96d"
   },
   {
+    "map": "M04-FE.-Valhalla-2er.map",
+    "mapname": "M04-FE.-Valhalla-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Valhalla-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Valhalla-2er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "d3f24f047efdba935d879c7d0f31ab23498f64a8c8c17b77072117be541ada85"
+  },
+  {
+    "map": "M04-FE.-Valhalla-4er.map",
+    "mapname": "M04-FE.-Valhalla-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Valhalla-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Valhalla-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "2efa3c19b292a4ab855b3d49e30547c243cde457d1e6fdf5d72715a0ae79144b"
+  },
+  {
+    "map": "M04-FE.-Valhalla-6er.map",
+    "mapname": "M04-FE.-Valhalla-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Valhalla-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Valhalla-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "21b2015f0e068a82c861204378b52846e1263e4452b5e6ab5b523c42f941afae"
+  },
+  {
+    "map": "M04-FE.-Valhalla-8er.map",
+    "mapname": "M04-FE.-Valhalla-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Valhalla-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Valhalla-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "e349963b39422586ad7103a9ba54a23927bad859cf19f578df9b63f1c0b0770b"
+  },
+  {
     "map": "M04-TerrainMetzel-2er.map",
     "mapname": "M04-TerrainMetzel-2er",
     "mapfolder": "User",
