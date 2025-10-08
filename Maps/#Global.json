@@ -19927,5 +19927,18 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "e226ad97aefc833377a88a01a0208edaa90950934583131ab15c2a2a3fa2f079"
+  },
+  {
+    "map": "WC2025-TheStones-v3.1.map",
+    "mapname": "WC2025-TheStones-v3.1",
+    "mapfolder": "User",
+    "mapgroup": "THE SETTLERS IV WORLD CHAMPIONSHIP 2025 MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/WC2025-TheStones-v3.1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/WC2025-TheStones-v3.1.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "2016d5f95975e7601047cb27afccbffa90ae14f576676eaa320ab79f6b91ee8e"
   }
 ]
