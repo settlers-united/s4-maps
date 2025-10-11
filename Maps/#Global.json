@@ -1,18 +1,5 @@
 [
   {
-    "map": "B01- Maerchenwald-8er.map",
-    "mapname": "B01- Maerchenwald-8er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01- Maerchenwald-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01- Maerchenwald-8er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8,
-    "map_sha256": "eeed4d98471e3bc73d1c0b02e30dd8224dfeced5975705b15c9a590ca2743113"
-  },
-  {
     "map": "B01-123-Buddel-4er.map",
     "mapname": "B01-123-Buddel-4er",
     "mapfolder": "User",
@@ -765,6 +752,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "ca053cb98212aa694e00024b913cdedf0211ce9093ca88a42a3cc2d7481ebf1f"
+  },
+  {
+    "map": "B01-Maerchenwald-8er.map",
+    "mapname": "B01-Maerchenwald-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Maerchenwald-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Maerchenwald-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "eeed4d98471e3bc73d1c0b02e30dd8224dfeced5975705b15c9a590ca2743113"
   },
   {
     "map": "B01-Malediven-6er.map",
@@ -19927,6 +19927,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "e226ad97aefc833377a88a01a0208edaa90950934583131ab15c2a2a3fa2f079"
+  },
+  {
+    "map": "WC2025-Happy.map",
+    "mapname": "WC2025-Happy",
+    "mapfolder": "User",
+    "mapgroup": "THE SETTLERS IV WORLD CHAMPIONSHIP 2025 MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/WC2025-Happy.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/WC2025-Happy.png",
+    "mapSize": 768,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "494e16cf5becce80d12f667f3a6eda3c58657fd7bfe19421224198ff54bf2d27"
   },
   {
     "map": "WC2025-TheStones-v3.1.map",
