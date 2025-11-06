@@ -20033,17 +20033,17 @@
     "map_sha256": "e226ad97aefc833377a88a01a0208edaa90950934583131ab15c2a2a3fa2f079"
   },
   {
-    "map": "WC2025-Happy-v2.map",
-    "mapname": "WC2025-Happy-v2",
+    "map": "WC2025-Happy-v3.map",
+    "mapname": "WC2025-Happy-v3",
     "mapfolder": "User",
     "mapgroup": "THE SETTLERS IV WORLD CHAMPIONSHIP 2025 MAPS",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/WC2025-Happy-v2.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/WC2025-Happy-v2.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/WC2025-Happy-v3.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/WC2025-Happy-v3.png",
     "mapSize": 768,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "5d6ab5fb12b5511d38e5659d61d5be2e21547f77de58dcbbcb1bce8fb1687269"
+    "map_sha256": "4b795f2c02ee3795c4f1339d945be56680203ff65ec8edb671fd67fb36546120"
   },
   {
     "map": "WC2025-TheStones-v5.map",
