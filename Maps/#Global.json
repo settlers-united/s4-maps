@@ -468,6 +468,19 @@
     "map_sha256": "361f7556c67e895e4ffb5f0524ec8abfaa6c56c072d1e91656e48837b798e72c"
   },
   {
+    "map": "B01-Happy-8ter.map",
+    "mapname": "B01-Happy-8ter",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Happy-8ter.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Happy-8ter.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "75486b0754dcaef325a48f21408b7220f8bcaa18fd0dfc67858e809337cca71a"
+  },
+  {
     "map": "B01-Happys-Buddel-6er.map",
     "mapname": "B01-Happys-Buddel-6er",
     "mapfolder": "User",
@@ -1131,17 +1144,17 @@
     "map_sha256": "ba53a7dbc78ffa038bbf7938325617567354d06d99f8f4043966a4bb306302a9"
   },
   {
-    "map": "B01-SpinnenkampfII-8er.map",
-    "mapname": "B01-SpinnenkampfII-8er",
+    "map": "B01-Spinnenkampf-Remastered-8er.map",
+    "mapname": "B01-Spinnenkampf-Remastered-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-SpinnenkampfII-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-SpinnenkampfII-8er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Spinnenkampf-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Spinnenkampf-Remastered-8er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "afcd1bbb275bdfa30685c98cd679713a70190babe78701bbd9ac2f511f57a85c"
+    "map_sha256": "418bbe943e3ae34c240f4ae37899d89250e07534b860df809fafebfc9d7e1c5e"
   },
   {
     "map": "B01-Sterntaler-8er.map",
