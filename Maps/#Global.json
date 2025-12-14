@@ -338,19 +338,6 @@
     "map_sha256": "4fda42a8e58ec00024f22af4ec2687792f33bfce62c3552ec6b720fb5ac45e04"
   },
   {
-    "map": "B01-Fidschi-Insel-8er.map",
-    "mapname": "B01-Fidschi-Insel-8er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Fidschi-Insel-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Fidschi-Insel-8er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8,
-    "map_sha256": "d0b0d0bc811a22ce386c15da8bee758888987c0a7f464b464f2684d835073436"
-  },
-  {
     "map": "B01-Fidschi-Insel-Remastered-8er.map",
     "mapname": "B01-Fidschi-Insel-Remastered-8er",
     "mapfolder": "User",
@@ -1154,7 +1141,7 @@
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "418bbe943e3ae34c240f4ae37899d89250e07534b860df809fafebfc9d7e1c5e"
+    "map_sha256": "1ec71eb60b44bdd02ecddcf6d190b282b6e691c9e2b195deabd6be77c2834493"
   },
   {
     "map": "B01-Sterntaler-8er.map",
@@ -2013,6 +2000,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "4c6270de8159b307c558e800acf4e848ebe1e9bdf0bbbac800380cf90e84b477"
+  },
+  {
+    "map": "B02-Fidschi-Insel-8er.map",
+    "mapname": "B02-Fidschi-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Fidschi-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Fidschi-Insel-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "d0b0d0bc811a22ce386c15da8bee758888987c0a7f464b464f2684d835073436"
   },
   {
     "map": "B02-Final-Battle-2er.map",
