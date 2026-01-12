@@ -975,19 +975,6 @@
     "map_sha256": "fbde5e0e2eb264268148d757ce39e133838d21be2568c02e1e8ab2020afb7dda"
   },
   {
-    "map": "B01-polaris-XXL-8er.map",
-    "mapname": "B01-polaris-XXL-8er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-polaris-XXL-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-polaris-XXL-8er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8,
-    "map_sha256": "4c486b25913293f6e2ef5423f1f3a210ab1415714dcef6dc976cd1cbc4e48142"
-  },
-  {
     "map": "B01-polaris-XXL-Remastered-8er.map",
     "mapname": "B01-polaris-XXL-Remastered-8er",
     "mapfolder": "User",
@@ -1038,19 +1025,6 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
     "map_sha256": "3dcb9316fbb86655d3e6865ee878d288aa90fbf08ec37af9f0845637de762d09"
-  },
-  {
-    "map": "B01-ROMA-8er.map",
-    "mapname": "B01-ROMA-8er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-ROMA-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-ROMA-8er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 8,
-    "map_sha256": "8dfa7e26681012fa5e8afcf57ed859d9dc6b075d3ccf6781a3be0711a00bf51e"
   },
   {
     "map": "B01-ROMA-Remasted-8er.map",
@@ -2613,6 +2587,19 @@
     "map_sha256": "5c23fb2475ee2c57b547d0f59bc5eb25dbb4888f78bb14f9e67ff8eaa38ba039"
   },
   {
+    "map": "B02-polaris-XXL-8er.map",
+    "mapname": "B02-polaris-XXL-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-polaris-XXL-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-polaris-XXL-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "4c486b25913293f6e2ef5423f1f3a210ab1415714dcef6dc976cd1cbc4e48142"
+  },
+  {
     "map": "B02-PoliStar-4er.map",
     "mapname": "B02-PoliStar-4er",
     "mapfolder": "User",
@@ -2754,6 +2741,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 6,
     "map_sha256": "847b21f9c36b84fa91d3607e92cdd4cdace9cb624cccb00fcf089c22ba81b30e"
+  },
+  {
+    "map": "B02-ROMA-8er.map",
+    "mapname": "B02-ROMA-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-ROMA-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-ROMA-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "8dfa7e26681012fa5e8afcf57ed859d9dc6b075d3ccf6781a3be0711a00bf51e"
   },
   {
     "map": "B02-Rubin-Reloaded-6er.map",
