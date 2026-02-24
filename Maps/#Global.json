@@ -1,18 +1,5 @@
 [
   {
-    "map": "B01-123-Buddel-4er.map",
-    "mapname": "B01-123-Buddel-4er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-123-Buddel-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-123-Buddel-4er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "5c7f55ef75d9ae00735f8f30b585290b35b4bba4fefadde01ade16ccbae1f802"
-  },
-  {
     "map": "B01-123-Buddel-8er.map",
     "mapname": "B01-123-Buddel-8er",
     "mapfolder": "User",
@@ -310,6 +297,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "4ddcaa8a089860386f07e4ab89dc6511bce1424f746cb6cd1aae81999367783e"
+  },
+  {
+    "map": "B01-Drachen-Insel-8er.map",
+    "mapname": "B01-Drachen-Insel-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Drachen-Insel-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Drachen-Insel-8er.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "c9af9e219551fc1f83f58fe43e1b9b09b3cdc969fdb1e4c4676e82206e423598"
   },
   {
     "map": "B01-Dunkle-Buddel-6er.map",
@@ -767,19 +767,6 @@
     "map_sha256": "eeed4d98471e3bc73d1c0b02e30dd8224dfeced5975705b15c9a590ca2743113"
   },
   {
-    "map": "B01-Malediven-6er.map",
-    "mapname": "B01-Malediven-6er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Malediven-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Malediven-6er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6,
-    "map_sha256": "60d9b4b6cb7c9b5ee5814199b7aed071b5dbad9976266d2f641bdfd7397fe27f"
-  },
-  {
     "map": "B01-Malediven-Remastered-8er.map",
     "mapname": "B01-Malediven-Remastered-8er",
     "mapfolder": "User",
@@ -832,17 +819,17 @@
     "map_sha256": "23731303bf17700bf3734ad83768409f96e5eb2232d1ac4238466eb41e0884ea"
   },
   {
-    "map": "B01-Merlin-8er.map",
-    "mapname": "B01-Merlin-8er",
+    "map": "B01-Merlin-Remastered-8er.map",
+    "mapname": "B01-Merlin-Remastered-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Merlin-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Merlin-8er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Merlin-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Merlin-Remastered-8er.png",
     "mapSize": 832,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "3886bcda1846eb55cd229775ebf387ff1d2109e50c4929c93c412919508e008f"
+    "map_sha256": "5e5c08b3eb5702c21c9991261dcd554e233aed96a8ea7d03b473bada10200224"
   },
   {
     "map": "B01-Mr.Ms-Fjorde-8er.map",
@@ -897,17 +884,30 @@
     "map_sha256": "23b3a0cbd20bc06ff9e5444d2f2fb1b0481bcc45980a39a80a8ba992af2f7960"
   },
   {
-    "map": "B01-Nordinsel-Silver-8er.map",
-    "mapname": "B01-Nordinsel-Silver-8er",
+    "map": "B01-Nordinsel-Silver-(A)-8er.map",
+    "mapname": "B01-Nordinsel-Silver-(A)-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Nordinsel-Silver-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Nordinsel-Silver-8er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Nordinsel-Silver-(A)-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Nordinsel-Silver-(A)-8er.png",
     "mapSize": 960,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "5a4f4b0544a27803abb9392c9ec4d6ef50c3b500cde9b9b86817e2edfe8aadb3"
+    "map_sha256": "9591210865c0e14afd3747760b535048431e0575db96d3602313919cc4a9c844"
+  },
+  {
+    "map": "B01-Nordinsel-Silver-(B)-8er.map",
+    "mapname": "B01-Nordinsel-Silver-(B)-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Nordinsel-Silver-(B)-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Nordinsel-Silver-(B)-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "4ea9b54ae8f95ac2aa8e56c35c7318164cca12c3607156ee009a2b268c6692cc"
   },
   {
     "map": "B01-Octo-4er.map",
@@ -1157,19 +1157,6 @@
     "map_sha256": "ea840a2628493436c85d52628b95709db0b6bc029e18b85c3599cf0ffc7a74d9"
   },
   {
-    "map": "B01-Tasmanien-Insel-6er.map",
-    "mapname": "B01-Tasmanien-Insel-6er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Tasmanien-Insel-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Tasmanien-Insel-6er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6,
-    "map_sha256": "58eac9c2491475e2cfd30365b55f9c8d544d72c36478674bf7c5400cecb1d950"
-  },
-  {
     "map": "B01-Tasmanien-Insel-Remastered-8er.map",
     "mapname": "B01-Tasmanien-Insel-Remastered-8er",
     "mapfolder": "User",
@@ -1313,19 +1300,6 @@
     "map_sha256": "4209a0e7e71f7cf8fc2829ffcd62fa37440690fa5a4e212b38f2c6d8f9a72490"
   },
   {
-    "map": "B01-Zipfelmuetzchen-4er.map",
-    "mapname": "B01-Zipfelmuetzchen-4er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Zipfelmuetzchen-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Zipfelmuetzchen-4er.png",
-    "mapSize": 1024,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "b6a95ba57973c91482ff4ddd9ff097ea5b8644b19b84bcb14ffd4ad50ba1cd0b"
-  },
-  {
     "map": "B01-Zipfelmuetzchen-6er.map",
     "mapname": "B01-Zipfelmuetzchen-6er",
     "mapfolder": "User",
@@ -1363,6 +1337,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "bf791e685b0871b707786d21a532ea2661710d19875bd94c754b702ba5cab11a"
+  },
+  {
+    "map": "B02-123-Buddel-4er.map",
+    "mapname": "B02-123-Buddel-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-123-Buddel-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-123-Buddel-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "5c7f55ef75d9ae00735f8f30b585290b35b4bba4fefadde01ade16ccbae1f802"
   },
   {
     "map": "B02-4-Isles-2er.map",
@@ -2314,6 +2301,19 @@
     "map_sha256": "b5c04af991401d49268a1ad63b98cf65fee14db2890bf3dd987d2be82757f38f"
   },
   {
+    "map": "B02-Malediven-6er.map",
+    "mapname": "B02-Malediven-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Malediven-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Malediven-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "60d9b4b6cb7c9b5ee5814199b7aed071b5dbad9976266d2f641bdfd7397fe27f"
+  },
+  {
     "map": "B02-Malediven-8er.map",
     "mapname": "B02-Malediven-8er",
     "mapfolder": "User",
@@ -2351,6 +2351,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "6f3b8679231a55837410bf6cd5cdee8605675ce9d8c47bd8415d0da01f84c1f8"
+  },
+  {
+    "map": "B02-Merlin-8er.map",
+    "mapname": "B02-Merlin-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Merlin-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Merlin-8er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "3886bcda1846eb55cd229775ebf387ff1d2109e50c4929c93c412919508e008f"
   },
   {
     "map": "B02-Middlecrash-4er.map",
@@ -2455,6 +2468,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "4b30f895a0fe379808cdb899e1402375ed77fab3fc0f94df2c1ee1f8e7633c93"
+  },
+  {
+    "map": "B02-Nordinsel-Silver-8er.map",
+    "mapname": "B02-Nordinsel-Silver-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Nordinsel-Silver-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Nordinsel-Silver-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "5a4f4b0544a27803abb9392c9ec4d6ef50c3b500cde9b9b86817e2edfe8aadb3"
   },
   {
     "map": "B02-Oasis-4er.map",
@@ -3055,6 +3081,19 @@
     "map_sha256": "4fd36b5ecad545810b48afb63e72803f5e839077accd416d9e54c3fee764c7e6"
   },
   {
+    "map": "B02-Tasmanien-Insel-6er.map",
+    "mapname": "B02-Tasmanien-Insel-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Tasmanien-Insel-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Tasmanien-Insel-6er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "58eac9c2491475e2cfd30365b55f9c8d544d72c36478674bf7c5400cecb1d950"
+  },
+  {
     "map": "B02-Tasmanien-Insel-8er.map",
     "mapname": "B02-Tasmanien-Insel-8er",
     "mapfolder": "User",
@@ -3378,6 +3417,19 @@
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 8,
     "map_sha256": "63be265d66efa29aa70dd00d96e038d0a2093569bdf132ed5065b183000e357c"
+  },
+  {
+    "map": "B02-Zipfelmuetzchen-4er.map",
+    "mapname": "B02-Zipfelmuetzchen-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Zipfelmuetzchen-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Zipfelmuetzchen-4er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "b6a95ba57973c91482ff4ddd9ff097ea5b8644b19b84bcb14ffd4ad50ba1cd0b"
   },
   {
     "map": "B03-J10P6Tiles.map",
