@@ -7904,6 +7904,58 @@
     "map_sha256": "f36542084b32faca708fb52ee50acb9b3777c8d0c8cfdd6ac1968d55357dec75"
   },
   {
+    "map": "M04-FE.-Rundeecken-2er.map",
+    "mapname": "M04-FE.-Rundeecken-2er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Rundeecken-2er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Rundeecken-2er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 2,
+    "map_sha256": "036047f21dd511fe1e02cdc892a58869d30415ca6d9cbbcf1c3fde4f13fdb1c6"
+  },
+  {
+    "map": "M04-FE.-Rundeecken-4er.map",
+    "mapname": "M04-FE.-Rundeecken-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Rundeecken-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Rundeecken-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "313e7a5a93090c664c4ba85edf8457d0c5bf7fedccd33ec5a4191ed3029a9684"
+  },
+  {
+    "map": "M04-FE.-Rundeecken-6er.map",
+    "mapname": "M04-FE.-Rundeecken-6er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Rundeecken-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Rundeecken-6er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "e9d5bfa3c7819b95be209c24bf8d65380d9f34962210a5b71eb687da0c84cf54"
+  },
+  {
+    "map": "M04-FE.-Rundeecken-8er.map",
+    "mapname": "M04-FE.-Rundeecken-8er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Rundeecken-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Rundeecken-8er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "85118925a48c04061e71ef8f938550622d98ca131bafc2cb3e18ebaa416a684b"
+  },
+  {
     "map": "M04-FE.-Tenebrismetzel-2er.map",
     "mapname": "M04-FE.-Tenebrismetzel-2er",
     "mapfolder": "User",
