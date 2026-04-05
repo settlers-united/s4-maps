@@ -78,19 +78,6 @@
     "map_sha256": "5b4162bbe9170c92c57f1e2286f5a85940e28f5a786226c1f075150ab0213f9d"
   },
   {
-    "map": "B01-ARENA-4er.map",
-    "mapname": "B01-ARENA-4er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-ARENA-4er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-ARENA-4er.png",
-    "mapSize": 512,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 4,
-    "map_sha256": "741da197f21c620f0fdf0050838ae7d75566fc880ca4b727cf441d9bdcd6e93f"
-  },
-  {
     "map": "B01-ARENA-6er.map",
     "mapname": "B01-ARENA-6er",
     "mapfolder": "User",
@@ -871,6 +858,19 @@
     "map_sha256": "1319a6424b1164bc7392a2cdb8d41139b93d13c7117dd69323bdfa4bc4b1878f"
   },
   {
+    "map": "B01-Nil-Delta-8er.map",
+    "mapname": "B01-Nil-Delta-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Nil-Delta-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Nil-Delta-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 0,
+    "maxPlayers": 8,
+    "map_sha256": "6d8d0a610b49e6b6ba84292ca954cd255347d66bec77f986953e701a54c0972c"
+  },
+  {
     "map": "B01-Nomen-est-Omen-8er.map",
     "mapname": "B01-Nomen-est-Omen-8er",
     "mapfolder": "User",
@@ -1454,6 +1454,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "456f59e068c29621707546f2565e7616c37b0ea7d09232f5547794c608c7e2b8"
+  },
+  {
+    "map": "B02-ARENA-4er.map",
+    "mapname": "B02-ARENA-4er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-ARENA-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-ARENA-4er.png",
+    "mapSize": 512,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "741da197f21c620f0fdf0050838ae7d75566fc880ca4b727cf441d9bdcd6e93f"
   },
   {
     "map": "B02-Axena-4er.map",
