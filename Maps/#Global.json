@@ -8489,6 +8489,19 @@
     "map_sha256": "a1df80c5ed97174adca595f17dae929fb6fa43a56f73dd58c26f548756bdc138"
   },
   {
+    "map": "MP-Clone-Islands_V1.map",
+    "mapname": "MP-Clone-Islands_V1",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-Clone-Islands_V1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-Clone-Islands_V1.png",
+    "mapSize": 896,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "c0fb78742fee432629cb7344a41ef50037e8861662f76fa985ba6070fe03a950"
+  },
+  {
     "map": "MP-COOP-Verbannt.map",
     "mapname": "MP-COOP-Verbannt",
     "mapfolder": "User",
