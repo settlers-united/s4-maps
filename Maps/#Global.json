@@ -12896,17 +12896,17 @@
     "map_sha256": "e5d9e86b566eea756b6e688705eeb33b9ee6c35ceca411ac164e229b0483942a"
   },
   {
-    "map": "SP-DV-DarkMirror03-V1.5.map",
-    "mapname": "SP-DV-DarkMirror03-V1.5",
+    "map": "SP-DV-DarkMirror03-V1.5.1.map",
+    "mapname": "SP-DV-DarkMirror03-V1.5.1",
     "mapfolder": "Singleplayer",
     "mapgroup": "Singleplayer Dark Tribe Maps",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/SP-DV-DarkMirror03-V1.5.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/SP-DV-DarkMirror03-V1.5.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/SP-DV-DarkMirror03-V1.5.1.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/SP-DV-DarkMirror03-V1.5.1.png",
     "mapSize": 512,
     "defaultGoods": 2,
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 4,
-    "map_sha256": "6e6364e85d4b5891155f4b2fcca20864babbac5535590d292fe640d2ed4e88c4"
+    "map_sha256": "31c664ee1c8f90fc616d7b087c93fc9227d345d8f834770537a37c2f0adb9928"
   },
   {
     "map": "SP-DV-DarkMirror04-V1.5.map",
