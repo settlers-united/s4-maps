@@ -624,17 +624,17 @@
     "map_sha256": "fa1e9f3c30f56bca5bb11d4744a0c1db45024ba3a09e5fc07882e7ce9e1d0939"
   },
   {
-    "map": "B01-Kartoffelbrot-8er.map",
-    "mapname": "B01-Kartoffelbrot-8er",
+    "map": "B01-Kartoffelbrot-Remastered-8er.map",
+    "mapname": "B01-Kartoffelbrot-Remastered-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Kartoffelbrot-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Kartoffelbrot-8er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Kartoffelbrot-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Kartoffelbrot-Remastered-8er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
-    "map_sha256": "e0b0b61fb79fdac2d13882436279a77480f8a15e3477732eca8ceda565d3da45"
+    "map_sha256": "21839d45d26f72e2fa00454a4152a0c55ba9ddf72cc89fb2bb358e2193215231"
   },
   {
     "map": "B01-kleines-Windrad-8er.map",
@@ -1027,12 +1027,12 @@
     "map_sha256": "3dcb9316fbb86655d3e6865ee878d288aa90fbf08ec37af9f0845637de762d09"
   },
   {
-    "map": "B01-ROMA-Remasted-8er.map",
-    "mapname": "B01-ROMA-Remasted-8er",
+    "map": "B01-ROMA-Remastered-8er.map",
+    "mapname": "B01-ROMA-Remastered-8er",
     "mapfolder": "User",
     "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-ROMA-Remasted-8er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-ROMA-Remasted-8er.png",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-ROMA-Remastered-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-ROMA-Remastered-8er.png",
     "mapSize": 1024,
     "defaultGoods": 3,
     "defaultGoodsChangeAllowed": 1,
@@ -2208,6 +2208,19 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 4,
     "map_sha256": "c5adb79ef54b05e38de8fad7dd7eb18edcb412b1b8ac13b44f4874608ad8c639"
+  },
+  {
+    "map": "B02-Kartoffelbrot-8er.map",
+    "mapname": "B02-Kartoffelbrot-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Kartoffelbrot-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Kartoffelbrot-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "e0b0b61fb79fdac2d13882436279a77480f8a15e3477732eca8ceda565d3da45"
   },
   {
     "map": "B02-Keep-Smiling-2er.map",
