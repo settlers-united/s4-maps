@@ -624,6 +624,19 @@
     "map_sha256": "fa1e9f3c30f56bca5bb11d4744a0c1db45024ba3a09e5fc07882e7ce9e1d0939"
   },
   {
+    "map": "B01-Karthago-8er.map",
+    "mapname": "B01-Karthago-8er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Karthago-8er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Karthago-8er.png",
+    "mapSize": 1024,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 8,
+    "map_sha256": "018aee81278c51a35d797edb098b37df806e30316552041aaded2b544e3a1cca"
+  },
+  {
     "map": "B01-Kartoffelbrot-Remastered-8er.map",
     "mapname": "B01-Kartoffelbrot-Remastered-8er",
     "mapfolder": "User",
@@ -648,19 +661,6 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "5f89864b68491ab657bc12ce286ff05a36108838a1955d5786a3b6c76df2e346"
-  },
-  {
-    "map": "B01-Klixus-6er.map",
-    "mapname": "B01-Klixus-6er",
-    "mapfolder": "User",
-    "mapgroup": "BUDDEL MAP PACK 1 (Top 100) (by ramseslein)",
-    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B01-Klixus-6er.map",
-    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B01-Klixus-6er.png",
-    "mapSize": 832,
-    "defaultGoods": 3,
-    "defaultGoodsChangeAllowed": 1,
-    "maxPlayers": 6,
-    "map_sha256": "cc21685ae4927a0d5635f93a5ea7adc3613d2a33b63e1b4bd95fab79eb639e15"
   },
   {
     "map": "B01-Kreuzzug-4er.map",
@@ -2247,6 +2247,19 @@
     "defaultGoodsChangeAllowed": 0,
     "maxPlayers": 6,
     "map_sha256": "cbe5f47e91857e00c5e06d64f8462ef19e7dfabca200c5d39c1dea46a03c1a9a"
+  },
+  {
+    "map": "B02-Klixus-6er.map",
+    "mapname": "B02-Klixus-6er",
+    "mapfolder": "User",
+    "mapgroup": "BUDDEL MAP PACK 2 (by ramseslein)",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/B02-Klixus-6er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/B02-Klixus-6er.png",
+    "mapSize": 832,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 6,
+    "map_sha256": "cc21685ae4927a0d5635f93a5ea7adc3613d2a33b63e1b4bd95fab79eb639e15"
   },
   {
     "map": "B02-Kreuzzug-8er.map",
