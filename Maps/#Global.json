@@ -7696,6 +7696,19 @@
     "map_sha256": "61c185ed0c424fd05a0f05799c9be56edd6a9151eff7771b9efe8480c8bf3a1d"
   },
   {
+    "map": "M04-FE.-Bridgefight-4er.map",
+    "mapname": "M04-FE.-Bridgefight-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Bridgefight-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Bridgefight-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "3683d4baeadcd51b21bb02e96ccd685d747c9d60c71d5b115f116ea2b84cf46e"
+  },
+  {
     "map": "M04-FE.-Decisionmetzel-2er.map",
     "mapname": "M04-FE.-Decisionmetzel-2er",
     "mapfolder": "User",
@@ -7941,6 +7954,32 @@
     "defaultGoodsChangeAllowed": 1,
     "maxPlayers": 8,
     "map_sha256": "f36542084b32faca708fb52ee50acb9b3777c8d0c8cfdd6ac1968d55357dec75"
+  },
+  {
+    "map": "M04-FE.-Rex collis-4er.map",
+    "mapname": "M04-FE.-Rex collis-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Rex collis-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Rex collis-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "3276914464a2bb639383d7a2bd03008f0ea4e416b158f9cdda763280e021f7b0"
+  },
+  {
+    "map": "M04-FE.-Rex collis-XXL-4er.map",
+    "mapname": "M04-FE.-Rex collis-XXL-4er",
+    "mapfolder": "User",
+    "mapgroup": "METZEL MAPS",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/M04-FE.-Rex collis-XXL-4er.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/M04-FE.-Rex collis-XXL-4er.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 4,
+    "map_sha256": "615590ad2c5096c440472726355e8bc05f0085eec1f15fd317289d7a5742a09a"
   },
   {
     "map": "M04-FE.-Rundeecken-2er.map",
