@@ -8697,6 +8697,19 @@
     "map_sha256": "e0bf54ea74ec4e42ce252c382e2d8c3afd9d7cf8013741bec71d50f835c3bd6c"
   },
   {
+    "map": "MP-KeepTheCastle.map",
+    "mapname": "MP-KeepTheCastle",
+    "mapfolder": "User",
+    "mapgroup": "Multiplayer Maps",
+    "map_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/MP-KeepTheCastle.map",
+    "preview_url": "https://raw.githubusercontent.com/settlers-united/s4-maps/main/Maps/Previews/MP-KeepTheCastle.png",
+    "mapSize": 960,
+    "defaultGoods": 3,
+    "defaultGoodsChangeAllowed": 1,
+    "maxPlayers": 5,
+    "map_sha256": "08ca9c4075249b3c5650bf9d222feba8e7b0dc76e79ed6c3e2fa06439489ff1d"
+  },
+  {
     "map": "MP-KoopFjordkontrolle.map",
     "mapname": "MP-KoopFjordkontrolle",
     "mapfolder": "User",
